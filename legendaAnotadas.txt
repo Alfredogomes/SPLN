@@ -1,0 +1,3021 @@
+1 Time ------> 00:01:09,236 --> 00:01:12,780
+2 Text ------> Oh, my God. Christ!
+3
+4 NumS ------> 6
+5 Time ------> 00:01:15,993 --> 00:01:18,661
+6 Text ------> Shit.
+7
+8 NumS ------> 7
+9 Time ------> 00:01:24,918 --> 00:01:27,378
+10 Text ------> Oh, God. Oh, my God.
+11
+12 NumS ------> 8
+13 Time ------> 00:01:27,546 --> 00:01:30,840
+14 Text ------> Oh, my God. Oh, my God.
+15 Text ------> Think, think, think.
+16
+17 NumS ------> 9
+18 Time ------> 00:01:33,844 --> 00:01:35,511
+19 Text ------> Oh, my gosh.
+20
+21 NumS ------> 10
+22 Time ------> 00:02:04,958 --> 00:02:07,210
+23 Text ------> Okay. Come on,
+24 Text ------> come on, come on.
+25
+26 NumS ------> 11
+27 Time ------> 00:02:07,377 --> 00:02:09,212
+28 Text ------> Come on.
+29
+30 NumS ------> 12
+31 Time ------> 00:02:14,051 --> 00:02:16,302
+32 Text ------> My name is
+33 Text ------> Walter Hartwell White.
+34
+35 NumS ------> 13
+36 Time ------> 00:02:16,470 --> 00:02:19,222
+37 Text ------> I live at 308 Negra Arroyo Lane,
+38
+39 NumS ------> 14
+40 Time ------> 00:02:19,389 --> 00:02:21,974
+41 Text ------> Albuquerque, New Mexico, 87104.
+42
+43 NumS ------> 15
+44 Time ------> 00:02:22,142 --> 00:02:23,476
+45 Text ------> To all law-enforcement entities,
+46
+47 NumS ------> 16
+48 Time ------> 00:02:23,644 --> 00:02:26,020
+49 Text ------> this is not an admission
+50 Text ------> of guilt.
+51
+52 NumS ------> 17
+53 Time ------> 00:02:26,188 --> 00:02:29,649
+54 Text ------> I am speaking to my family now.
+55
+56 NumS ------> 18
+57 Time ------> 00:02:35,781 --> 00:02:37,907
+58 Text ------> Skyler.
+59
+60 NumS ------> 19
+61 Time ------> 00:02:38,075 --> 00:02:40,243
+62 Text ------> You are the love of my life.
+63
+64 NumS ------> 20
+65 Time ------> 00:02:40,410 --> 00:02:42,370
+66 Text ------> I hope you know that.
+67
+68 NumS ------> 21
+69 Time ------> 00:02:43,747 --> 00:02:45,915
+70 Text ------> Walter Jr.
+71
+72 NumS ------> 22
+73 Time ------> 00:02:46,083 --> 00:02:48,334
+74 Text ------> You're my big man.
+75
+76 NumS ------> 23
+77 Time ------> 00:02:48,502 --> 00:02:53,089
+78 Text ------> There are... There are going
+79 Text ------> to be some things...
+80
+81 NumS ------> 24
+82 Time ------> 00:02:53,257 --> 00:02:55,925
+83 Text ------> Things that you'll
+84 Text ------> come to learn about me
+85
+86 NumS ------> 25
+87 Time ------> 00:02:56,093 --> 00:02:57,802
+88 Text ------> in the next few days.
+89
+90 NumS ------> 26
+91 Time ------> 00:02:57,970 --> 00:03:03,307
+92 Text ------> I just want you to know
+93 Text ------> that no matter how it may look
+94
+95 NumS ------> 27
+96 Time ------> 00:03:03,475 --> 00:03:06,269
+97 Text ------> I only had you in my heart.
+98
+99 NumS ------> 28
+100 Time ------> 00:03:12,276 --> 00:03:14,485
+101 Text ------> Goodbye.
+102
+103 NumS ------> 29
+104 Time ------> 00:05:13,897 --> 00:05:15,898
+105 Text ------> - Money before the panel
+106 Text ------> earlier this year.
+107
+108 NumS ------> 30
+109 Time ------> 00:05:16,066 --> 00:05:17,566
+110 Text ------> Happy birthday.
+111
+112 NumS ------> 31
+113 Time ------> 00:05:17,734 --> 00:05:19,902
+114 Text ------> Oh.
+115
+116 NumS ------> 32
+117 Time ------> 00:05:20,070 --> 00:05:21,320
+118 Text ------> Look at that.
+119
+120 NumS ------> 33
+121 Time ------> 00:05:22,072 --> 00:05:24,657
+122 Text ------> That is veggie bacon.
+123
+124 NumS ------> 34
+125 Time ------> 00:05:24,825 --> 00:05:26,575
+126 Text ------> Believe it or not.
+127 Text ------> Zero cholesterol
+128
+129 NumS ------> 35
+130 Time ------> 00:05:26,743 --> 00:05:28,661
+131 Text ------> and you won't even
+132 Text ------> taste the difference.
+133
+134 NumS ------> 36
+135 Time ------> 00:05:28,829 --> 00:05:30,079
+136 Text ------> Mm.
+137
+138 NumS ------> 37
+139 Time ------> 00:05:30,247 --> 00:05:31,747
+140 Text ------> What time do you think
+141 Text ------> you'll be home?
+142
+143 NumS ------> 38
+144 Time ------> 00:05:31,915 --> 00:05:32,957
+145 Text ------> Same time.
+146
+147 NumS ------> 39
+148 Time ------> 00:05:33,125 --> 00:05:35,584
+149 Text ------> I don't want him
+150 Text ------> dicking you around tonight.
+151
+152 NumS ------> 40
+153 Time ------> 00:05:35,752 --> 00:05:39,422
+154 Text ------> You get paid till 5,
+155 Text ------> you work till 5. No later.
+156
+157 NumS ------> 41
+158 Time ------> 00:05:39,589 --> 00:05:40,965
+159 Text ------> Aha.
+160
+161 NumS ------> 42
+162 Time ------> 00:05:41,133 --> 00:05:43,259
+163 Text ------> Hey.
+164
+165 NumS ------> 43
+166 Time ------> 00:05:43,427 --> 00:05:45,511
+167 Text ------> Hey, happy birthday.
+168 Text ------> Well, thank you.
+169
+170 NumS ------> 44
+171 Time ------> 00:05:45,679 --> 00:05:47,596
+172 Text ------> You're late again.
+173
+174 NumS ------> 45
+175 Time ------> 00:05:47,764 --> 00:05:50,349
+176 Text ------> There was no hot water again.
+177
+178 NumS ------> 46
+179 Time ------> 00:05:50,517 --> 00:05:52,393
+180 Text ------> I have an easy fix
+181 Text ------> for that.
+182
+183 NumS ------> 47
+184 Time ------> 00:05:52,561 --> 00:05:53,894
+185 Text ------> You wake up early,
+186
+187 NumS ------> 48
+188 Time ------> 00:05:54,062 --> 00:05:57,148
+189 Text ------> and then you get to be the first
+190 Text ------> person in the shower. Hm.
+191
+192 NumS ------> 49
+193 Time ------> 00:05:57,315 --> 00:05:59,025
+194 Text ------> I have an idea.
+195
+196 NumS ------> 50
+197 Time ------> 00:06:00,986 --> 00:06:04,447
+198 Text ------> How about buy
+199 Text ------> a new hot-water heater?
+200
+201 NumS ------> 51
+202 Time ------> 00:06:04,614 --> 00:06:09,201
+203 Text ------> How's that idea?
+204 Text ------> For the million-billionth time.
+205
+206 NumS ------> 52
+207 Time ------> 00:06:11,455 --> 00:06:13,164
+208 Text ------> Did you take your echinacea?
+209
+210 NumS ------> 53
+211 Time ------> 00:06:13,331 --> 00:06:14,373
+212 Text ------> Yeah.
+213
+214 NumS ------> 54
+215 Time ------> 00:06:14,541 --> 00:06:16,459
+216 Text ------> I think it's getting better.
+217
+218 NumS ------> 55
+219 Time ------> 00:06:16,626 --> 00:06:19,128
+220 Text ------> What the hell is this?
+221
+222 NumS ------> 56
+223 Time ------> 00:06:19,296 --> 00:06:20,504
+224 Text ------> - Hey.
+225 Text ------> - It's veggie bacon.
+226
+227 NumS ------> 57
+228 Time ------> 00:06:20,672 --> 00:06:23,632
+229 Text ------> We're watching our cholesterol,
+230 Text ------> I guess.
+231
+232 NumS ------> 58
+233 Time ------> 00:06:23,800 --> 00:06:27,470
+234 Text ------> Not me. I want real bacon.
+235 Text ------> Not this fake crap.
+236
+237 NumS ------> 59
+238 Time ------> 00:06:27,637 --> 00:06:29,305
+239 Text ------> Too bad. Eat it.
+240
+241 NumS ------> 60
+242 Time ------> 00:06:29,473 --> 00:06:32,975
+243 Text ------> Phew.
+244 Text ------> This smells like Band-Aids.
+245
+246 NumS ------> 61
+247 Time ------> 00:06:33,143 --> 00:06:35,019
+248 Text ------> Eat it.
+249
+250 NumS ------> 62
+251 Time ------> 00:06:39,608 --> 00:06:42,359
+252 Text ------> So how does it feel to be old?
+253
+254 NumS ------> 63
+255 Time ------> 00:06:42,527 --> 00:06:44,320
+256 Text ------> How does it feel
+257 Text ------> to be a smart-ass?
+258
+259 NumS ------> 64
+260 Time ------> 00:06:44,488 --> 00:06:46,989
+261 Text ------> Heh. Good.
+262
+263 NumS ------> 65
+264 Time ------> 00:06:48,450 --> 00:06:50,242
+265 Text ------> Eat your veggie bacon.
+266
+267 NumS ------> 66
+268 Time ------> 00:07:09,137 --> 00:07:10,930
+269 Text ------> - You're all set?
+270 Text ------> - Yeah, I'm fine.
+271
+272 NumS ------> 67
+273 Time ------> 00:07:11,098 --> 00:07:13,432
+274 Text ------> All right, see you at home.
+275 Text ------> Okay, see you.
+276
+277 NumS ------> 68
+278 Time ------> 00:07:17,646 --> 00:07:19,438
+279 Text ------> Chemistry.
+280
+281 NumS ------> 69
+282 Time ------> 00:07:19,606 --> 00:07:22,399
+283 Text ------> It is the study of what?
+284
+285 NumS ------> 70
+286 Time ------> 00:07:23,610 --> 00:07:25,152
+287 Text ------> Anyone?
+288
+289 NumS ------> 71
+290 Time ------> 00:07:26,530 --> 00:07:28,906
+291 Text ------> Ben.
+292 Text ------> Chemicals.
+293
+294 NumS ------> 72
+295 Time ------> 00:07:29,074 --> 00:07:30,866
+296 Text ------> Chemicals.
+297
+298 NumS ------> 73
+299 Time ------> 00:07:31,034 --> 00:07:33,452
+300 Text ------> No.
+301
+302 NumS ------> 74
+303 Time ------> 00:07:33,620 --> 00:07:36,080
+304 Text ------> Chemistry is...
+305
+306 NumS ------> 75
+307 Time ------> 00:07:36,248 --> 00:07:41,460
+308 Text ------> Well, technically, chemistry
+309 Text ------> is the study of matter.
+310
+311 NumS ------> 76
+312 Time ------> 00:07:41,628 --> 00:07:44,755
+313 Text ------> But I prefer to see it
+314 Text ------> as the study of change.
+315
+316 NumS ------> 77
+317 Time ------> 00:07:44,923 --> 00:07:47,550
+318 Text ------> Now, just...
+319 Text ------> Just think about this.
+320
+321 NumS ------> 78
+322 Time ------> 00:07:47,717 --> 00:07:49,301
+323 Text ------> Electrons.
+324
+325 NumS ------> 79
+326 Time ------> 00:07:49,469 --> 00:07:51,554
+327 Text ------> They
+328
+329 NumS ------> 80
+330 Time ------> 00:07:51,721 --> 00:07:53,222
+331 Text ------> change their energy levels.
+332
+333 NumS ------> 81
+334 Time ------> 00:07:53,390 --> 00:07:55,266
+335 Text ------> Molecules.
+336
+337 NumS ------> 82
+338 Time ------> 00:07:55,433 --> 00:07:58,686
+339 Text ------> Molecules change their bonds.
+340
+341 NumS ------> 83
+342 Time ------> 00:07:58,854 --> 00:08:03,607
+343 Text ------> Elements. They combine
+344 Text ------> and change into compounds.
+345
+346 NumS ------> 84
+347 Time ------> 00:08:03,775 --> 00:08:06,443
+348 Text ------> Well, that's...
+349 Text ------> That's all of life, right?
+350
+351 NumS ------> 85
+352 Time ------> 00:08:06,611 --> 00:08:09,238
+353 Text ------> I mean, it's just...
+354 Text ------> It's the constant, it's the cycle.
+355
+356 NumS ------> 86
+357 Time ------> 00:08:09,406 --> 00:08:14,243
+358 Text ------> It's solution, dissolution,
+359 Text ------> just over and over and over.
+360
+361 NumS ------> 87
+362 Time ------> 00:08:14,411 --> 00:08:16,829
+363 Text ------> It is growth, then decay,
+364
+365 NumS ------> 88
+366 Time ------> 00:08:16,997 --> 00:08:19,373
+367 Text ------> then transformation.
+368
+369 NumS ------> 89
+370 Time ------> 00:08:21,751 --> 00:08:25,254
+371 Text ------> It is fascinating, really.
+372
+373 NumS ------> 90
+374 Time ------> 00:08:30,594 --> 00:08:31,760
+375 Text ------> Chad.
+376
+377 NumS ------> 91
+378 Time ------> 00:08:33,638 --> 00:08:36,098
+379 Text ------> Is there something wrong
+380 Text ------> with your table?
+381
+382 NumS ------> 92
+383 Time ------> 00:08:38,268 --> 00:08:40,477
+384 Text ------> Okay, ionic bonds.
+385
+386 NumS ------> 93
+387 Time ------> 00:08:50,614 --> 00:08:52,656
+388 Text ------> Are you done?
+389
+390 NumS ------> 94
+391 Time ------> 00:08:54,784 --> 00:08:58,495
+392 Text ------> Ionic bonds. Chapter six.
+393
+394 NumS ------> 95
+395 Time ------> 00:09:09,883 --> 00:09:12,343
+396 Text ------> One, two, three makes 10,
+397 Text ------> and 10 makes 20.
+398
+399 NumS ------> 96
+400 Time ------> 00:09:12,510 --> 00:09:13,719
+401 Text ------> There's your receipt.
+402
+403 NumS ------> 97
+404 Time ------> 00:09:13,887 --> 00:09:16,305
+405 Text ------> Just hand this claiming disc
+406 Text ------> to your car-wash professional.
+407
+408 NumS ------> 98
+409 Time ------> 00:09:16,473 --> 00:09:19,266
+410 Text ------> Thank you. Come again.
+411
+412 NumS ------> 99
+413 Time ------> 00:09:29,986 --> 00:09:33,656
+414 Text ------> He's not coming.
+415 Text ------> He says he quits.
+416
+417 NumS ------> 100
+418 Time ------> 00:09:33,823 --> 00:09:35,407
+419 Text ------> I'm gonna run the register.
+420
+421 NumS ------> 101
+422 Time ------> 00:09:35,575 --> 00:09:38,327
+423 Text ------> Bogdan, no.
+424 Text ------> We talked about this.
+425
+426 NumS ------> 102
+427 Time ------> 00:09:38,495 --> 00:09:41,080
+428 Text ------> I'm short-handed, Walter.
+429 Text ------> What am I to do?
+430
+431 NumS ------> 103
+432 Time ------> 00:09:43,792 --> 00:09:46,001
+433 Text ------> Walter?
+434
+435 NumS ------> 104
+436 Time ------> 00:09:46,920 --> 00:09:48,879
+437 Text ------> What am I to do?
+438
+439 NumS ------> 105
+440 Time ------> 00:10:08,608 --> 00:10:12,027
+441 Text ------> Hey, Mr. White.
+442
+443 NumS ------> 106
+444 Time ------> 00:10:12,195 --> 00:10:13,904
+445 Text ------> Make those tires shine, huh?
+446
+447 NumS ------> 107
+448 Time ------> 00:10:14,072 --> 00:10:16,031
+449 Text ------> Oh, my God.
+450
+451 NumS ------> 108
+452 Time ------> 00:10:16,199 --> 00:10:18,784
+453 Text ------> You will not believe
+454 Text ------> who's cleaning Chad's car.
+455
+456 NumS ------> 109
+457 Time ------> 00:10:18,952 --> 00:10:20,828
+458 Text ------> Mr. White.
+459
+460 NumS ------> 110
+461 Time ------> 00:10:20,996 --> 00:10:22,288
+462 Text ------> From chemistry.
+463
+464 NumS ------> 111
+465 Time ------> 00:10:42,058 --> 00:10:44,560
+466 Text ------> Surprise!
+467
+468 NumS ------> 112
+469 Time ------> 00:10:44,728 --> 00:10:46,145
+470 Text ------> Happy birthday, Dad.
+471
+472 NumS ------> 113
+473 Time ------> 00:10:46,313 --> 00:10:48,564
+474 Text ------> - Happy birthday.
+475 Text ------> - Happy birthday.
+476
+477 NumS ------> 114
+478 Time ------> 00:10:49,649 --> 00:10:53,485
+479 Text ------> Oh, you're so very late.
+480
+481 NumS ------> 115
+482 Time ------> 00:10:53,653 --> 00:10:55,321
+483 Text ------> Really, I'm serious, Skyler.
+484
+485 NumS ------> 116
+486 Time ------> 00:10:55,488 --> 00:10:57,614
+487 Text ------> I mean, you're flat
+488 Text ------> as a washboard.
+489
+490 NumS ------> 117
+491 Time ------> 00:10:57,782 --> 00:11:00,326
+492 Text ------> Oh.
+493 Text ------> You look awesome.
+494
+495 NumS ------> 118
+496 Time ------> 00:11:00,493 --> 00:11:02,369
+497 Text ------> She's not showing at all,
+498 Text ------> is she?
+499
+500 NumS ------> 119
+501 Time ------> 00:11:02,537 --> 00:11:04,413
+502 Text ------> She's showing a little.
+503
+504 NumS ------> 120
+505 Time ------> 00:11:05,498 --> 00:11:08,250
+506 Text ------> Carmen, this is my sister,
+507 Text ------> Marie.
+508
+509 NumS ------> 121
+510 Time ------> 00:11:08,418 --> 00:11:10,502
+511 Text ------> Nice to meet you.
+512 Text ------> Hi.
+513
+514 NumS ------> 122
+515 Time ------> 00:11:11,713 --> 00:11:14,631
+516 Text ------> Glock 22,
+517 Text ------> that's my daily carry, okay?
+518
+519 NumS ------> 123
+520 Time ------> 00:11:14,799 --> 00:11:17,634
+521 Text ------> I mean, unless you're talking,
+522 Text ------> what, Plus P Plus loads,
+523
+524 NumS ------> 124
+525 Time ------> 00:11:17,802 --> 00:11:19,428
+526 Text ------> you can forget the 9 mil,
+527 Text ------> all right?
+528
+529 NumS ------> 125
+530 Time ------> 00:11:19,596 --> 00:11:22,431
+531 Text ------> Shit, I seen
+532 Text ------> one of those bounce
+533 Text ------> off a windshield one time.
+534
+535 NumS ------> 126
+536 Time ------> 00:11:22,599 --> 00:11:23,932
+537 Text ------> Yeah, with you shooting.
+538 Text ------> Hey.
+539
+540 NumS ------> 127
+541 Time ------> 00:11:25,352 --> 00:11:26,602
+542 Text ------> If you're gonna bring a gun,
+543 Text ------> baby,
+544
+545 NumS ------> 128
+546 Time ------> 00:11:26,770 --> 00:11:28,145
+547 Text ------> you gotta bring enough gun.
+548
+549 NumS ------> 129
+550 Time ------> 00:11:28,313 --> 00:11:29,355
+551 Text ------> Forty caliber.
+552
+553 NumS ------> 130
+554 Time ------> 00:11:29,522 --> 00:11:30,939
+555 Text ------> Uh...
+556
+557 NumS ------> 131
+558 Time ------> 00:11:31,107 --> 00:11:32,691
+559 Text ------> This is awesome.
+560 Text ------> Nice, isn't it?
+561
+562 NumS ------> 132
+563 Time ------> 00:11:32,859 --> 00:11:35,652
+564 Text ------> Yeah. Dad,
+565 Text ------> come check this out.
+566
+567 NumS ------> 133
+568 Time ------> 00:11:35,820 --> 00:11:36,862
+569 Text ------> Yeah, I see it.
+570
+571 NumS ------> 134
+572 Time ------> 00:11:37,030 --> 00:11:39,448
+573 Text ------> - Come on, take it.
+574 Text ------> - Yeah. Check it out, Walt.
+575
+576 NumS ------> 135
+577 Time ------> 00:11:39,616 --> 00:11:41,200
+578 Text ------> Ooh.
+579
+580 NumS ------> 136
+581 Time ------> 00:11:41,368 --> 00:11:43,077
+582 Text ------> No, no, it's just heavy.
+583
+584 NumS ------> 137
+585 Time ------> 00:11:43,244 --> 00:11:44,453
+586 Text ------> That's why they hire men.
+587
+588 NumS ------> 138
+589 Time ------> 00:11:46,581 --> 00:11:48,040
+590 Text ------> Hey, it's not gonna bite you.
+591
+592 NumS ------> 139
+593 Time ------> 00:11:48,208 --> 00:11:50,918
+594 Text ------> Looks like Keith Richards with a
+595 Text ------> glass of warm milk, doesn't he?
+596
+597 NumS ------> 140
+598 Time ------> 00:11:53,254 --> 00:11:55,798
+599 Text ------> Hey, Walt.
+600 Text ------> Everybody, listen up,
+601 Text ------> listen up, listen up.
+602
+603 NumS ------> 141
+604 Time ------> 00:11:55,965 --> 00:11:57,007
+605 Text ------> I'm gonna give a toast,
+606
+607 NumS ------> 142
+608 Time ------> 00:11:57,175 --> 00:11:59,760
+609 Text ------> a little toast
+610 Text ------> to my brother-in-law.
+611 Text ------> Come here.
+612
+613 NumS ------> 143
+614 Time ------> 00:11:59,928 --> 00:12:04,139
+615 Text ------> Walt, you got a brain
+616 Text ------> the size of Wisconsin
+617
+618 NumS ------> 144
+619 Time ------> 00:12:04,307 --> 00:12:06,058
+620 Text ------> but we're not gonna hold that
+621 Text ------> against you.
+622
+623 NumS ------> 145
+624 Time ------> 00:12:07,644 --> 00:12:09,436
+625 Text ------> But your heart's
+626 Text ------> in the right place, man.
+627
+628 NumS ------> 146
+629 Time ------> 00:12:09,604 --> 00:12:12,147
+630 Text ------> Your heart's in the right place.
+631 Text ------> We love you, man. We love you.
+632
+633 NumS ------> 147
+634 Time ------> 00:12:12,315 --> 00:12:13,857
+635 Text ------> Everybody, to Walt.
+636
+637 NumS ------> 148
+638 Time ------> 00:12:19,948 --> 00:12:22,157
+639 Text ------> Oh, shit. Turn on channel three.
+640
+641 NumS ------> 149
+642 Time ------> 00:12:23,785 --> 00:12:25,828
+643 Text ------> At which point, we apprehended
+644 Text ------> three individuals
+645
+646 NumS ------> 150
+647 Time ------> 00:12:25,995 --> 00:12:27,955
+648 Text ------> and placed them into custody.
+649
+650 NumS ------> 151
+651 Time ------> 00:12:28,123 --> 00:12:30,666
+652 Text ------> I'm proud to say
+653 Text ------> the outstanding professionalism
+654
+655 NumS ------> 152
+656 Time ------> 00:12:30,834 --> 00:12:34,169
+657 Text ------> of my fellow agents at the
+658 Text ------> Albuquerque District Office
+659
+660 NumS ------> 153
+661 Time ------> 00:12:34,337 --> 00:12:37,005
+662 Text ------> resulted in a substantial
+663 Text ------> amount of methamphetamine
+664
+665 NumS ------> 154
+666 Time ------> 00:12:37,173 --> 00:12:38,674
+667 Text ------> being taken off the streets.
+668
+669 NumS ------> 155
+670 Time ------> 00:12:38,842 --> 00:12:40,634
+671 Text ------> - Were any shots fired?
+672 Text ------> - No, ma'am.
+673
+674 NumS ------> 156
+675 Time ------> 00:12:40,802 --> 00:12:42,469
+676 Text ------> Our agents took the suspects
+677 Text ------> by surprise.
+678
+679 NumS ------> 157
+680 Time ------> 00:12:42,637 --> 00:12:45,556
+681 Text ------> Damn. The TV does add 10 pounds.
+682
+683 NumS ------> 158
+684 Time ------> 00:12:45,723 --> 00:12:47,057
+685 Text ------> Ten pounds?
+686
+687 NumS ------> 159
+688 Time ------> 00:12:47,225 --> 00:12:49,852
+689 Text ------> Hey, sit and spin, both of you.
+690
+691 NumS ------> 160
+692 Time ------> 00:12:50,019 --> 00:12:52,521
+693 Text ------> Hank.
+694 Text ------> What?
+695
+696 NumS ------> 161
+697 Time ------> 00:12:52,689 --> 00:12:54,982
+698 Text ------> Sorry. You didn't see that.
+699
+700 NumS ------> 162
+701 Time ------> 00:12:55,150 --> 00:12:56,650
+702 Text ------> So charming.
+703
+704 NumS ------> 163
+705 Time ------> 00:12:56,818 --> 00:13:00,362
+706 Text ------> - Clearly an ongoing operation.
+707 Text ------> - One which was well-organized...
+708
+709 NumS ------> 164
+710 Time ------> 00:13:00,530 --> 00:13:02,948
+711 Text ------> - Hank, how much money is that?
+712 Text ------> - It's about 700 grand.
+713
+714 NumS ------> 165
+715 Time ------> 00:13:03,116 --> 00:13:04,533
+716 Text ------> It was a pretty good haul.
+717
+718 NumS ------> 166
+719 Time ------> 00:13:04,701 --> 00:13:06,785
+720 Text ------> As I say, it's a good day
+721 Text ------> for the citizens of Albuquerque
+722
+723 NumS ------> 167
+724 Time ------> 00:13:06,953 --> 00:13:08,203
+725 Text ------> Wow.
+726
+727 NumS ------> 168
+728 Time ------> 00:13:08,371 --> 00:13:11,081
+729 Text ------> When we can put this big a dent
+730 Text ------> in the local drug trade.
+731
+732 NumS ------> 169
+733 Time ------> 00:13:11,249 --> 00:13:14,334
+734 Text ------> Well, that's unusual, isn't it?
+735 Text ------> That kind of cash?
+736
+737 NumS ------> 170
+738 Time ------> 00:13:14,502 --> 00:13:16,420
+739 Text ------> Mm. Well, it's not the most
+740 Text ------> we ever took.
+741
+742 NumS ------> 171
+743 Time ------> 00:13:16,588 --> 00:13:18,881
+744 Text ------> It's easy money,
+745 Text ------> till we catch you.
+746
+747 NumS ------> 172
+748 Time ------> 00:13:19,048 --> 00:13:20,382
+749 Text ------> Heh-heh.
+750
+751 NumS ------> 173
+752 Time ------> 00:13:20,550 --> 00:13:22,885
+753 Text ------> Walt, just say the word and
+754 Text ------> I'll take you on a ride-along.
+755
+756 NumS ------> 174
+757 Time ------> 00:13:23,052 --> 00:13:25,220
+758 Text ------> You can watch us
+759 Text ------> knock down a meth lab,
+760 Text ------> huh?
+761
+762 NumS ------> 175
+763 Time ------> 00:13:25,388 --> 00:13:27,890
+764 Text ------> Get a little excitement
+765 Text ------> in your life.
+766
+767 NumS ------> 176
+768 Time ------> 00:13:28,057 --> 00:13:30,809
+769 Text ------> Yeah, someday.
+770
+771 NumS ------> 177
+772 Time ------> 00:13:39,486 --> 00:13:41,320
+773 Text ------> Which one's this?
+774
+775 NumS ------> 178
+776 Time ------> 00:13:41,488 --> 00:13:44,573
+777 Text ------> Um, that faux-Lalique vase
+778 Text ------> I picked up at the Super-Swap.
+779
+780 NumS ------> 179
+781 Time ------> 00:13:44,741 --> 00:13:46,325
+782 Text ------> Oh.
+783
+784 NumS ------> 180
+785 Time ------> 00:13:50,497 --> 00:13:51,788
+786 Text ------> How's it doing?
+787
+788 NumS ------> 181
+789 Time ------> 00:13:51,956 --> 00:13:55,250
+790 Text ------> Well, I met my reserve
+791 Text ------> and there's still two minutes.
+792
+793 NumS ------> 182
+794 Time ------> 00:13:55,418 --> 00:13:57,377
+795 Text ------> Oh.
+796
+797 NumS ------> 183
+798 Time ------> 00:14:03,134 --> 00:14:04,968
+799 Text ------> What's up?
+800
+801 NumS ------> 184
+802 Time ------> 00:14:05,136 --> 00:14:07,429
+803 Text ------> You tell me, birthday boy.
+804
+805 NumS ------> 185
+806 Time ------> 00:14:10,016 --> 00:14:12,226
+807 Text ------> Oh, hey, so, what's up
+808 Text ------> for Saturday?
+809
+810 NumS ------> 186
+811 Time ------> 00:14:12,393 --> 00:14:16,355
+812 Text ------> Mm. Car wash.
+813 Text ------> Bogdan says he needs me.
+814
+815 NumS ------> 187
+816 Time ------> 00:14:16,523 --> 00:14:18,023
+817 Text ------> Till what time?
+818 Text ------> Noon, 1 -ish?
+819
+820 NumS ------> 188
+821 Time ------> 00:14:18,191 --> 00:14:20,859
+822 Text ------> Probably 2, more like it.
+823
+824 NumS ------> 189
+825 Time ------> 00:14:21,027 --> 00:14:23,946
+826 Text ------> And then what after that?
+827
+828 NumS ------> 190
+829 Time ------> 00:14:24,113 --> 00:14:27,282
+830 Text ------> Um, actually,
+831
+832 NumS ------> 191
+833 Time ------> 00:14:27,450 --> 00:14:30,285
+834 Text ------> ahem,
+835 Text ------> I was thinking of driving
+836 Text ------> up to Los Alamos.
+837
+838 NumS ------> 192
+839 Time ------> 00:14:30,453 --> 00:14:31,870
+840 Text ------> They've got this...
+841
+842 NumS ------> 193
+843 Time ------> 00:14:32,038 --> 00:14:33,455
+844 Text ------> The visitor center
+845 Text ------> has an exhibit on
+846
+847 NumS ------> 194
+848 Time ------> 00:14:33,623 --> 00:14:35,958
+849 Text ------> that's really supposed to be...
+850
+851 NumS ------> 195
+852 Time ------> 00:14:36,125 --> 00:14:39,294
+853 Text ------> You're not gonna paint?
+854 Text ------> No, I'll paint.
+855
+856 NumS ------> 196
+857 Time ------> 00:14:39,462 --> 00:14:41,964
+858 Text ------> It's just that this...
+859
+860 NumS ------> 197
+861 Time ------> 00:14:42,131 --> 00:14:43,590
+862 Text ------> You know, this exhibition
+863
+864 NumS ------> 198
+865 Time ------> 00:14:43,758 --> 00:14:47,719
+866 Text ------> on the Mars-rover
+867 Text ------> photographs are...
+868
+869 NumS ------> 199
+870 Time ------> 00:14:47,887 --> 00:14:51,139
+871 Text ------> I mean, the detail really is
+872 Text ------> just supposed to be amazing.
+873
+874 NumS ------> 200
+875 Time ------> 00:14:51,307 --> 00:14:53,976
+876 Text ------> It's just that I really need you
+877 Text ------> to paint at some point.
+878
+879 NumS ------> 201
+880 Time ------> 00:14:54,143 --> 00:14:56,103
+881 Text ------> The sooner that back bedroom
+882 Text ------> gets finished...
+883
+884 NumS ------> 202
+885 Time ------> 00:14:56,271 --> 00:14:57,521
+886 Text ------> I know.
+887
+888 NumS ------> 203
+889 Time ------> 00:14:57,689 --> 00:15:00,816
+890 Text ------> And I'd do it myself, except
+891 Text ------> you said you don't want me
+892 Text ------> standing on the stepladder.
+893
+894 NumS ------> 204
+895 Time ------> 00:15:00,984 --> 00:15:03,318
+896 Text ------> I will paint.
+897 Text ------> Okay.
+898
+899 NumS ------> 205
+900 Time ------> 00:15:06,322 --> 00:15:09,324
+901 Text ------> What is going on down there?
+902 Text ------> No, it's...
+903
+904 NumS ------> 206
+905 Time ------> 00:15:09,492 --> 00:15:11,118
+906 Text ------> Is he asleep?
+907
+908 NumS ------> 207
+909 Time ------> 00:15:11,286 --> 00:15:12,703
+910 Text ------> No, it's...
+911
+912 NumS ------> 208
+913 Time ------> 00:15:12,870 --> 00:15:15,497
+914 Text ------> No, it's nothing. He's just...
+915
+916 NumS ------> 209
+917 Time ------> 00:15:15,665 --> 00:15:18,834
+918 Text ------> You know. Well, you gotta be
+919 Text ------> careful about the baby and...
+920
+921 NumS ------> 210
+922 Time ------> 00:15:19,002 --> 00:15:22,254
+923 Text ------> Well, don't worry about
+924 Text ------> the baby. This is just for you.
+925
+926 NumS ------> 211
+927 Time ------> 00:15:22,422 --> 00:15:26,717
+928 Text ------> We are just doing you tonight.
+929
+930 NumS ------> 212
+931 Time ------> 00:15:26,884 --> 00:15:29,928
+932 Text ------> So just close your eyes,
+933
+934 NumS ------> 213
+935 Time ------> 00:15:30,096 --> 00:15:32,723
+936 Text ------> relax, and let it...
+937
+938 NumS ------> 214
+939 Time ------> 00:15:35,518 --> 00:15:38,353
+940 Text ------> Close your eyes.
+941 Text ------> Oh, okay.
+942
+943 NumS ------> 215
+944 Time ------> 00:15:38,521 --> 00:15:40,230
+945 Text ------> Okay.
+946
+947 NumS ------> 216
+948 Time ------> 00:15:41,733 --> 00:15:43,692
+949 Text ------> There you go.
+950
+951 NumS ------> 217
+952 Time ------> 00:15:43,860 --> 00:15:48,030
+953 Text ------> That's it.
+954
+955 NumS ------> 218
+956 Time ------> 00:15:48,197 --> 00:15:50,866
+957 Text ------> There you go.
+958
+959 NumS ------> 219
+960 Time ------> 00:15:51,034 --> 00:15:58,874
+961 Text ------> Keep it going.
+962
+963 NumS ------> 220
+964 Time ------> 00:15:59,042 --> 00:16:03,795
+965 Text ------> Keep... Yes! Fifty-six. Oh.
+966
+967 NumS ------> 221
+968 Time ------> 00:16:53,930 --> 00:16:57,391
+969 Text ------> This is so embarrassing.
+970 Text ------> I am fine, honestly.
+971
+972 NumS ------> 222
+973 Time ------> 00:16:57,558 --> 00:16:59,935
+974 Text ------> It's just some bug going around.
+975
+976 NumS ------> 223
+977 Time ------> 00:17:00,103 --> 00:17:02,521
+978 Text ------> First, my wife had it,
+979 Text ------> then my son, and now me.
+980
+981 NumS ------> 224
+982 Time ------> 00:17:02,689 --> 00:17:06,942
+983 Text ------> It's just...
+984 Text ------> It's just like a chest cold.
+985
+986 NumS ------> 225
+987 Time ------> 00:17:07,110 --> 00:17:08,568
+988 Text ------> Could be some low
+989 Text ------> blood sugar as well.
+990
+991 NumS ------> 226
+992 Time ------> 00:17:08,736 --> 00:17:10,821
+993 Text ------> I didn't have the greatest
+994 Text ------> breakfast this morning.
+995
+996 NumS ------> 227
+997 Time ------> 00:17:10,988 --> 00:17:12,489
+998 Text ------> Honestly, I didn't.
+999
+1000 NumS ------> 228
+1001 Time ------> 00:17:12,657 --> 00:17:15,617
+1002 Text ------> Hey, listen, can you do me
+1003 Text ------> a favor? Can you just, uh,
+1004
+1005 NumS ------> 229
+1006 Time ------> 00:17:15,785 --> 00:17:17,869
+1007 Text ------> drop me off at a corner
+1008 Text ------> somewhere?
+1009
+1010 NumS ------> 230
+1011 Time ------> 00:17:18,037 --> 00:17:21,164
+1012 Text ------> Uh, no, sorry.
+1013
+1014 NumS ------> 231
+1015 Time ------> 00:17:21,791 --> 00:17:24,292
+1016 Text ------> It's just that I don't have
+1017 Text ------> the greatest insurance.
+1018
+1019 NumS ------> 232
+1020 Time ------> 00:17:24,460 --> 00:17:26,336
+1021 Text ------> Take a couple of deep breaths
+1022 Text ------> for me.
+1023
+1024 NumS ------> 233
+1025 Time ------> 00:17:32,760 --> 00:17:35,137
+1026 Text ------> Is there anybody
+1027 Text ------> you want us to contact for you?
+1028
+1029 NumS ------> 234
+1030 Time ------> 00:17:35,304 --> 00:17:37,556
+1031 Text ------> Ha. No. God, no.
+1032
+1033 NumS ------> 235
+1034 Time ------> 00:17:37,724 --> 00:17:39,975
+1035 Text ------> Lean forward for me,
+1036 Text ------> would you?
+1037
+1038 NumS ------> 236
+1039 Time ------> 00:17:42,687 --> 00:17:44,604
+1040 Text ------> Mr. White, are you a smoker?
+1041
+1042 NumS ------> 237
+1043 Time ------> 00:17:44,772 --> 00:17:47,357
+1044 Text ------> No, never.
+1045
+1046 NumS ------> 238
+1047 Time ------> 00:17:49,068 --> 00:17:50,485
+1048 Text ------> Why do you ask?
+1049
+1050 NumS ------> 239
+1051 Time ------> 00:18:30,151 --> 00:18:32,694
+1052 Text ------> Mr. White?
+1053
+1054 NumS ------> 240
+1055 Time ------> 00:18:32,862 --> 00:18:34,696
+1056 Text ------> Mr. White?
+1057
+1058 NumS ------> 241
+1059 Time ------> 00:18:35,865 --> 00:18:37,199
+1060 Text ------> Yes?
+1061
+1062 NumS ------> 242
+1063 Time ------> 00:18:38,326 --> 00:18:40,494
+1064 Text ------> You understood
+1065 Text ------> what I've just said to you?
+1066
+1067 NumS ------> 243
+1068 Time ------> 00:18:40,661 --> 00:18:42,704
+1069 Text ------> Yes.
+1070
+1071 NumS ------> 244
+1072 Time ------> 00:18:42,872 --> 00:18:45,624
+1073 Text ------> Lung cancer. Inoperable.
+1074
+1075 NumS ------> 245
+1076 Time ------> 00:18:47,418 --> 00:18:49,920
+1077 Text ------> I'm sorry.
+1078 Text ------> I just need to make sure
+1079
+1080 NumS ------> 246
+1081 Time ------> 00:18:50,087 --> 00:18:52,881
+1082 Text ------> you fully understand.
+1083
+1084 NumS ------> 247
+1085 Time ------> 00:18:53,049 --> 00:18:55,550
+1086 Text ------> Best-case scenario, with chemo,
+1087
+1088 NumS ------> 248
+1089 Time ------> 00:18:55,718 --> 00:18:58,970
+1090 Text ------> I'll live maybe another
+1091 Text ------> couple years.
+1092
+1093 NumS ------> 249
+1094 Time ------> 00:19:00,515 --> 00:19:02,432
+1095 Text ------> It's just
+1096
+1097 NumS ------> 250
+1098 Time ------> 00:19:02,600 --> 00:19:05,310
+1099 Text ------> you've got mustard on your...
+1100
+1101 NumS ------> 251
+1102 Time ------> 00:19:06,854 --> 00:19:09,773
+1103 Text ------> Right there.
+1104 Text ------> You got mustard there.
+1105
+1106 NumS ------> 252
+1107 Time ------> 00:19:09,941 --> 00:19:11,483
+1108 Text ------> Right there.
+1109
+1110 NumS ------> 253
+1111 Time ------> 00:19:20,576 --> 00:19:22,577
+1112 Text ------> So my records show
+1113 Text ------> that I paid it
+1114
+1115 NumS ------> 254
+1116 Time ------> 00:19:22,745 --> 00:19:25,789
+1117 Text ------> and I certainly don't feel
+1118 Text ------> that we owe any late...
+1119
+1120 NumS ------> 255
+1121 Time ------> 00:19:25,957 --> 00:19:27,582
+1122 Text ------> Yeah, all right. Um...
+1123
+1124 NumS ------> 256
+1125 Time ------> 00:19:27,750 --> 00:19:31,127
+1126 Text ------> Well, I'll check with the bank
+1127 Text ------> and maybe the post office
+1128
+1129 NumS ------> 257
+1130 Time ------> 00:19:31,295 --> 00:19:33,588
+1131 Text ------> if they lost it or something.
+1132
+1133 NumS ------> 258
+1134 Time ------> 00:19:33,756 --> 00:19:36,800
+1135 Text ------> Yeah, let me look into that.
+1136 Text ------> Okay.
+1137
+1138 NumS ------> 259
+1139 Time ------> 00:19:36,968 --> 00:19:38,176
+1140 Text ------> Thank you.
+1141
+1142 NumS ------> 260
+1143 Time ------> 00:19:41,097 --> 00:19:44,516
+1144 Text ------> Hey.
+1145
+1146 NumS ------> 261
+1147 Time ------> 00:19:44,684 --> 00:19:46,935
+1148 Text ------> Um,
+1149
+1150 NumS ------> 262
+1151 Time ------> 00:19:47,103 --> 00:19:49,729
+1152 Text ------> did you use the MasterCard
+1153 Text ------> last month?
+1154
+1155 NumS ------> 263
+1156 Time ------> 00:19:49,897 --> 00:19:53,608
+1157 Text ------> Uh,
+1158 Text ------> fifteen eighty-eight at Staples?
+1159
+1160 NumS ------> 264
+1161 Time ------> 00:19:57,363 --> 00:20:01,575
+1162 Text ------> Um... Oh, we needed
+1163 Text ------> printer paper.
+1164
+1165 NumS ------> 265
+1166 Time ------> 00:20:01,742 --> 00:20:05,745
+1167 Text ------> Walt, the MasterCard's
+1168 Text ------> the one we don't use.
+1169
+1170 NumS ------> 266
+1171 Time ------> 00:20:05,913 --> 00:20:08,206
+1172 Text ------> Okay.
+1173
+1174 NumS ------> 267
+1175 Time ------> 00:20:08,374 --> 00:20:11,376
+1176 Text ------> So how was your day?
+1177
+1178 NumS ------> 268
+1179 Time ------> 00:20:12,587 --> 00:20:14,379
+1180 Text ------> Oh, you know.
+1181
+1182 NumS ------> 269
+1183 Time ------> 00:20:15,506 --> 00:20:17,632
+1184 Text ------> I don't know. It was, um,
+1185
+1186 NumS ------> 270
+1187 Time ------> 00:20:20,136 --> 00:20:21,636
+1188 Text ------> fine.
+1189
+1190 NumS ------> 271
+1191 Time ------> 00:20:48,748 --> 00:20:51,207
+1192 Text ------> Hey, Walter.
+1193
+1194 NumS ------> 272
+1195 Time ------> 00:20:51,375 --> 00:20:52,834
+1196 Text ------> Walter.
+1197
+1198 NumS ------> 273
+1199 Time ------> 00:20:53,002 --> 00:20:55,086
+1200 Text ------> Walter. Tomorrow night
+1201 Text ------> I'm shorthanded.
+1202
+1203 NumS ------> 274
+1204 Time ------> 00:20:55,254 --> 00:20:56,796
+1205 Text ------> I need you outside
+1206 Text ------> to do wipe downs.
+1207
+1208 NumS ------> 275
+1209 Time ------> 00:20:56,964 --> 00:20:58,089
+1210 Text ------> Come on.
+1211 Text ------> What?
+1212
+1213 NumS ------> 276
+1214 Time ------> 00:20:58,257 --> 00:21:00,258
+1215 Text ------> I said I need you outside
+1216 Text ------> to do some wipe downs.
+1217
+1218 NumS ------> 277
+1219 Time ------> 00:21:00,426 --> 00:21:02,719
+1220 Text ------> Are you here to work,
+1221 Text ------> or to be staring at the skies?
+1222
+1223 NumS ------> 278
+1224 Time ------> 00:21:02,887 --> 00:21:04,763
+1225 Text ------> Come on. Let's go.
+1226
+1227 NumS ------> 279
+1228 Time ------> 00:21:06,599 --> 00:21:08,183
+1229 Text ------> Come on, man.
+1230
+1231 NumS ------> 280
+1232 Time ------> 00:21:08,351 --> 00:21:09,851
+1233 Text ------> Fuck you, Bogdan.
+1234
+1235 NumS ------> 281
+1236 Time ------> 00:21:10,019 --> 00:21:11,102
+1237 Text ------> What?
+1238
+1239 NumS ------> 282
+1240 Time ------> 00:21:11,270 --> 00:21:13,897
+1241 Text ------> I said, "fuck you."
+1242 Text ------> And your eyebrows.
+1243
+1244 NumS ------> 283
+1245 Time ------> 00:21:18,527 --> 00:21:20,445
+1246 Text ------> Wipe down this!
+1247
+1248 NumS ------> 284
+1249 Time ------> 00:22:20,256 --> 00:22:21,589
+1250 Text ------> Yo.
+1251
+1252 NumS ------> 285
+1253 Time ------> 00:22:21,757 --> 00:22:25,051
+1254 Text ------> Uh, Hank?
+1255 Text ------> Hank, it's Walt. Hey.
+1256
+1257 NumS ------> 286
+1258 Time ------> 00:22:25,219 --> 00:22:27,762
+1259 Text ------> Oh, listen. I didn't wake you,
+1260 Text ------> did I?
+1261
+1262 NumS ------> 287
+1263 Time ------> 00:22:27,930 --> 00:22:30,265
+1264 Text ------> Oh, good, good.
+1265
+1266 NumS ------> 288
+1267 Time ------> 00:22:30,433 --> 00:22:34,060
+1268 Text ------> Oh, no, no.
+1269 Text ------> Nothing's wrong. I just...
+1270
+1271 NumS ------> 289
+1272 Time ------> 00:22:34,228 --> 00:22:36,896
+1273 Text ------> I've been, uh, thinking about
+1274 Text ------> that offer
+1275
+1276 NumS ------> 290
+1277 Time ------> 00:22:37,064 --> 00:22:40,233
+1278 Text ------> of that ride-along.
+1279
+1280 NumS ------> 291
+1281 Time ------> 00:22:40,401 --> 00:22:42,902
+1282 Text ------> It's the last house
+1283 Text ------> on the right. See it?
+1284
+1285 NumS ------> 292
+1286 Time ------> 00:22:43,070 --> 00:22:44,988
+1287 Text ------> Not the two-story one,
+1288 Text ------> the one next to it.
+1289
+1290 NumS ------> 293
+1291 Time ------> 00:22:45,156 --> 00:22:47,657
+1292 Text ------> Kind of, uh, I don't know
+1293 Text ------> what do you call that? Um,
+1294
+1295 NumS ------> 294
+1296 Time ------> 00:22:47,825 --> 00:22:48,867
+1297 Text ------> green?
+1298
+1299 NumS ------> 295
+1300 Time ------> 00:22:49,035 --> 00:22:51,202
+1301 Text ------> Sage.
+1302
+1303 NumS ------> 296
+1304 Time ------> 00:22:51,370 --> 00:22:52,662
+1305 Text ------> "Sage?"
+1306
+1307 NumS ------> 297
+1308 Time ------> 00:22:52,830 --> 00:22:55,123
+1309 Text ------> Do you work at the
+1310 Text ------> fucking Pottery Barn?
+1311 Text ------> Jesus.
+1312
+1313 NumS ------> 298
+1314 Time ------> 00:22:55,291 --> 00:22:57,500
+1315 Text ------> Sage.
+1316 Text ------> That's the word for it.
+1317
+1318 NumS ------> 299
+1319 Time ------> 00:22:57,668 --> 00:23:00,628
+1320 Text ------> My fault the only word
+1321 Text ------> your dumb ass knows
+1322 Text ------> is "green"?
+1323
+1324 NumS ------> 300
+1325 Time ------> 00:23:00,796 --> 00:23:04,340
+1326 Text ------> "Cheese-dick."
+1327 Text ------> I know that one.
+1328 Text ------> How about that?
+1329
+1330 NumS ------> 301
+1331 Time ------> 00:23:04,508 --> 00:23:06,968
+1332 Text ------> Anyway, it's the, um,
+1333 Text ------> sage one. See it?
+1334
+1335 NumS ------> 302
+1336 Time ------> 00:23:07,136 --> 00:23:09,512
+1337 Text ------> So, what tells you
+1338 Text ------> it's a meth lab?
+1339
+1340 NumS ------> 303
+1341 Time ------> 00:23:09,680 --> 00:23:10,722
+1342 Text ------> Just our snitch.
+1343
+1344 NumS ------> 304
+1345 Time ------> 00:23:10,890 --> 00:23:13,975
+1346 Text ------> Says some dude who
+1347 Text ------> goes by "Cap'n Cook"
+1348
+1349 NumS ------> 305
+1350 Time ------> 00:23:14,143 --> 00:23:15,810
+1351 Text ------> lives up to his name in there.
+1352
+1353 NumS ------> 306
+1354 Time ------> 00:23:15,978 --> 00:23:20,023
+1355 Text ------> Says he always adds
+1356 Text ------> a dash of chili
+1357 Text ------> powder. Heh-heh.
+1358
+1359 NumS ------> 307
+1360 Time ------> 00:23:20,191 --> 00:23:22,442
+1361 Text ------> Ah, you exuberant Mexicans.
+1362
+1363 NumS ------> 308
+1364 Time ------> 00:23:22,610 --> 00:23:25,528
+1365 Text ------> Uh-uh. "Cap'n Cook?"
+1366 Text ------> That's a white boy's name.
+1367
+1368 NumS ------> 309
+1369 Time ------> 00:23:25,696 --> 00:23:26,821
+1370 Text ------> Dopey as hell too.
+1371
+1372 NumS ------> 310
+1373 Time ------> 00:23:26,989 --> 00:23:28,990
+1374 Text ------> Yeah? I'll tell you what.
+1375
+1376 NumS ------> 311
+1377 Time ------> 00:23:29,158 --> 00:23:31,326
+1378 Text ------> I got you 20 bucks
+1379 Text ------> that says he's a beaner.
+1380
+1381 NumS ------> 312
+1382 Time ------> 00:23:31,494 --> 00:23:34,329
+1383 Text ------> All right.
+1384 Text ------> You're on.
+1385
+1386 NumS ------> 313
+1387 Time ------> 00:23:35,998 --> 00:23:38,583
+1388 Text ------> All right. Come on,
+1389 Text ------> come on, come on.
+1390
+1391 NumS ------> 314
+1392 Time ------> 00:23:42,505 --> 00:23:44,714
+1393 Text ------> All right. School bus is clear.
+1394 Text ------> You got the green light.
+1395
+1396 NumS ------> 315
+1397 Time ------> 00:23:44,882 --> 00:23:46,466
+1398 Text ------> Copy that.
+1399
+1400 NumS ------> 316
+1401 Time ------> 00:23:53,808 --> 00:23:55,725
+1402 Text ------> Watch this. Makes them shit.
+1403
+1404 NumS ------> 317
+1405 Time ------> 00:24:00,022 --> 00:24:01,523
+1406 Text ------> Go, go, go, go!
+1407
+1408 NumS ------> 318
+1409 Time ------> 00:24:12,201 --> 00:24:13,910
+1410 Text ------> Meth labs are nasty
+1411 Text ------> on a good day.
+1412
+1413 NumS ------> 319
+1414 Time ------> 00:24:14,078 --> 00:24:16,371
+1415 Text ------> You mix that shit wrong
+1416 Text ------> and you got mustard gas.
+1417
+1418 NumS ------> 320
+1419 Time ------> 00:24:16,539 --> 00:24:19,207
+1420 Text ------> Phosphine gas.
+1421
+1422 NumS ------> 321
+1423 Time ------> 00:24:19,375 --> 00:24:21,584
+1424 Text ------> I think.
+1425 Text ------> Yeah, exactly.
+1426
+1427 NumS ------> 322
+1428 Time ------> 00:24:21,752 --> 00:24:24,379
+1429 Text ------> One whiff will kill you.
+1430 Text ------> That's why the respirators.
+1431
+1432 NumS ------> 323
+1433 Time ------> 00:25:12,595 --> 00:25:15,013
+1434 Text ------> - House is clear.
+1435 Text ------> - One suspect in custody.
+1436
+1437 NumS ------> 324
+1438 Time ------> 00:25:15,181 --> 00:25:17,599
+1439 Text ------> Copy that.
+1440 Text ------> The suspect,
+1441
+1442 NumS ------> 325
+1443 Time ------> 00:25:17,766 --> 00:25:19,934
+1444 Text ------> might he be of
+1445 Text ------> the Latino persuasion?
+1446
+1447 NumS ------> 326
+1448 Time ------> 00:25:20,102 --> 00:25:22,937
+1449 Text ------> Driver's license says
+1450 Text ------> "Emilio Koyama."
+1451
+1452 NumS ------> 327
+1453 Time ------> 00:25:23,105 --> 00:25:24,772
+1454 Text ------> Asian. Pay up, sucker.
+1455
+1456 NumS ------> 328
+1457 Time ------> 00:25:24,940 --> 00:25:27,609
+1458 Text ------> Hey, hey. First name, Emilio.
+1459
+1460 NumS ------> 329
+1461 Time ------> 00:25:27,776 --> 00:25:29,444
+1462 Text ------> That's at least half a beaner.
+1463
+1464 NumS ------> 330
+1465 Time ------> 00:25:29,612 --> 00:25:31,571
+1466 Text ------> Tell you what,
+1467 Text ------> I'll let you off for a 10.
+1468
+1469 NumS ------> 331
+1470 Time ------> 00:25:31,739 --> 00:25:33,781
+1471 Text ------> Whoa. Heh, heh.
+1472
+1473 NumS ------> 332
+1474 Time ------> 00:25:33,949 --> 00:25:35,116
+1475 Text ------> Cheer up, Gomey.
+1476
+1477 NumS ------> 333
+1478 Time ------> 00:25:35,284 --> 00:25:37,535
+1479 Text ------> You people still got J. Lo.
+1480 Text ------> Hank.
+1481
+1482 NumS ------> 334
+1483 Time ------> 00:25:38,454 --> 00:25:40,622
+1484 Text ------> Do you think I might
+1485 Text ------> get to go inside?
+1486
+1487 NumS ------> 335
+1488 Time ------> 00:25:40,789 --> 00:25:42,749
+1489 Text ------> See the actual lab?
+1490
+1491 NumS ------> 336
+1492 Time ------> 00:25:43,792 --> 00:25:45,793
+1493 Text ------> Uh,
+1494
+1495 NumS ------> 337
+1496 Time ------> 00:25:45,961 --> 00:25:47,128
+1497 Text ------> yeah.
+1498
+1499 NumS ------> 338
+1500 Time ------> 00:25:47,296 --> 00:25:49,881
+1501 Text ------> Yeah, I'll tell you what,
+1502 Text ------> we're gonna go peek
+1503 Text ------> our heads in
+1504
+1505 NumS ------> 339
+1506 Time ------> 00:25:50,049 --> 00:25:52,050
+1507 Text ------> check it out first.
+1508
+1509 NumS ------> 340
+1510 Time ------> 00:25:52,218 --> 00:25:54,928
+1511 Text ------> Stay here a minute.
+1512 Text ------> Let's go, Frank.
+1513
+1514 NumS ------> 341
+1515 Time ------> 00:26:14,865 --> 00:26:16,324
+1516 Text ------> Oh, God.
+1517
+1518 NumS ------> 342
+1519 Time ------> 00:26:24,250 --> 00:26:25,917
+1520 Text ------> Oh, God.
+1521
+1522 NumS ------> 343
+1523 Time ------> 00:26:33,342 --> 00:26:34,759
+1524 Text ------> Oh, my God.
+1525
+1526 NumS ------> 344
+1527 Time ------> 00:26:36,387 --> 00:26:37,679
+1528 Text ------> Pinkman?
+1529
+1530 NumS ------> 345
+1531 Time ------> 00:27:34,445 --> 00:27:38,031
+1532 Text ------> Hey. Uh, it's me.
+1533 Text ------> I'm alone.
+1534
+1535 NumS ------> 346
+1536 Time ------> 00:27:44,747 --> 00:27:45,913
+1537 Text ------> How'd you find me?
+1538
+1539 NumS ------> 347
+1540 Time ------> 00:27:46,081 --> 00:27:48,916
+1541 Text ------> You're still
+1542 Text ------> in our filing system.
+1543
+1544 NumS ------> 348
+1545 Time ------> 00:27:52,004 --> 00:27:55,256
+1546 Text ------> So your... Your aunt
+1547 Text ------> owns this place, right?
+1548
+1549 NumS ------> 349
+1550 Time ------> 00:27:55,424 --> 00:27:56,674
+1551 Text ------> I own it.
+1552
+1553 NumS ------> 350
+1554 Time ------> 00:28:00,095 --> 00:28:01,804
+1555 Text ------> Look, no one's looking for you.
+1556
+1557 NumS ------> 351
+1558 Time ------> 00:28:01,972 --> 00:28:04,098
+1559 Text ------> Why are you here?
+1560
+1561 NumS ------> 352
+1562 Time ------> 00:28:04,266 --> 00:28:06,184
+1563 Text ------> I was curious.
+1564
+1565 NumS ------> 353
+1566 Time ------> 00:28:06,352 --> 00:28:09,937
+1567 Text ------> Honestly, I never expected
+1568 Text ------> you to amount to much...
+1569
+1570 NumS ------> 354
+1571 Time ------> 00:28:10,105 --> 00:28:12,231
+1572 Text ------> but methamphetamine?
+1573
+1574 NumS ------> 355
+1575 Time ------> 00:28:12,399 --> 00:28:13,649
+1576 Text ------> L...
+1577
+1578 NumS ------> 356
+1579 Time ------> 00:28:13,817 --> 00:28:15,902
+1580 Text ------> I didn't picture that.
+1581
+1582 NumS ------> 357
+1583 Time ------> 00:28:17,237 --> 00:28:18,863
+1584 Text ------> There's a lot of money in it,
+1585 Text ------> huh?
+1586
+1587 NumS ------> 358
+1588 Time ------> 00:28:19,031 --> 00:28:20,823
+1589 Text ------> I don't know what you're
+1590 Text ------> talking about.
+1591
+1592 NumS ------> 359
+1593 Time ------> 00:28:20,991 --> 00:28:22,825
+1594 Text ------> No?
+1595 Text ------> Not a clue.
+1596
+1597 NumS ------> 360
+1598 Time ------> 00:28:24,787 --> 00:28:26,954
+1599 Text ------> Cap'n Cook?
+1600
+1601 NumS ------> 361
+1602 Time ------> 00:28:27,122 --> 00:28:28,956
+1603 Text ------> That's not you?
+1604
+1605 NumS ------> 362
+1606 Time ------> 00:28:34,880 --> 00:28:37,298
+1607 Text ------> Like I said,
+1608 Text ------> no one is looking for you.
+1609
+1610 NumS ------> 363
+1611 Time ------> 00:28:37,466 --> 00:28:39,550
+1612 Text ------> Look, I don't know what
+1613 Text ------> you think you're doing here,
+1614
+1615 NumS ------> 364
+1616 Time ------> 00:28:39,718 --> 00:28:41,135
+1617 Text ------> Mr. White.
+1618
+1619 NumS ------> 365
+1620 Time ------> 00:28:41,303 --> 00:28:43,513
+1621 Text ------> I mean, if you're planning
+1622 Text ------> on giving me some
+1623
+1624 NumS ------> 366
+1625 Time ------> 00:28:43,680 --> 00:28:47,141
+1626 Text ------> bull-winder about getting right
+1627 Text ------> with Jesus or turning myself in.
+1628
+1629 NumS ------> 367
+1630 Time ------> 00:28:47,309 --> 00:28:50,186
+1631 Text ------> Not really.
+1632 Text ------> High school was a long time ago.
+1633
+1634 NumS ------> 368
+1635 Time ------> 00:28:50,354 --> 00:28:54,857
+1636 Text ------> You ain't Welcome Back, Kotter,
+1637 Text ------> so step off. No speeches.
+1638
+1639 NumS ------> 369
+1640 Time ------> 00:28:55,025 --> 00:28:56,984
+1641 Text ------> Short speech.
+1642
+1643 NumS ------> 370
+1644 Time ------> 00:28:57,152 --> 00:29:00,405
+1645 Text ------> You lost your partner today.
+1646 Text ------> What's-his-name.
+1647
+1648 NumS ------> 371
+1649 Time ------> 00:29:01,532 --> 00:29:04,325
+1650 Text ------> Emilio?
+1651
+1652 NumS ------> 372
+1653 Time ------> 00:29:04,493 --> 00:29:06,661
+1654 Text ------> Emilio is going to prison.
+1655
+1656 NumS ------> 373
+1657 Time ------> 00:29:07,955 --> 00:29:11,791
+1658 Text ------> The DEA took all
+1659 Text ------> your money, your lab.
+1660
+1661 NumS ------> 374
+1662 Time ------> 00:29:12,960 --> 00:29:14,669
+1663 Text ------> You've got nothing.
+1664
+1665 NumS ------> 375
+1666 Time ------> 00:29:14,837 --> 00:29:17,046
+1667 Text ------> Square one.
+1668
+1669 NumS ------> 376
+1670 Time ------> 00:29:17,214 --> 00:29:19,340
+1671 Text ------> But you know the business
+1672
+1673 NumS ------> 377
+1674 Time ------> 00:29:20,259 --> 00:29:22,677
+1675 Text ------> and I know the chemistry.
+1676
+1677 NumS ------> 378
+1678 Time ------> 00:29:25,639 --> 00:29:28,015
+1679 Text ------> I'm thinking
+1680
+1681 NumS ------> 379
+1682 Time ------> 00:29:28,183 --> 00:29:30,393
+1683 Text ------> maybe you and I
+1684 Text ------> could partner up.
+1685
+1686 NumS ------> 380
+1687 Time ------> 00:29:41,697 --> 00:29:45,533
+1688 Text ------> You, uh...
+1689 Text ------> You wanna cook crystal meth?
+1690
+1691 NumS ------> 381
+1692 Time ------> 00:29:46,660 --> 00:29:48,119
+1693 Text ------> You.
+1694
+1695 NumS ------> 382
+1696 Time ------> 00:29:48,287 --> 00:29:51,789
+1697 Text ------> You and, uh...
+1698 Text ------> And me.
+1699
+1700 NumS ------> 383
+1701 Time ------> 00:29:51,957 --> 00:29:53,541
+1702 Text ------> That's right.
+1703
+1704 NumS ------> 384
+1705 Time ------> 00:29:55,043 --> 00:29:56,085
+1706 Text ------> Wow.
+1707
+1708 NumS ------> 385
+1709 Time ------> 00:29:56,253 --> 00:29:58,045
+1710 Text ------> Either that,
+1711
+1712 NumS ------> 386
+1713 Time ------> 00:29:58,213 --> 00:30:00,715
+1714 Text ------> or I turn you in.
+1715
+1716 NumS ------> 387
+1717 Time ------> 00:30:10,392 --> 00:30:12,351
+1718 Text ------> What the hell is this?
+1719
+1720 NumS ------> 388
+1721 Time ------> 00:30:12,519 --> 00:30:13,561
+1722 Text ------> Damned if I know.
+1723
+1724 NumS ------> 389
+1725 Time ------> 00:30:13,729 --> 00:30:15,897
+1726 Text ------> I described it
+1727 Text ------> as mosaic folk art.
+1728
+1729 NumS ------> 390
+1730 Time ------> 00:30:16,064 --> 00:30:17,273
+1731 Text ------> And somebody bought it?
+1732
+1733 NumS ------> 391
+1734 Time ------> 00:30:17,441 --> 00:30:18,733
+1735 Text ------> Yeah, some guy in Minneapolis.
+1736
+1737 NumS ------> 392
+1738 Time ------> 00:30:18,901 --> 00:30:21,319
+1739 Text ------> Fourteen dollars plus shipping.
+1740 Text ------> Yes.
+1741
+1742 NumS ------> 393
+1743 Time ------> 00:30:21,487 --> 00:30:24,572
+1744 Text ------> At this rate,
+1745 Text ------> in 50 or 60 years
+1746 Text ------> you'll be rich.
+1747
+1748 NumS ------> 394
+1749 Time ------> 00:30:25,574 --> 00:30:27,116
+1750 Text ------> So how goes the novel?
+1751
+1752 NumS ------> 395
+1753 Time ------> 00:30:27,284 --> 00:30:29,744
+1754 Text ------> It's not a novel, actually,
+1755 Text ------> which l...
+1756
+1757 NumS ------> 396
+1758 Time ------> 00:30:29,912 --> 00:30:31,454
+1759 Text ------> You're not writing a novel?
+1760
+1761 NumS ------> 397
+1762 Time ------> 00:30:31,622 --> 00:30:33,748
+1763 Text ------> You told me you were.
+1764 Text ------> No. Short stories.
+1765
+1766 NumS ------> 398
+1767 Time ------> 00:30:33,916 --> 00:30:36,459
+1768 Text ------> I said that if eventually
+1769 Text ------> I have enough good ones,
+1770
+1771 NumS ------> 399
+1772 Time ------> 00:30:36,627 --> 00:30:38,377
+1773 Text ------> that maybe I'll try
+1774
+1775 NumS ------> 400
+1776 Time ------> 00:30:39,421 --> 00:30:41,130
+1777 Text ------> and publish another collection.
+1778
+1779 NumS ------> 401
+1780 Time ------> 00:30:41,298 --> 00:30:43,841
+1781 Text ------> Those really didn't sell.
+1782
+1783 NumS ------> 402
+1784 Time ------> 00:30:44,009 --> 00:30:47,929
+1785 Text ------> I just thought a novel
+1786 Text ------> would be easier to sell.
+1787
+1788 NumS ------> 403
+1789 Time ------> 00:30:48,096 --> 00:30:51,140
+1790 Text ------> Yeah, well, maybe so.
+1791
+1792 NumS ------> 404
+1793 Time ------> 00:30:51,308 --> 00:30:54,101
+1794 Text ------> Ever want me
+1795 Text ------> to read anything,
+1796 Text ------> I could critique it for you.
+1797
+1798 NumS ------> 405
+1799 Time ------> 00:30:54,269 --> 00:30:56,354
+1800 Text ------> Oh.
+1801
+1802 NumS ------> 406
+1803 Time ------> 00:30:56,522 --> 00:30:57,980
+1804 Text ------> No.
+1805
+1806 NumS ------> 407
+1807 Time ------> 00:30:59,566 --> 00:31:03,861
+1808 Text ------> I mean, I'm just not
+1809 Text ------> at that stage where I...
+1810
+1811 NumS ------> 408
+1812 Time ------> 00:31:04,029 --> 00:31:05,071
+1813 Text ------> No.
+1814
+1815 NumS ------> 409
+1816 Time ------> 00:31:05,239 --> 00:31:08,658
+1817 Text ------> Open offer.
+1818
+1819 NumS ------> 410
+1820 Time ------> 00:31:08,825 --> 00:31:10,326
+1821 Text ------> So, what's up with Walt lately?
+1822
+1823 NumS ------> 411
+1824 Time ------> 00:31:10,494 --> 00:31:12,370
+1825 Text ------> What do you mean?
+1826 Text ------> He's fine.
+1827
+1828 NumS ------> 412
+1829 Time ------> 00:31:12,538 --> 00:31:14,455
+1830 Text ------> He just seems,
+1831
+1832 NumS ------> 413
+1833 Time ------> 00:31:14,623 --> 00:31:16,541
+1834 Text ------> I don't know.
+1835 Text ------> Quieter than usual.
+1836
+1837 NumS ------> 414
+1838 Time ------> 00:31:16,708 --> 00:31:19,293
+1839 Text ------> Well, turning 50 is a big deal.
+1840
+1841 NumS ------> 415
+1842 Time ------> 00:31:19,461 --> 00:31:23,172
+1843 Text ------> I mean, I'm sure as hell
+1844 Text ------> not looking forward to 40.
+1845
+1846 NumS ------> 416
+1847 Time ------> 00:31:24,591 --> 00:31:26,968
+1848 Text ------> You're gonna be a
+1849 Text ------> complete basket-case.
+1850
+1851 NumS ------> 417
+1852 Time ------> 00:31:31,306 --> 00:31:32,473
+1853 Text ------> So it's a mid-life crisis.
+1854
+1855 NumS ------> 418
+1856 Time ------> 00:31:32,641 --> 00:31:34,976
+1857 Text ------> No. He's just quiet.
+1858
+1859 NumS ------> 419
+1860 Time ------> 00:31:35,852 --> 00:31:36,894
+1861 Text ------> How's the sex?
+1862
+1863 NumS ------> 420
+1864 Time ------> 00:31:37,062 --> 00:31:39,105
+1865 Text ------> Marie, Jesus.
+1866
+1867 NumS ------> 421
+1868 Time ------> 00:31:39,273 --> 00:31:40,982
+1869 Text ------> I guess that answers that.
+1870
+1871 NumS ------> 422
+1872 Time ------> 00:32:23,609 --> 00:32:25,026
+1873 Text ------> You just gonna sit there?
+1874
+1875 NumS ------> 423
+1876 Time ------> 00:32:33,368 --> 00:32:35,745
+1877 Text ------> Look at this. Look at this.
+1878
+1879 NumS ------> 424
+1880 Time ------> 00:32:35,912 --> 00:32:40,583
+1881 Text ------> Kjeldahl-style recovery flask,
+1882 Text ------> 800 milliliters. Very rare.
+1883
+1884 NumS ------> 425
+1885 Time ------> 00:32:40,751 --> 00:32:43,544
+1886 Text ------> You got your usual
+1887 Text ------> paraphernalia,
+1888 Text ------> Griffin beakers,
+1889
+1890 NumS ------> 426
+1891 Time ------> 00:32:43,712 --> 00:32:47,673
+1892 Text ------> there's your Erlenmeyer flask.
+1893 Text ------> Butthe pièce de résistance,
+1894
+1895 NumS ------> 427
+1896 Time ------> 00:32:47,841 --> 00:32:53,054
+1897 Text ------> a round bottom boiling flask,
+1898 Text ------> 5000 milliliters. Huh?
+1899
+1900 NumS ------> 428
+1901 Time ------> 00:32:55,390 --> 00:32:58,392
+1902 Text ------> I cook in one of those.
+1903 Text ------> A big one.
+1904
+1905 NumS ------> 429
+1906 Time ------> 00:32:59,728 --> 00:33:01,854
+1907 Text ------> One of these?
+1908
+1909 NumS ------> 430
+1910 Time ------> 00:33:02,022 --> 00:33:03,564
+1911 Text ------> No, this is a
+1912 Text ------> volumetric flask.
+1913
+1914 NumS ------> 431
+1915 Time ------> 00:33:03,732 --> 00:33:05,232
+1916 Text ------> You wouldn't cook
+1917 Text ------> in one of these.
+1918
+1919 NumS ------> 432
+1920 Time ------> 00:33:05,400 --> 00:33:06,817
+1921 Text ------> Uh, yeah. I do.
+1922
+1923 NumS ------> 433
+1924 Time ------> 00:33:06,985 --> 00:33:08,444
+1925 Text ------> Uh, no, you don't.
+1926
+1927 NumS ------> 434
+1928 Time ------> 00:33:08,612 --> 00:33:12,490
+1929 Text ------> A volumetric flask is for
+1930 Text ------> general mixing and titration.
+1931
+1932 NumS ------> 435
+1933 Time ------> 00:33:12,658 --> 00:33:15,493
+1934 Text ------> You wouldn't apply heat
+1935 Text ------> to a volumetric flask.
+1936
+1937 NumS ------> 436
+1938 Time ------> 00:33:15,661 --> 00:33:17,578
+1939 Text ------> That's what a boiling flask
+1940 Text ------> is for.
+1941
+1942 NumS ------> 437
+1943 Time ------> 00:33:17,746 --> 00:33:20,081
+1944 Text ------> Did you learn nothing
+1945 Text ------> from my chemistry class?
+1946
+1947 NumS ------> 438
+1948 Time ------> 00:33:20,248 --> 00:33:23,334
+1949 Text ------> No. You flunked me, remember?
+1950
+1951 NumS ------> 439
+1952 Time ------> 00:33:23,502 --> 00:33:25,795
+1953 Text ------> No wonder.
+1954 Text ------> Prick.
+1955
+1956 NumS ------> 440
+1957 Time ------> 00:33:25,962 --> 00:33:29,465
+1958 Text ------> And let me tell you
+1959 Text ------> something else.
+1960 Text ------> This ain't chemistry.
+1961
+1962 NumS ------> 441
+1963 Time ------> 00:33:29,633 --> 00:33:31,634
+1964 Text ------> Okay, this is art.
+1965 Text ------> Oh, ha.
+1966
+1967 NumS ------> 442
+1968 Time ------> 00:33:31,802 --> 00:33:33,427
+1969 Text ------> Cooking is art,
+1970
+1971 NumS ------> 443
+1972 Time ------> 00:33:33,595 --> 00:33:36,722
+1973 Text ------> and shit I cook is the bomb,
+1974 Text ------> so don't be telling me.
+1975
+1976 NumS ------> 444
+1977 Time ------> 00:33:36,890 --> 00:33:39,350
+1978 Text ------> Shit you cook is shit.
+1979 Text ------> The shit.
+1980
+1981 NumS ------> 445
+1982 Time ------> 00:33:39,518 --> 00:33:41,602
+1983 Text ------> I saw your setup. Ridiculous.
+1984
+1985 NumS ------> 446
+1986 Time ------> 00:33:41,770 --> 00:33:44,438
+1987 Text ------> You and I will not
+1988 Text ------> make garbage.
+1989
+1990 NumS ------> 447
+1991 Time ------> 00:33:44,606 --> 00:33:47,358
+1992 Text ------> We will produce
+1993 Text ------> a chemically pure
+1994 Text ------> and stable product
+1995
+1996 NumS ------> 448
+1997 Time ------> 00:33:47,526 --> 00:33:49,777
+1998 Text ------> that performs as advertised.
+1999 Text ------> No adulterants.
+2000
+2001 NumS ------> 449
+2002 Time ------> 00:33:49,945 --> 00:33:51,487
+2003 Text ------> No baby formula.
+2004 Text ------> No chili powder.
+2005
+2006 NumS ------> 450
+2007 Time ------> 00:33:51,655 --> 00:33:53,781
+2008 Text ------> No, no. Chili P's my signature.
+2009
+2010 NumS ------> 451
+2011 Time ------> 00:33:53,949 --> 00:33:55,282
+2012 Text ------> Not anymore.
+2013
+2014 NumS ------> 452
+2015 Time ------> 00:33:56,368 --> 00:33:59,370
+2016 Text ------> Yeah, well,
+2017 Text ------> we'll see about that.
+2018
+2019 NumS ------> 453
+2020 Time ------> 00:33:59,538 --> 00:34:00,621
+2021 Text ------> What the hell is this?
+2022
+2023 NumS ------> 454
+2024 Time ------> 00:34:00,789 --> 00:34:02,456
+2025 Text ------> Lab safety equipment.
+2026
+2027 NumS ------> 455
+2028 Time ------> 00:34:02,624 --> 00:34:05,751
+2029 Text ------> We're also gonna have
+2030 Text ------> an emergency eye wash station.
+2031
+2032 NumS ------> 456
+2033 Time ------> 00:34:05,919 --> 00:34:08,546
+2034 Text ------> These chemicals and
+2035 Text ------> their fumes are toxic.
+2036
+2037 NumS ------> 457
+2038 Time ------> 00:34:08,714 --> 00:34:10,381
+2039 Text ------> In case you didn't know that.
+2040
+2041 NumS ------> 458
+2042 Time ------> 00:34:10,549 --> 00:34:13,843
+2043 Text ------> Well, you can dress up like
+2044 Text ------> a faggot if you want. Not me.
+2045
+2046 NumS ------> 459
+2047 Time ------> 00:34:18,974 --> 00:34:21,642
+2048 Text ------> Listen, this stuff
+2049
+2050 NumS ------> 460
+2051 Time ------> 00:34:21,810 --> 00:34:24,061
+2052 Text ------> doesn't stay more than a day.
+2053
+2054 NumS ------> 461
+2055 Time ------> 00:34:24,229 --> 00:34:25,938
+2056 Text ------> What?
+2057 Text ------> I thought we were
+2058 Text ------> gonna cook here.
+2059
+2060 NumS ------> 462
+2061 Time ------> 00:34:26,106 --> 00:34:27,481
+2062 Text ------> No, we're not
+2063 Text ------> gonna cook here.
+2064
+2065 NumS ------> 463
+2066 Time ------> 00:34:27,649 --> 00:34:30,651
+2067 Text ------> Okay, this is my house.
+2068 Text ------> I don't shit where I eat.
+2069
+2070 NumS ------> 464
+2071 Time ------> 00:34:30,819 --> 00:34:32,403
+2072 Text ------> Well, then where
+2073 Text ------> are we gonna work?
+2074
+2075 NumS ------> 465
+2076 Time ------> 00:34:32,571 --> 00:34:35,322
+2077 Text ------> You tell me.
+2078 Text ------> This is your deal, man.
+2079
+2080 NumS ------> 466
+2081 Time ------> 00:34:35,490 --> 00:34:37,491
+2082 Text ------> You wanna smoke it up,
+2083 Text ------> smoke it up at your house.
+2084
+2085 NumS ------> 467
+2086 Time ------> 00:34:37,659 --> 00:34:41,996
+2087 Text ------> No, I didn't think so.
+2088 Text ------> Oh, well.
+2089
+2090 NumS ------> 468
+2091 Time ------> 00:34:43,498 --> 00:34:45,499
+2092 Text ------> Well,
+2093
+2094 NumS ------> 469
+2095 Time ------> 00:34:45,667 --> 00:34:49,003
+2096 Text ------> what if we rented one of those
+2097 Text ------> self-storage places?
+2098
+2099 NumS ------> 470
+2100 Time ------> 00:34:49,171 --> 00:34:52,006
+2101 Text ------> You know,
+2102 Text ------> those little orange garages?
+2103 Text ------> Worked out of there?
+2104
+2105 NumS ------> 471
+2106 Time ------> 00:34:52,174 --> 00:34:56,093
+2107 Text ------> No, they're onto that.
+2108 Text ------> They've got dogs
+2109 Text ------> that sniff around.
+2110
+2111 NumS ------> 472
+2112 Time ------> 00:34:57,679 --> 00:35:00,723
+2113 Text ------> RV, that's what you want.
+2114
+2115 NumS ------> 473
+2116 Time ------> 00:35:01,600 --> 00:35:03,350
+2117 Text ------> What, like a Winnebago?
+2118
+2119 NumS ------> 474
+2120 Time ------> 00:35:05,520 --> 00:35:07,104
+2121 Text ------> Yeah.
+2122
+2123 NumS ------> 475
+2124 Time ------> 00:35:08,690 --> 00:35:11,192
+2125 Text ------> I know a dude
+2126 Text ------> who wants to sell his.
+2127
+2128 NumS ------> 476
+2129 Time ------> 00:35:11,359 --> 00:35:13,444
+2130 Text ------> He just goes camping with it.
+2131
+2132 NumS ------> 477
+2133 Time ------> 00:35:13,612 --> 00:35:16,030
+2134 Text ------> But a mobile meth lab?
+2135 Text ------> That'd be the bomb.
+2136
+2137 NumS ------> 478
+2138 Time ------> 00:35:16,198 --> 00:35:20,034
+2139 Text ------> I mean, you can drive
+2140 Text ------> way out in the boonies.
+2141
+2142 NumS ------> 479
+2143 Time ------> 00:35:20,202 --> 00:35:21,744
+2144 Text ------> Be all evasive.
+2145
+2146 NumS ------> 480
+2147 Time ------> 00:35:48,939 --> 00:35:51,357
+2148 Text ------> Dude, this isn't even
+2149 Text ------> seven grand, all right?
+2150
+2151 NumS ------> 481
+2152 Time ------> 00:35:51,525 --> 00:35:52,733
+2153 Text ------> My guy wants 85.
+2154
+2155 NumS ------> 482
+2156 Time ------> 00:35:52,901 --> 00:35:55,903
+2157 Text ------> This is all the money
+2158 Text ------> I have in the world.
+2159
+2160 NumS ------> 483
+2161 Time ------> 00:35:56,071 --> 00:35:58,489
+2162 Text ------> You're a drug dealer. Negotiate.
+2163
+2164 NumS ------> 484
+2165 Time ------> 00:36:00,075 --> 00:36:02,576
+2166 Text ------> You are not
+2167 Text ------> how I remember you
+2168 Text ------> from class.
+2169
+2170 NumS ------> 485
+2171 Time ------> 00:36:02,744 --> 00:36:04,203
+2172 Text ------> I mean, like, not at all.
+2173
+2174 NumS ------> 486
+2175 Time ------> 00:36:04,371 --> 00:36:05,538
+2176 Text ------> Yeah, well, I gotta go.
+2177
+2178 NumS ------> 487
+2179 Time ------> 00:36:05,705 --> 00:36:06,747
+2180 Text ------> Wait. Wait. Hold up.
+2181
+2182 NumS ------> 488
+2183 Time ------> 00:36:08,458 --> 00:36:11,836
+2184 Text ------> Tell me why you're doing this.
+2185 Text ------> Seriously.
+2186
+2187 NumS ------> 489
+2188 Time ------> 00:36:12,003 --> 00:36:13,671
+2189 Text ------> Why do you do it?
+2190
+2191 NumS ------> 490
+2192 Time ------> 00:36:13,839 --> 00:36:16,298
+2193 Text ------> Money, mainly.
+2194
+2195 NumS ------> 491
+2196 Time ------> 00:36:17,509 --> 00:36:18,551
+2197 Text ------> There you go.
+2198
+2199 NumS ------> 492
+2200 Time ------> 00:36:18,718 --> 00:36:21,512
+2201 Text ------> Nah, come on, man.
+2202
+2203 NumS ------> 493
+2204 Time ------> 00:36:21,680 --> 00:36:24,056
+2205 Text ------> Some straight like you,
+2206 Text ------> giant stick up his ass
+2207
+2208 NumS ------> 494
+2209 Time ------> 00:36:24,224 --> 00:36:27,685
+2210 Text ------> all a sudden at age, what, 60,
+2211 Text ------> he's just gonna break bad?
+2212
+2213 NumS ------> 495
+2214 Time ------> 00:36:27,853 --> 00:36:30,271
+2215 Text ------> I'm 50.
+2216 Text ------> It's weird, is all.
+2217
+2218 NumS ------> 496
+2219 Time ------> 00:36:30,438 --> 00:36:32,606
+2220 Text ------> Okay, it doesn't compute.
+2221 Text ------> Listen,
+2222
+2223 NumS ------> 497
+2224 Time ------> 00:36:32,774 --> 00:36:35,442
+2225 Text ------> if you've gone crazy
+2226 Text ------> or something,
+2227
+2228 NumS ------> 498
+2229 Time ------> 00:36:35,610 --> 00:36:39,446
+2230 Text ------> I mean, if y... If you've gone
+2231 Text ------> crazy, or depressed.
+2232
+2233 NumS ------> 499
+2234 Time ------> 00:36:39,614 --> 00:36:41,532
+2235 Text ------> I'm... I'm just saying.
+2236
+2237 NumS ------> 500
+2238 Time ------> 00:36:41,700 --> 00:36:44,702
+2239 Text ------> T... That's something
+2240 Text ------> I need to know about.
+2241
+2242 NumS ------> 501
+2243 Time ------> 00:36:44,870 --> 00:36:47,162
+2244 Text ------> Okay, I mean, that affects me.
+2245
+2246 NumS ------> 502
+2247 Time ------> 00:36:52,752 --> 00:36:54,879
+2248 Text ------> I am awake.
+2249
+2250 NumS ------> 503
+2251 Time ------> 00:36:58,967 --> 00:37:00,050
+2252 Text ------> What?
+2253
+2254 NumS ------> 504
+2255 Time ------> 00:37:03,930 --> 00:37:05,180
+2256 Text ------> Buy the RV.
+2257
+2258 NumS ------> 505
+2259 Time ------> 00:37:07,058 --> 00:37:09,101
+2260 Text ------> We start tomorrow.
+2261
+2262 NumS ------> 506
+2263 Time ------> 00:37:14,566 --> 00:37:16,817
+2264 Text ------> How's it coming in there?
+2265
+2266 NumS ------> 507
+2267 Time ------> 00:37:16,985 --> 00:37:18,986
+2268 Text ------> Fine.
+2269
+2270 NumS ------> 508
+2271 Time ------> 00:37:25,160 --> 00:37:27,620
+2272 Text ------> Do you want me or your dad?
+2273
+2274 NumS ------> 509
+2275 Time ------> 00:37:29,456 --> 00:37:31,582
+2276 Text ------> Dad.
+2277
+2278 NumS ------> 510
+2279 Time ------> 00:37:47,349 --> 00:37:50,225
+2280 Text ------> So how are those feeling in
+2281 Text ------> the waist? Are they too tight?
+2282
+2283 NumS ------> 511
+2284 Time ------> 00:37:50,393 --> 00:37:52,686
+2285 Text ------> You don't want to get them
+2286 Text ------> if they're too tight.
+2287
+2288 NumS ------> 512
+2289 Time ------> 00:37:52,854 --> 00:37:56,106
+2290 Text ------> They're...
+2291 Text ------> They're pretty shrunk.
+2292
+2293 NumS ------> 513
+2294 Time ------> 00:37:56,274 --> 00:37:58,984
+2295 Text ------> Are you sure you
+2296 Text ------> don't want to get the...?
+2297 Text ------> Like a different kind?
+2298
+2299 NumS ------> 514
+2300 Time ------> 00:37:59,152 --> 00:38:00,903
+2301 Text ------> Like, you know,
+2302 Text ------> the skinny jeans,
+2303
+2304 NumS ------> 515
+2305 Time ------> 00:38:01,071 --> 00:38:03,614
+2306 Text ------> because those are in style.
+2307 Text ------> The skaters wear them.
+2308
+2309 NumS ------> 516
+2310 Time ------> 00:38:03,782 --> 00:38:06,283
+2311 Text ------> Do I look like a skater?
+2312
+2313 NumS ------> 517
+2314 Time ------> 00:38:06,451 --> 00:38:07,493
+2315 Text ------> All right.
+2316
+2317 NumS ------> 518
+2318 Time ------> 00:38:07,661 --> 00:38:10,704
+2319 Text ------> Mom, get them, my big boy pants.
+2320
+2321 NumS ------> 519
+2322 Time ------> 00:38:12,332 --> 00:38:15,125
+2323 Text ------> Mommy, could you zip up
+2324 Text ------> my big boy pants?
+2325
+2326 NumS ------> 520
+2327 Time ------> 00:38:21,800 --> 00:38:24,259
+2328 Text ------> - Don't.
+2329 Text ------> - What?
+2330
+2331 NumS ------> 521
+2332 Time ------> 00:38:24,844 --> 00:38:26,053
+2333 Text ------> Don't.
+2334
+2335 NumS ------> 522
+2336 Time ------> 00:38:26,221 --> 00:38:27,513
+2337 Text ------> Walt.
+2338
+2339 NumS ------> 523
+2340 Time ------> 00:38:30,308 --> 00:38:32,101
+2341 Text ------> - Where...?
+2342 Text ------> - I have no idea.
+2343
+2344 NumS ------> 524
+2345 Time ------> 00:38:33,561 --> 00:38:35,729
+2346 Text ------> No, you know what?
+2347 Text ------> Don't even look at them.
+2348
+2349 NumS ------> 525
+2350 Time ------> 00:38:35,897 --> 00:38:38,899
+2351 Text ------> They're obviously very stupid.
+2352 Text ------> Yep.
+2353
+2354 NumS ------> 526
+2355 Time ------> 00:38:39,067 --> 00:38:40,234
+2356 Text ------> Yeah.
+2357
+2358 NumS ------> 527
+2359 Time ------> 00:38:42,237 --> 00:38:45,406
+2360 Text ------> I think that, um...
+2361 Text ------> I think those jeans
+2362 Text ------> look really good on you.
+2363
+2364 NumS ------> 528
+2365 Time ------> 00:38:45,573 --> 00:38:48,409
+2366 Text ------> I think you should get them
+2367 Text ------> if you like them, okay?
+2368
+2369 NumS ------> 529
+2370 Time ------> 00:38:48,576 --> 00:38:51,203
+2371 Text ------> You know what?
+2372 Text ------> Why don't you hang out here
+2373 Text ------> for a second. I'll be right back.
+2374
+2375 NumS ------> 530
+2376 Time ------> 00:38:51,371 --> 00:38:52,705
+2377 Text ------> Fine.
+2378
+2379 NumS ------> 531
+2380 Time ------> 00:38:52,872 --> 00:38:54,957
+2381 Text ------> Hey, Mommy,
+2382 Text ------> I think I pinched a loaf
+2383
+2384 NumS ------> 532
+2385 Time ------> 00:38:55,125 --> 00:38:57,710
+2386 Text ------> in my brand new big boy pants.
+2387
+2388 NumS ------> 533
+2389 Time ------> 00:39:05,010 --> 00:39:06,176
+2390 Text ------> What are you doing?
+2391
+2392 NumS ------> 534
+2393 Time ------> 00:39:06,344 --> 00:39:09,179
+2394 Text ------> What's wrong, chief?
+2395 Text ------> Having a little trouble walking?
+2396
+2397 NumS ------> 535
+2398 Time ------> 00:39:09,347 --> 00:39:11,265
+2399 Text ------> Get off me! Get off me!
+2400
+2401 NumS ------> 536
+2402 Time ------> 00:39:14,519 --> 00:39:16,103
+2403 Text ------> I'll mess you up, man.
+2404
+2405 NumS ------> 537
+2406 Time ------> 00:39:16,271 --> 00:39:18,772
+2407 Text ------> You'll have one shot.
+2408 Text ------> You'd better make it good.
+2409
+2410 NumS ------> 538
+2411 Time ------> 00:39:18,940 --> 00:39:21,275
+2412 Text ------> What, are you waiting for
+2413 Text ------> your girlfriends? You better go.
+2414
+2415 NumS ------> 539
+2416 Time ------> 00:39:21,443 --> 00:39:24,486
+2417 Text ------> You'd better go. Take it.
+2418 Text ------> Take your shot. Take it!
+2419
+2420 NumS ------> 540
+2421 Time ------> 00:39:25,572 --> 00:39:28,198
+2422 Text ------> Come on. Come on.
+2423
+2424 NumS ------> 541
+2425 Time ------> 00:39:28,366 --> 00:39:30,909
+2426 Text ------> Come on,
+2427 Text ------> let's get out of here.
+2428 Text ------> Let's go.
+2429
+2430 NumS ------> 542
+2431 Time ------> 00:39:32,454 --> 00:39:34,038
+2432 Text ------> Psycho.
+2433
+2434 NumS ------> 543
+2435 Time ------> 00:40:09,657 --> 00:40:12,201
+2436 Text ------> Yeah, nothing but cows.
+2437
+2438 NumS ------> 544
+2439 Time ------> 00:40:12,368 --> 00:40:15,704
+2440 Text ------> Got some big cow house
+2441 Text ------> way out that way,
+2442 Text ------> like two miles,
+2443
+2444 NumS ------> 545
+2445 Time ------> 00:40:15,872 --> 00:40:18,499
+2446 Text ------> but I don't see nobody.
+2447
+2448 NumS ------> 546
+2449 Time ------> 00:40:18,666 --> 00:40:20,167
+2450 Text ------> "Cow house"?
+2451
+2452 NumS ------> 547
+2453 Time ------> 00:40:20,335 --> 00:40:23,170
+2454 Text ------> Yeah. Where they live.
+2455
+2456 NumS ------> 548
+2457 Time ------> 00:40:23,338 --> 00:40:24,713
+2458 Text ------> The cows.
+2459
+2460 NumS ------> 549
+2461 Time ------> 00:40:25,757 --> 00:40:30,177
+2462 Text ------> Whatever, man.
+2463 Text ------> Shit, yeah. Let's cook here.
+2464
+2465 NumS ------> 550
+2466 Time ------> 00:40:31,930 --> 00:40:34,181
+2467 Text ------> Cow house.
+2468
+2469 NumS ------> 551
+2470 Time ------> 00:40:34,349 --> 00:40:35,724
+2471 Text ------> God help me.
+2472
+2473 NumS ------> 552
+2474 Time ------> 00:40:45,985 --> 00:40:49,196
+2475 Text ------> Uh, what are you doing?
+2476
+2477 NumS ------> 553
+2478 Time ------> 00:40:49,364 --> 00:40:52,449
+2479 Text ------> These are my good clothes.
+2480
+2481 NumS ------> 554
+2482 Time ------> 00:40:52,617 --> 00:40:54,827
+2483 Text ------> You can't go home
+2484 Text ------> smelling like a meth lab.
+2485
+2486 NumS ------> 555
+2487 Time ------> 00:40:54,994 --> 00:40:57,871
+2488 Text ------> Uh, yeah, you can. I do.
+2489
+2490 NumS ------> 556
+2491 Time ------> 00:40:58,039 --> 00:40:59,748
+2492 Text ------> Those?
+2493
+2494 NumS ------> 557
+2495 Time ------> 00:40:59,916 --> 00:41:03,710
+2496 Text ------> Wow. Those, uh...
+2497 Text ------> You're keeping those on,
+2498 Text ------> right?
+2499
+2500 NumS ------> 558
+2501 Time ------> 00:41:11,886 --> 00:41:14,513
+2502 Text ------> Come on. Daylight's burning.
+2503
+2504 NumS ------> 559
+2505 Time ------> 00:41:14,681 --> 00:41:16,640
+2506 Text ------> Oh, my God.
+2507
+2508 NumS ------> 560
+2509 Time ------> 00:41:24,649 --> 00:41:27,401
+2510 Text ------> Wow, this is... This is
+2511 Text ------> a good look for you.
+2512
+2513 NumS ------> 561
+2514 Time ------> 00:41:27,569 --> 00:41:30,904
+2515 Text ------> I mean, you're maybe only
+2516 Text ------> the world's second-biggest homo.
+2517
+2518 NumS ------> 562
+2519 Time ------> 00:41:31,072 --> 00:41:33,740
+2520 Text ------> Would you shut up and help me?
+2521
+2522 NumS ------> 563
+2523 Time ------> 00:41:33,908 --> 00:41:36,243
+2524 Text ------> Oh, yeah. Oh, yeah.
+2525
+2526 NumS ------> 564
+2527 Time ------> 00:41:36,411 --> 00:41:38,996
+2528 Text ------> Work it. Baby, work it.
+2529
+2530 NumS ------> 565
+2531 Time ------> 00:41:39,164 --> 00:41:40,998
+2532 Text ------> Turn that off.
+2533
+2534 NumS ------> 566
+2535 Time ------> 00:42:47,440 --> 00:42:50,484
+2536 Text ------> This is glass-grade.
+2537
+2538 NumS ------> 567
+2539 Time ------> 00:42:50,652 --> 00:42:51,985
+2540 Text ------> You got...
+2541
+2542 NumS ------> 568
+2543 Time ------> 00:42:52,153 --> 00:42:56,031
+2544 Text ------> Jesus, you got crystals in here
+2545 Text ------> two inches, three inches long.
+2546
+2547 NumS ------> 569
+2548 Time ------> 00:42:56,199 --> 00:42:57,908
+2549 Text ------> This is pure glass.
+2550
+2551 NumS ------> 570
+2552 Time ------> 00:42:59,494 --> 00:43:02,162
+2553 Text ------> You're a goddamn artist.
+2554
+2555 NumS ------> 571
+2556 Time ------> 00:43:02,330 --> 00:43:05,123
+2557 Text ------> This... This is art, Mr. White.
+2558
+2559 NumS ------> 572
+2560 Time ------> 00:43:05,291 --> 00:43:07,668
+2561 Text ------> Well, actually,
+2562 Text ------> it's just basic chemistry,
+2563
+2564 NumS ------> 573
+2565 Time ------> 00:43:07,835 --> 00:43:10,671
+2566 Text ------> but thank you, Jesse.
+2567 Text ------> I'm glad it's acceptable.
+2568
+2569 NumS ------> 574
+2570 Time ------> 00:43:10,838 --> 00:43:13,674
+2571 Text ------> Acceptable?
+2572 Text ------> You're the goddamn Iron Chef.
+2573
+2574 NumS ------> 575
+2575 Time ------> 00:43:13,841 --> 00:43:16,593
+2576 Text ------> Every jibhead from here to
+2577 Text ------> Timbuktu's gonna want a taste.
+2578
+2579 NumS ------> 576
+2580 Time ------> 00:43:17,845 --> 00:43:19,888
+2581 Text ------> Man, l... I gotta try this.
+2582
+2583 NumS ------> 577
+2584 Time ------> 00:43:20,056 --> 00:43:23,350
+2585 Text ------> No. No.
+2586
+2587 NumS ------> 578
+2588 Time ------> 00:43:23,518 --> 00:43:26,019
+2589 Text ------> No. We only sell it.
+2590 Text ------> We don't use it.
+2591
+2592 NumS ------> 579
+2593 Time ------> 00:43:27,105 --> 00:43:29,523
+2594 Text ------> Okay, since when?
+2595
+2596 NumS ------> 580
+2597 Time ------> 00:43:29,691 --> 00:43:32,192
+2598 Text ------> Listen, you've been watching
+2599 Text ------> way too much Miami Vice.
+2600
+2601 NumS ------> 581
+2602 Time ------> 00:43:32,360 --> 00:43:33,694
+2603 Text ------> That ain't happening.
+2604
+2605 NumS ------> 582
+2606 Time ------> 00:43:37,615 --> 00:43:40,575
+2607 Text ------> So, what now?
+2608
+2609 NumS ------> 583
+2610 Time ------> 00:43:42,287 --> 00:43:43,704
+2611 Text ------> How do we proceed?
+2612
+2613 NumS ------> 584
+2614 Time ------> 00:43:47,667 --> 00:43:50,836
+2615 Text ------> We cook more tomorrow.
+2616
+2617 NumS ------> 585
+2618 Time ------> 00:43:51,004 --> 00:43:53,088
+2619 Text ------> Meantime,
+2620
+2621 NumS ------> 586
+2622 Time ------> 00:43:53,256 --> 00:43:55,674
+2623 Text ------> I know just the guy to talk to.
+2624
+2625 NumS ------> 587
+2626 Time ------> 00:43:57,844 --> 00:43:59,845
+2627 Text ------> Get him. Come on.
+2628
+2629 NumS ------> 588
+2630 Time ------> 00:44:04,851 --> 00:44:08,145
+2631 Text ------> Hey, yo. Kraze,
+2632 Text ------> how you doing, my man?
+2633
+2634 NumS ------> 589
+2635 Time ------> 00:44:10,231 --> 00:44:14,526
+2636 Text ------> Hey, you got a new dog.
+2637 Text ------> Right on, man.
+2638
+2639 NumS ------> 590
+2640 Time ------> 00:44:14,694 --> 00:44:16,653
+2641 Text ------> What's his name?
+2642
+2643 NumS ------> 591
+2644 Time ------> 00:44:17,697 --> 00:44:19,573
+2645 Text ------> Yeah, I had a dog like that
+2646 Text ------> once,
+2647
+2648 NumS ------> 592
+2649 Time ------> 00:44:19,741 --> 00:44:21,742
+2650 Text ------> except maybe like twice as big.
+2651
+2652 NumS ------> 593
+2653 Time ------> 00:44:21,909 --> 00:44:23,577
+2654 Text ------> Super-purebred.
+2655
+2656 NumS ------> 594
+2657 Time ------> 00:44:23,745 --> 00:44:25,037
+2658 Text ------> Now, me personally,
+2659
+2660 NumS ------> 595
+2661 Time ------> 00:44:25,204 --> 00:44:27,372
+2662 Text ------> I would train him to go
+2663 Text ------> straight for the nutsack.
+2664
+2665 NumS ------> 596
+2666 Time ------> 00:44:27,540 --> 00:44:29,583
+2667 Text ------> Just shut your mouth
+2668 Text ------> and show me your money.
+2669
+2670 NumS ------> 597
+2671 Time ------> 00:44:29,751 --> 00:44:31,251
+2672 Text ------> I ain't buying, ese.
+2673
+2674 NumS ------> 598
+2675 Time ------> 00:44:31,419 --> 00:44:34,087
+2676 Text ------> I'm selling.
+2677
+2678 NumS ------> 599
+2679 Time ------> 00:44:42,930 --> 00:44:46,600
+2680 Text ------> Tell me that ain't the finest
+2681 Text ------> scante you ever laid eyes on.
+2682
+2683 NumS ------> 600
+2684 Time ------> 00:44:46,768 --> 00:44:49,936
+2685 Text ------> Go ahead. Try it.
+2686
+2687 NumS ------> 601
+2688 Time ------> 00:44:50,104 --> 00:44:53,273
+2689 Text ------> Hey, poochie. How you doing?
+2690
+2691 NumS ------> 602
+2692 Time ------> 00:44:53,441 --> 00:44:55,567
+2693 Text ------> Jesus Christ.
+2694
+2695 NumS ------> 603
+2696 Time ------> 00:44:55,735 --> 00:44:59,071
+2697 Text ------> Yeah. Booya! See, what'd I say?
+2698
+2699 NumS ------> 604
+2700 Time ------> 00:44:59,238 --> 00:45:01,698
+2701 Text ------> It's all right.
+2702 Text ------> It's all right?
+2703
+2704 NumS ------> 605
+2705 Time ------> 00:45:01,866 --> 00:45:03,617
+2706 Text ------> It's all right?
+2707 Text ------> Yeah, it's all right.
+2708
+2709 NumS ------> 606
+2710 Time ------> 00:45:03,785 --> 00:45:05,243
+2711 Text ------> So what?
+2712 Text ------> You're back in business?
+2713
+2714 NumS ------> 607
+2715 Time ------> 00:45:05,411 --> 00:45:07,079
+2716 Text ------> Hell, yeah, I'm back.
+2717
+2718 NumS ------> 608
+2719 Time ------> 00:45:07,246 --> 00:45:10,791
+2720 Text ------> With a vengeance.
+2721 Text ------> Vato loco gotta make a living.
+2722
+2723 NumS ------> 609
+2724 Time ------> 00:45:10,958 --> 00:45:13,794
+2725 Text ------> You know, with your cousin
+2726 Text ------> gone away and all...
+2727
+2728 NumS ------> 610
+2729 Time ------> 00:45:13,961 --> 00:45:17,297
+2730 Text ------> And listen, homes,
+2731 Text ------> about that...
+2732
+2733 NumS ------> 611
+2734 Time ------> 00:45:18,716 --> 00:45:21,802
+2735 Text ------> Really broke me up about Emilio.
+2736
+2737 NumS ------> 612
+2738 Time ------> 00:45:21,969 --> 00:45:24,137
+2739 Text ------> That dude is like my brother.
+2740
+2741 NumS ------> 613
+2742 Time ------> 00:45:24,305 --> 00:45:25,931
+2743 Text ------> You okay? You talk to him?
+2744
+2745 NumS ------> 614
+2746 Time ------> 00:45:26,099 --> 00:45:27,265
+2747 Text ------> Yeah, I talk to him.
+2748
+2749 NumS ------> 615
+2750 Time ------> 00:45:27,433 --> 00:45:28,642
+2751 Text ------> Said when the feds came,
+2752
+2753 NumS ------> 616
+2754 Time ------> 00:45:28,810 --> 00:45:31,478
+2755 Text ------> you were out sticking it in
+2756 Text ------> some neighbor lady.
+2757
+2758 NumS ------> 617
+2759 Time ------> 00:45:31,646 --> 00:45:33,814
+2760 Text ------> Hey, you know,
+2761 Text ------> I got lucky twice.
+2762
+2763 NumS ------> 618
+2764 Time ------> 00:45:33,981 --> 00:45:35,857
+2765 Text ------> I don't know, man.
+2766
+2767 NumS ------> 619
+2768 Time ------> 00:45:36,025 --> 00:45:37,067
+2769 Text ------> Emilio...
+2770
+2771 NumS ------> 620
+2772 Time ------> 00:45:39,904 --> 00:45:42,406
+2773 Text ------> he thinks maybe
+2774 Text ------> you dimed on him.
+2775
+2776 NumS ------> 621
+2777 Time ------> 00:45:42,573 --> 00:45:46,660
+2778 Text ------> Whoa, whoa, hey, hey.
+2779 Text ------> That is bullshit.
+2780
+2781 NumS ------> 622
+2782 Time ------> 00:45:46,828 --> 00:45:48,954
+2783 Text ------> That is bullshit, Krazy-8.
+2784
+2785 NumS ------> 623
+2786 Time ------> 00:45:49,122 --> 00:45:51,748
+2787 Text ------> I should kick his punk ass
+2788 Text ------> for even thinking that.
+2789
+2790 NumS ------> 624
+2791 Time ------> 00:45:51,916 --> 00:45:54,000
+2792 Text ------> You know what?
+2793 Text ------> Next time you talk to Emilio,
+2794
+2795 NumS ------> 625
+2796 Time ------> 00:45:54,168 --> 00:45:56,753
+2797 Text ------> you tell him for me, all right?
+2798
+2799 NumS ------> 626
+2800 Time ------> 00:46:00,508 --> 00:46:03,885
+2801 Text ------> Why don't you tell him yourself?
+2802 Text ------> Made bail this morning.
+2803
+2804 NumS ------> 627
+2805 Time ------> 00:46:04,053 --> 00:46:05,846
+2806 Text ------> Go ahead, pendejo.
+2807
+2808 NumS ------> 628
+2809 Time ------> 00:46:06,013 --> 00:46:08,014
+2810 Text ------> Kick my ass.
+2811 Text ------> Hey, listen...
+2812
+2813 NumS ------> 629
+2814 Time ------> 00:46:11,853 --> 00:46:13,979
+2815 Text ------> Where did you get this?
+2816
+2817 NumS ------> 630
+2818 Time ------> 00:46:14,147 --> 00:46:15,522
+2819 Text ------> Hm?
+2820
+2821 NumS ------> 631
+2822 Time ------> 00:46:15,690 --> 00:46:19,025
+2823 Text ------> Because I know your little
+2824 Text ------> punk ass didn't cook it.
+2825
+2826 NumS ------> 632
+2827 Time ------> 00:46:47,597 --> 00:46:51,892
+2828 Text ------> Damn, man.
+2829 Text ------> What are you,
+2830 Text ------> some kind of nudist?
+2831
+2832 NumS ------> 633
+2833 Time ------> 00:46:53,478 --> 00:46:57,147
+2834 Text ------> Yeah, that's some
+2835 Text ------> stone-fine tick-tick
+2836 Text ------> you been cooking there, ese.
+2837
+2838 NumS ------> 634
+2839 Time ------> 00:46:57,315 --> 00:46:58,982
+2840 Text ------> How about you come
+2841 Text ------> work for me?
+2842
+2843 NumS ------> 635
+2844 Time ------> 00:47:00,651 --> 00:47:03,737
+2845 Text ------> I'd be willing to sell it to you
+2846
+2847 NumS ------> 636
+2848 Time ------> 00:47:03,905 --> 00:47:05,280
+2849 Text ------> if... If the price is right.
+2850
+2851 NumS ------> 637
+2852 Time ------> 00:47:16,250 --> 00:47:18,418
+2853 Text ------> Out here all by yourself, huh?
+2854
+2855 NumS ------> 638
+2856 Time ------> 00:47:25,927 --> 00:47:30,055
+2857 Text ------> Hey, I know you.
+2858 Text ------> He was there
+2859 Text ------> when I got busted.
+2860
+2861 NumS ------> 639
+2862 Time ------> 00:47:30,223 --> 00:47:32,265
+2863 Text ------> He's with the DEA.
+2864 Text ------> No.
+2865
+2866 NumS ------> 640
+2867 Time ------> 00:47:32,433 --> 00:47:35,602
+2868 Text ------> You rata snitch motherfucker.
+2869
+2870 NumS ------> 641
+2871 Time ------> 00:47:35,770 --> 00:47:37,312
+2872 Text ------> Run, Mr. White! Run!
+2873
+2874 NumS ------> 642
+2875 Time ------> 00:47:39,315 --> 00:47:40,524
+2876 Text ------> Ah.
+2877
+2878 NumS ------> 643
+2879 Time ------> 00:47:47,573 --> 00:47:49,199
+2880 Text ------> I say we cap them both.
+2881
+2882 NumS ------> 644
+2883 Time ------> 00:47:56,541 --> 00:47:58,667
+2884 Text ------> You really cook up that batch?
+2885
+2886 NumS ------> 645
+2887 Time ------> 00:48:00,378 --> 00:48:01,419
+2888 Text ------> Yeah.
+2889
+2890 NumS ------> 646
+2891 Time ------> 00:48:01,587 --> 00:48:03,463
+2892 Text ------> You an artist.
+2893
+2894 NumS ------> 647
+2895 Time ------> 00:48:05,049 --> 00:48:06,633
+2896 Text ------> It's a damn shame.
+2897 Text ------> Wait.
+2898
+2899 NumS ------> 648
+2900 Time ------> 00:48:06,801 --> 00:48:09,970
+2901 Text ------> Wait a minute.
+2902
+2903 NumS ------> 649
+2904 Time ------> 00:48:10,137 --> 00:48:14,808
+2905 Text ------> Listen to me.
+2906 Text ------> I'll teach you my recipe, huh?
+2907
+2908 NumS ------> 650
+2909 Time ------> 00:48:14,976 --> 00:48:17,143
+2910 Text ------> What do you say?
+2911 Text ------> You wanna cook like me?
+2912
+2913 NumS ------> 651
+2914 Time ------> 00:48:20,439 --> 00:48:22,440
+2915 Text ------> You let us both live,
+2916
+2917 NumS ------> 652
+2918 Time ------> 00:48:23,651 --> 00:48:27,404
+2919 Text ------> and I will teach you, huh?
+2920
+2921 NumS ------> 653
+2922 Time ------> 00:48:56,767 --> 00:48:59,019
+2923 Text ------> Put the cigarette out.
+2924
+2925 NumS ------> 654
+2926 Time ------> 00:49:01,522 --> 00:49:03,064
+2927 Text ------> Please...
+2928
+2929 NumS ------> 655
+2930 Time ------> 00:49:46,400 --> 00:49:50,111
+2931 Text ------> Move it, homes. You got all day?
+2932
+2933 NumS ------> 656
+2934 Time ------> 00:49:52,573 --> 00:49:53,990
+2935 Text ------> Okay.
+2936
+2937 NumS ------> 657
+2938 Time ------> 00:52:13,506 --> 00:52:14,631
+2939 Text ------> Shit.
+2940
+2941 NumS ------> 658
+2942 Time ------> 00:52:18,969 --> 00:52:20,470
+2943 Text ------> Shit!
+2944
+2945 NumS ------> 659
+2946 Time ------> 00:54:05,409 --> 00:54:06,951
+2947 Text ------> What happened?
+2948
+2949 NumS ------> 660
+2950 Time ------> 00:54:09,622 --> 00:54:12,332
+2951 Text ------> Hey, what'd you do to them?
+2952
+2953 NumS ------> 661
+2954 Time ------> 00:54:14,126 --> 00:54:15,877
+2955 Text ------> Red phosphorus in the
+2956 Text ------> presence of moisture
+2957
+2958 NumS ------> 662
+2959 Time ------> 00:54:16,045 --> 00:54:17,962
+2960 Text ------> and accelerated by heat
+2961
+2962 NumS ------> 663
+2963 Time ------> 00:54:18,130 --> 00:54:20,423
+2964 Text ------> yields phosphorus hydride.
+2965
+2966 NumS ------> 664
+2967 Time ------> 00:54:21,467 --> 00:54:23,718
+2968 Text ------> Phosphine gas.
+2969
+2970 NumS ------> 665
+2971 Time ------> 00:54:23,886 --> 00:54:27,764
+2972 Text ------> One good whiff and poof.
+2973
+2974 NumS ------> 666
+2975 Time ------> 00:54:50,621 --> 00:54:52,288
+2976 Text ------> We gotta...
+2977
+2978 NumS ------> 667
+2979 Time ------> 00:54:54,291 --> 00:54:57,710
+2980 Text ------> We gotta clean this up.
+2981
+2982 NumS ------> 668
+2983 Time ------> 00:55:44,842 --> 00:55:46,634
+2984 Text ------> Where were you?
+2985
+2986 NumS ------> 669
+2987 Time ------> 00:55:54,935 --> 00:55:56,602
+2988 Text ------> Walt...
+2989
+2990 NumS ------> 670
+2991 Time ------> 00:55:59,189 --> 00:56:01,774
+2992 Text ------> I don't know what's
+2993 Text ------> been going on with you lately
+2994
+2995 NumS ------> 671
+2996 Time ------> 00:56:01,942 --> 00:56:04,694
+2997 Text ------> but...
+2998 Text ------> Nothing, honey. I'm fine.
+2999
+3000 NumS ------> 672
+3001 Time ------> 00:56:04,862 --> 00:56:09,490
+3002 Text ------> Whatever it is,
+3003 Text ------> I'll tell you this.
+3004
+3005 NumS ------> 673
+3006 Time ------> 00:56:09,658 --> 00:56:12,869
+3007 Text ------> I do not like it
+3008 Text ------> when you don't talk to me.
+3009
+3010 NumS ------> 674
+3011 Time ------> 00:56:14,246 --> 00:56:17,248
+3012 Text ------> The worst thing you can do
+3013 Text ------> is shut me out.
+3014
+3015 NumS ------> 675
+3016 Time ------> 00:57:03,504 --> 00:57:05,004
+3017 Text ------> Walt...
+3018
+3019 NumS ------> 676
+3020 Time ------> 00:57:07,466 --> 00:57:10,885
+3021 Text ------> Oh, Walt, is that you?
