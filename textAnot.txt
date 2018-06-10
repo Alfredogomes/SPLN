@@ -1,3637 +1,2920 @@
 1
-00:00:05,026 --> 00:00:07,068
-    <{i, NN}> ( {theme, NN} {music, NN} {playing, VBG} )</{i, NN}>
+00:01:44,000 --> 00:01:46,042
+<{i, NN}>{Acorda, NNP}, {Dolores, NNS}.</{i, NN}>
 
 2
-00:01:44,000 --> 00:01:46,042
-          {Man, NN} {voice, NN}:
-       <{i, NN}> {Wake, VB} {up, RB}, {Dolores, NNS}.</{i, NN}>
+00:02:09,275 --> 00:02:10,983
+<{i, NN}>{Lembras, NNS}-{te, NN}?</{i, NN}>
 
 3
-00:02:09,275 --> 00:02:10,983
-        <{i, NN}> {Do, VB} {you, PRP} {remember, VB}?</{i, NN}>
+00:02:36,051 --> 00:02:38,135
+<{i, NN}>{Estamos, NNS} {prestes, NNS} {a, DT} {chegar, NN}.</{i, NN}>
 
 4
-00:02:11,027 --> 00:02:14,529
-       <{i, NN}> ( {heart, NN} {beating, NN} )</{i, NN}>
+00:02:38,179 --> 00:02:39,719
+<{i, NN}>{Posso, NN} {levar, NN} {o, NN} {seu, NN} {copo, NN}?</{i, NN}>
 
 5
-00:02:32,924 --> 00:02:34,924
-    <{i, NN}> ( {woman, NN} {clears, NNS} {throat, NN} )</{i, NN}>
+00:02:41,682 --> 00:02:44,724
+<{i, NN}>{Estamos, NNS} {a, DT} {aproximar, NN}-{nos, NNS}
+{do, VB} {terminal, NN} {de, NNS} {chegada, NN}.</{i, NN}>
 
 6
-00:02:36,052 --> 00:02:38,136
-             {Woman, NN}:
-     <{i, NN}> {We, PRP} {about, IN} {to, TO} {arrive, JJ}.</{i, NN}>
+00:02:44,769 --> 00:02:48,146
+{Para, NN} {onde, NN} {estamos, NN} {a, DT} {ir, NN},
+{ela, NN} {nem, NN} é {nada, NN} {de, NNS} {especial, JJ}.
 
 7
-00:02:38,179 --> 00:02:39,720
-         {May, NNP} {I, PRP} {take, VB} {your, PRP$} {glass, NN}?
+00:02:48,188 --> 00:02:50,564
+{Estás, NN} {a, DT} {ser, NN} {um, NN} {idiota, NN}.
 
 8
-00:02:41,683 --> 00:02:44,725
-         {Woman, NN} {on, IN} {P, NN}.{A, DT}.:
-        <{i, NN}> {Now, RB} {approaching, VBG}</{i, NN}>
-       <{i, NN}> {arrival, NN} {terminal, NN}.</{i, NN}>
+00:02:50,608 --> 00:02:54,235
+{Não, NN}, {estou, NN} {a, DT} {ser, NN} {eu, NN} {mesmo, NN},
 
 9
-00:02:44,769 --> 00:02:48,146
-    {Where, WRB} {we, PRP} {going, VBG},
-    {she, PRP} {a, DT} {two, CD}.
+00:02:54,278 --> 00:02:56,228
+{que, NN} {era, NN} {o, NN} {propósito, NN} {desta, NN} {viagem, NN}.
 
 10
-00:02:48,189 --> 00:02:50,565
-    {You, PRP} {being, VBG} {an, DT} {asshole, NN}.
+00:02:56,239 --> 00:02:59,031
+{A, DT} {não, NN} {ser, NN} {que, NN} {este, NN}
+{idiota, NN} {atadinho, NN} {sejas, NN} {mesmo, NN} {tu, NN}.
 
 11
-00:02:50,608 --> 00:02:54,235
-          {No, DT}, {I, PRP} {am, VBP} {being, VBG} {myself, PRP},
+00:02:59,074 --> 00:03:01,317
+{Nesse, NN} {caso, NN}, {que, NN} {estejas, NN} à {vontade, NN}
+{para, NN} {ser, NN} {outra, NN} {pessoa, NN}.
 
 12
-00:02:54,279 --> 00:02:56,195
-          {which, WDT} {was, VBD} {the, DT} {whole, JJ}
-          {point, NN} {of, IN} {this, DT} {trip, NN}.
+00:03:01,326 --> 00:03:02,784
+{Vai, NN}-{te, NN} {foder, NN}.
 
 13
-00:02:56,239 --> 00:02:59,031
-      {Unless, IN} {this, DT} {uptight, JJ} {prick, NN}
-      {is, VBZ} {who, WP} {you, PRP} {really, RB} {are, VBP},
+00:03:02,829 --> 00:03:04,704
+É {mesmo, NN} {esse, NN} {o, NN} {espírito, NN}.
 
 14
-00:02:59,075 --> 00:03:01,284
-             {in, IN} {which, WDT} {case, NN},
-             {feel, NN} {free, JJ} {to, TO} {be, VB}
-              {someone, NN} {else, RB}.
+00:03:18,343 --> 00:03:20,760
+{Que, NN} {te, NN} {disse, NN} {eu, NN}?
 
 15
-00:03:01,327 --> 00:03:02,785
-      {Fuck, NN} {you, PRP}.
+00:03:20,805 --> 00:03:21,878
+{Diverte, NN}-{te, NN}.
 
 16
-00:03:02,829 --> 00:03:04,704
-         {Hey, NN}, {that, DT} {the, DT} {spirit, NN}.
+00:03:21,923 --> 00:03:24,348
+{Fica, NN} {em, NN} {segurança, NN}.
 
 17
-00:03:18,344 --> 00:03:20,761
-  {What, WP} {I, PRP} {tell, NN} {you, PRP}?
+00:03:24,391 --> 00:03:25,449
+{Poupa, NN}-{me, PRP}.
 
 18
-00:03:20,805 --> 00:03:21,679
-       {Have, VB} {fun, NN}.
+00:03:25,492 --> 00:03:28,002
+{O, NN} {quê, NN}?
 
 19
-00:03:21,723 --> 00:03:24,348
-                     {Stay, NN} {safe, JJ}.
+00:03:28,045 --> 00:03:29,486
+{Como, NN} {se, NN} {a, DT} {minha, NN} {irmã, NN}
+{não, NN} {tivesse, NN} {tido, NN}
 
 20
-00:03:24,392 --> 00:03:25,349
-  {Give, VB} {me, PRP} {a, DT} {break, NN}.
+00:03:29,497 --> 00:03:31,736
+{a, DT} {sua, NN} {dose, NN} {de, NNS} {cobóis, NN}
+{quando, NN} {esteve, NN} {aqui, NN}.
 
 21
-00:03:25,393 --> 00:03:28,102
-                   {What, WP}?
+00:03:34,526 --> 00:03:38,320
+{Deve, NNP} {ser, NN} {o, NN} {William, NNP}.
+{Bem, NN}-{vindo, NN} {a, DT} {Westworld, NN}.
 
 22
-00:03:28,146 --> 00:03:29,353
-         {It, PRP} {not, RB} {like, IN}
-         {my, PRP$} {sister, NN} {did, VBD} {ride, NN}
+00:03:38,364 --> 00:03:40,406
+{Obrigado, NN}.
 
 23
-00:03:29,397 --> 00:03:30,396
-         {her, PRP$} {share, NN} {of, IN} {cowboys, NNS}
-         {when, WRB} {she, PRP} {was, VBD} {here, RB}.
+00:03:40,449 --> 00:03:43,442
+{Dado, NN} {ser, NN} {a, DT} {sua, NN} {primeira, NN} {visita, NN},
+{tenho, NN} {algumas, NN} {perguntas, NNS} {pessoais, NN}.
 
 24
-00:03:34,527 --> 00:03:38,321
-           {You, PRP} {must, MD} {be, VB} {William, NNP}.
-           Welcome {to, TO} {Westworld, NN}.
+00:03:43,453 --> 00:03:46,871
+{Tem, NN} {algumas, NN}
+{patologias, NN} {pré, NN}-{existentes, NNS}?
 
 25
-00:03:38,364 --> 00:03:40,406
-    {Thanks, NNS}.
+00:03:46,914 --> 00:03:48,538
+{Que, NN} {eu, NN} {saiba, NN}, {não, NN}.
 
 26
-00:03:40,450 --> 00:03:43,409
-          {Given, VBN} {it, PRP} {your, PRP$} {first, RB}
-          {visit, NN}, {I, PRP} {have, VB} {a, DT} {few, JJ}
-          {personal, JJ} {questions, NNS}.
+00:03:48,582 --> 00:03:50,373
+- {Problemas, NN} {de, NNS} {coração, NN}?
+- {Não, NN}.
 
 27
-00:03:43,453 --> 00:03:46,871
-{Do, VB} {you, PRP} {have, VB} {any, DT} {preexisting, VBG}
-{medical, JJ} {conditions, NNS}?
+00:03:50,418 --> 00:03:52,200
+{Algum, NN} {historial, NN}
+{de, NNS} {doença, NN} {mental, NN}, {depressão, NN},
 
 28
-00:03:46,915 --> 00:03:48,539
-       {No, DT}, {not, RB} {that, IN} {I, PRP} {know, VB} {of, IN}.
+00:03:52,211 --> 00:03:54,586
+{ataques, NNS} {de, NNS} {pânico, NN}?
 
 29
-00:03:48,583 --> 00:03:50,374
-        - {Heart, NN} {problems, NNS}?
-        - {No, DT}.
+00:03:54,631 --> 00:03:56,790
+{Só, NN} {tenho, NN} {um, NN} {bocadinho, NN}
+{medo, NN} {de, NNS} {palhaços, NN}.
 
 30
-00:03:50,418 --> 00:03:51,667
-            {Any, DT} {history, NN}
-            {of, IN} {mental, NN} {illness, NN},
-            {depression, NN},
+00:03:57,550 --> 00:03:59,133
+{Estou, NN} {a, DT} {brincar, NN}.
 
 31
-00:03:51,711 --> 00:03:54,587
-              {panic, NN} {attacks, NNS}?
+00:03:59,176 --> 00:04:01,343
+É {frequente, NN} {sentir, NN} {ansiedade, NN} {social, JJ}?
 
 32
-00:03:54,631 --> 00:03:56,380
-             {Just, RB} {a, DT} {little, JJ} {fear, NN}
-             {of, IN} {clowns, NNS}.
+00:04:04,765 --> 00:04:06,431
+{Isto, NN} é {para, NN} {quê, NN}, {exatamente, NN}?
 
 33
-00:03:57,550 --> 00:03:59,133
-              {I, PRP} {joking, NN}.
+00:04:06,475 --> 00:04:09,560
+{Garantir, NN} {que, NN} {não, NN} {lhe, NN} {damos, NN}
+{mais, NN} {do, VB} {que, NN} é {capaz, NN} {de, NNS} {lidar, NN}.
 
 34
-00:03:59,177 --> 00:04:01,344
-  {Do, VB} {you, PRP} {often, RB} {experience, NN}
-  {social, JJ} {anxiety, NN}?
+00:04:09,603 --> 00:04:12,021
+{Pensei, NN} {que, NN} {aqui, NN} {não, NN}
+{nos, NNS} {podíamos, NN} {magoar, NN}.
 
 35
-00:04:04,766 --> 00:04:06,432
-        {What, WP} {is, VBZ} {this, DT} {for, IN},
-        {exactly, RB}?
+00:04:12,064 --> 00:04:14,649
+{Só, NN} {em, NN} {quantidades, NNS} {adequadas, NNS}.
 
 36
-00:04:06,476 --> 00:04:09,560
-  {To, TO} {make, VB} {sure, NN} {we, PRP} {do, VBP}
- {give, VB} {you, PRP} {anything, NN} {more, RBR}
-  {than, IN} {you, PRP} {can, MD} {handle, NN}.
+00:04:18,904 --> 00:04:20,939
+{O, NN} ú{nico, NN} {limite, NN} é {a, DT} {sua, NN} {imaginação, NN}.
 
 37
-00:04:09,604 --> 00:04:12,021
-       {I, PRP} {thought, NN} {that, IN} {you, PRP}
-       {could, MD} {get, VB} {hurt, NN} {here, RB}.
+00:04:20,949 --> 00:04:24,033
+{Começa, NN} {no, DT} {centro, NN} {do, VB} {parque, NN}.
+É {simples, NNS}, {seguro, NN}.
 
 38
-00:04:12,065 --> 00:04:14,649
-{Only, RB} {the, DT} {right, NN} {amount, NN}.
+00:04:24,076 --> 00:04:27,827
+<{i, NN}>{Quanto, NN} {mais, NN} {longe, NN} {se, NN} {aventurar, NN},
+{mais, NN} {a, DT} {experiência, NN} {se, NN} {intensifica, NN}.</{i, NN}>
 
 39
-00:04:18,905 --> 00:04:20,905
-           {The, DT} {only, RB} {limit, NN} {here, RB}
-          {is, VBZ} {your, PRP$} {imagination, NN}.
+00:04:27,872 --> 00:04:31,206
+{Até, NN} {onde, NN} {quererá, NN} {ir, NN},
+{depende, NN} {apenas, NNS} {de, NNS} {si, NN}.
 
 40
-00:04:20,949 --> 00:04:24,033
-        {You, PRP} {start, NN} {in, IN}
-        {the, DT} {center, NN} {of, IN} {the, DT} {park, NN}.
-        It'{s, NN} {simple, NN}, {safe, JJ}.
+00:04:39,591 --> 00:04:42,927
+{Então, NN} {como, NN} {funciona, NN} {isto, NN}?
+{Há, NN} {alguma, NN} {orientação, NN}?
 
 41
-00:04:24,077 --> 00:04:27,828
-  <{i, NN}> {The, DT} {further, RB} {out, IN}</{i, NN}>
-  <{i, NN}> {you, PRP} {venture, NN}, {the, DT} {more, RBR}</{i, NN}>
-  <{i, NN}> {intense, NN} {the, DT} {experience, NN} {gets, VBZ}.</{i, NN}>
+00:04:42,971 --> 00:04:45,221
+{Nenhuma, NN} {orientação, NN}.
 
 42
-00:04:27,872 --> 00:04:31,207
-{How, WRB} {far, RB} {you, PRP} {want, NN} {to, TO} {go, VB}
-{is, VBZ} {entirely, RB} {up, RB} {to, TO} {you, PRP}.
+00:04:45,264 --> 00:04:47,180
+{Nenhum, NN} {guia, NN} {de, NNS} {viagem, NN}.
 
 43
-00:04:39,592 --> 00:04:42,927
-         {So, RB}, {how, WRB} {does, VBZ} {this, DT} {work, NN}?
-        Is {there, RB} {an, DT} {orientation, NN}?
+00:04:47,225 --> 00:04:50,518
+{Descobrir, NN} {como, NN} {isto, NN} {funciona, NN}
+é {metade, NN} {do, VB} {divertimento, NN}.
 
 44
-00:04:42,971 --> 00:04:45,221
-  {No, DT} {orientation, NN},
+00:04:50,560 --> 00:04:52,644
+{Resta, NN}-{lhe, NN} {fazer, NN} {escolhas, NN}...
 
 45
-00:04:45,265 --> 00:04:47,181
-   {no, DT} {guidebook, NN}.
+00:04:52,689 --> 00:04:54,521
+{Começando, NN} {aqui, NN}.
 
 46
-00:04:47,225 --> 00:04:50,518
-{Figuring, VBG} {out, IN} {how, WRB} {it, PRP} {works, NNS}
-{is, VBZ} {half, NN} {the, DT} {fun, NN}.
+00:04:54,564 --> 00:04:58,985
+{Tudo, NN} é {feito, NN} {por, NN} {medida, NN},
+{exatamente, NN} {para, NN} {o, NN} {seu, NN} {tamanho, NN}.
 
 47
-00:04:50,561 --> 00:04:52,645
-{All, DT} {you, PRP} {do, VB}
-{is, VBZ} {make, VB} {choices, NNS}...
+00:05:05,451 --> 00:05:08,744
+{Se, NN} {quer, NN} {perguntar, NN}, {pergunte, NN}.
 
 48
-00:04:52,689 --> 00:04:54,522
-{starting, VBG} {here, RB}.
+00:05:08,788 --> 00:05:11,329
+{Você, NN} é {real, JJ}?
 
 49
-00:04:54,565 --> 00:04:58,985
- {Everything, NN} {is, VBZ} {bespoke, NN}
-{and, CC} {exactly, RB} {your, PRP$} {size, NN}.
+00:05:11,374 --> 00:05:15,166
+{Se, NN} {não, NN} {consegue, NN} {perceber, NN},
+{isso, NN} {interessa, NN}?
 
 50
-00:05:05,451 --> 00:05:08,744
-            {You, PRP} {want, NN} {to, TO} {ask, NN},
-            {so, RB} {ask, NN}.
+00:05:19,966 --> 00:05:22,048
+{São, NN} {reais, NN}?
 
 51
-00:05:08,788 --> 00:05:11,330
-   {Are, NN} {you, PRP} {real, JJ}?
+00:05:22,093 --> 00:05:24,009
+<{i, NN}>{Suficientemente, NN} {reais, NN}.</{i, NN}>
 
 52
-00:05:11,374 --> 00:05:15,167
-       {Well, RB}, {if, IN} {you, PRP} {ca, MD} {tell, NN},
-       {does, VBZ} {it, PRP} {matter, NN}?
+00:05:24,052 --> 00:05:27,096
+<{i, NN}>{Mas, NN} {não, NN} {poderá, NN} {matar, NN}
+{quem, NN} {não, NN} é {suposto, NN} {matar, NN}.</{i, NN}>
 
 53
-00:05:19,966 --> 00:05:22,049
-      {Are, NN} {those, DT} {real, JJ}?
+00:05:30,768 --> 00:05:33,060
+{Alguma, NN} {coisa, NN} {de, NNS} {que, NN} {gosta, NN}?
 
 54
-00:05:22,093 --> 00:05:24,010
-                  <{i, NN}> {Real, JJ} {enough, RB}.</{i, NN}>
+00:05:36,733 --> 00:05:38,816
+{Há, NN} {algum, NN} {vestiário, NN}?
 
 55
-00:05:24,053 --> 00:05:27,096
-      <{i, NN}> {But, CC} {you, PRP} {ca, MD} {kill, NN} {anyone, NN}</{i, NN}>
-      <{i, NN}> {you, PRP} {not, RB} {supposed, VBN} {to, TO}.</{i, NN}>
+00:05:38,860 --> 00:05:40,901
+{Ou, NN} {um, NN} {roupão, NN}?
 
 56
-00:05:30,768 --> 00:05:33,060
-       {Anything, NN} {you, PRP} {like, IN}?
+00:05:40,944 --> 00:05:42,562
+{Claro, NN}. {Posso, NN} {ajudá, NN}-{lo, NN}.
 
 57
-00:05:36,733 --> 00:05:38,816
-{Is, NN} {there, RB} {a, DT} {changing, VBG} {room, NN}?
+00:05:42,572 --> 00:05:46,490
+{Ou, NN}, {se, NN} {preferir, NN},
+{posso, NN} {sair, NN} {lá, NN} {para, NN} {fora, NNS}.
 
 58
-00:05:38,860 --> 00:05:40,901
-   {Or, CC} {a, DT} {robe, NN}?
+00:05:48,119 --> 00:05:50,452
+{Que, NN} {costumam, NN} {fazer, NN} {as, IN} {outras, NNS} {pessoas, NN}?
 
 59
-00:05:40,945 --> 00:05:42,528
-             {Of, IN} {course, NN}.
-             I {can, MD} {help, NN} {you, PRP}.
+00:05:50,495 --> 00:05:53,872
+{Não, NN} {precisa, NN} {de, NNS} {se, NN} {preocupar, NN}
+{com, NN} {o, NN} {que, NN} {os, NN} {outros, NNS} {fazem, NN}.
 
 60
-00:05:42,572 --> 00:05:46,490
-          {Or, CC} {if, IN} {you, PRP} {prefer, NN},
-          {I, PRP} {could, MD} {step, NN} {outside, IN}.
+00:05:56,002 --> 00:05:57,752
+{Eu, NN} {percebo, NN}.
 
 61
-00:05:48,119 --> 00:05:50,453
-{What, WP} {do, VB} {most, JJS} {people, NNS} {do, VB}?
+00:05:59,797 --> 00:06:02,048
+{Percebe, NN} {mesmo, NN}, {William, NNP}?
 
 62
-00:05:50,496 --> 00:05:53,873
-          {You, PRP} {do, VBP} {have, VB}
-          {to, TO} {worry, NN} {about, IN} {what, WP}
-          {most, JJS} {people, NNS} {would, MD} {do, VB}.
+00:06:06,387 --> 00:06:09,680
+{Todos, NN} {os, NN} {nossos, NN} {anfitriões, NN}
+{estão, NN} {aqui, NN} {para, NN} {si, NN}.
 
 63
-00:05:56,002 --> 00:05:57,752
-     {I, PRP} {understand, NN}.
+00:06:09,723 --> 00:06:12,266
+{Eu, NN} {incluída, NN}.
 
 64
-00:05:59,797 --> 00:06:02,048
-           {Do, VB} {you, PRP} {really, RB}
-           {understand, NN}, {William, NNP}?
+00:06:12,310 --> 00:06:14,093
+{Podemos, NNS} {ficar, NN} {aqui, NN}
+{um, NN} {bocado, NN}, {se, NN} {desejar, NN}.
 
 65
-00:06:06,387 --> 00:06:09,680
-           {All, DT} {our, PRP$} {hosts, NNS}
-           {are, VBP} {here, RB} {for, IN} {you, PRP}.
+00:06:14,103 --> 00:06:16,896
+{Leve, VB} {o, NN} {tempo, NN} {que, NN} {quiser, NN}.
 
 66
-00:06:09,724 --> 00:06:12,266
-           {Myself, PRP} {included, VBD}.
+00:06:21,319 --> 00:06:23,485
+{Obrigado, NN}.
 
 67
-00:06:12,310 --> 00:06:14,060
-          {We, PRP} {could, MD} {stay, NN} {here, RB}
-          {a, DT} {while, IN} {if, IN} {you, PRP} {like, IN}.
+00:06:23,528 --> 00:06:25,737
+{Não, NN} {quero, NN} {deixar, NN}
+{o, NN} {meu, NN} {amigo, NN} à {espera, NN}.
 
 68
-00:06:14,103 --> 00:06:16,896
-       {Take, VB} {as, IN} {long, RB} {as, IN} {you, PRP} {want, NN}.
+00:06:25,781 --> 00:06:27,822
+{Claro, NN}.
 
 69
-00:06:21,319 --> 00:06:23,486
-         {Thank, NN} {you, PRP}.
+00:06:27,867 --> 00:06:29,449
+{Não, NN} {tenha, NN} {pressa, NN}.
 
 70
-00:06:23,529 --> 00:06:25,738
-    {I, PRP} {do, VBP} {want, NN} {to, TO} {keep, VB}
-    {my, PRP$} {friend, NN} {waiting, VBG}.
+00:06:40,838 --> 00:06:43,154
+{Como, NN} {estão, NN} {a, DT} {correr, NN}
+{as, IN} {compilações, NN} {da, NN} {nova, NNS} {narrativa, NN}?
 
 71
-00:06:25,782 --> 00:06:27,823
-              {Of, IN} {course, NN}.
+00:06:43,165 --> 00:06:46,466
+{Já, NN} {vou, NN} {ver, NN} {isso, NN}.
 
 72
-00:06:27,867 --> 00:06:29,450
-            {Take, VB} {your, PRP$} {time, NN}.
+00:06:46,511 --> 00:06:50,096
+{Assumimos, NNS} {que, NN} {a, DT} {quebra, NN} {do, VB} {Abernathy, NN}
 
 73
-00:06:40,838 --> 00:06:42,922
-    {How, WRB} {are, VBP} {the, DT} {builds, NNS}
-    {for, IN} {the, DT} {new, JJ} {narrative, JJ}
-    {coming, VBG} {along, IN}?
+00:06:50,139 --> 00:06:52,423
+{foi, NN} {despoletada, NN}
+{pela, NN} {foto, NN} {que, NN} {encontrou, NN}.
 
 74
-00:06:42,965 --> 00:06:46,467
-          {I, PRP} {get, VB} {around, IN} {to, TO} {it, PRP}.
+00:06:52,432 --> 00:06:54,800
+{Revi, NN} {cada, NN} {episódio, NN} {dissonante, NN}
+{que, NN} {pude, NN} {encontrar, NN}.
 
 75
-00:06:46,511 --> 00:06:50,096
-        {Look, VB}, {we, PRP} {assumed, VBN}
-        {that, IN} {Abernathy, NNP} {breach, NN}
+00:06:54,810 --> 00:06:57,144
+{A, DT} {reação, NN} é {imediata, NN} {todas, NNS} {as, IN} {vezes, NNS}.
 
 76
-00:06:50,139 --> 00:06:52,390
-          {was, VBD} {triggered, VBN}
-        {by, IN} {the, DT} {photograph, NN}
-         {that, IN} {he, PRP} {found, NN}.
+00:06:57,187 --> 00:07:00,814
+{Este, NN} {tipo, NN} {retrocede, NN} {completamente, NN}.
 
 77
-00:06:52,433 --> 00:06:54,767
-       {I, PRP} {reviewed, VBN}
-       {every, DT} {dissonant, NN} {episode, NN}
-       {I, PRP} {could, MD} {find, VB}.
+00:07:00,858 --> 00:07:03,567
+{Como, NN} {se, NN} {estivesse, NN}
+{a, DT} {remoer, NN} {naquilo, NN}.
 
 78
-00:06:54,811 --> 00:06:57,144
-        {The, DT} {reaction, NN}
-        {is, VBZ} {immediate, NN} {every, DT} {time, NN}.
+00:07:03,610 --> 00:07:07,822
+{Achas, NNS} {que, NN} {ele, NN} {teve, NN}
+{uma, NN} {crise, NN} {existencial, JJ}?
 
 79
-00:06:57,188 --> 00:07:00,815
-        {This, DT} {guy, NN} {makes, VBZ} {it, PRP}
-        {all, DT} {the, DT} {way, NN} {back, RB} {home, NN}.
+00:07:07,865 --> 00:07:11,408
+{Acho, NN} {que, NN} {há, NN} {alguma, NN} {coisa, NN}
+{estragada, NN} {na, NNS} {cognição, NN} {dele, NN}.
 
 80
-00:07:00,858 --> 00:07:03,567
-          {It, PRP} {like, IN}
-          {he, PRP} {mulling, VBG} {it, PRP} {over, IN}.
+00:07:11,451 --> 00:07:14,069
+{E, NN} {acho, NN} {que, NN} {você, NN} {sente, NN} {o, NN} {mesmo, NN}.
 
 81
-00:07:03,611 --> 00:07:07,822
- {You, PRP} {think, NN} {he, PRP} {had, VBD}
- {an, DT} {existential, JJ} {crisis, NN}?
+00:07:14,079 --> 00:07:16,329
+{Sabemos, NN} {a, DT} {origem, NN} {do, VB} {erro, NN}?
 
 82
-00:07:07,865 --> 00:07:11,409
-    {I, PRP} {think, NN} {there, EX}
-    {something, NN} {fucked, VBN} {up, RB}
-    {going, VBG} {on, IN} {with, IN} {his, PRP$} {cognition, NN}.
+00:07:16,374 --> 00:07:18,581
+{Sabemos, NN}.
 
 83
-00:07:11,452 --> 00:07:14,036
-           {And, CC} {I, PRP} {think, NN} {you, PRP} {feel, NN}
-           {exactly, RB} {the, DT} {same, JJ} {way, NN}
-           {that, IN} {I, PRP} {do, VB}.
+00:07:18,625 --> 00:07:20,000
+{E, NN} {tu, NN} {encobriste, NN}-{o, NN}.
 
 84
-00:07:14,080 --> 00:07:16,330
-  {Do, VB} {we, PRP} {know, VB} {where, WRB}
-  {the, DT} {error, NN} {originated, VBN}?
+00:07:21,129 --> 00:07:24,088
+{Deixa, NN}-{me, PRP} {reconstruir, NN} {o, NN} {Abernathy, NN}.
 
 85
-00:07:16,374 --> 00:07:18,582
-                   {We, PRP} {do, VB}.
+00:07:24,132 --> 00:07:26,173
+{Certifico, NN}-{me, PRP} {de, NNS} {que, NN} {isto, NN}
+{não, NN} é {uma, NN} {coisa, NN} {mais, NN} {séria, NNS}.
 
 86
-00:07:18,626 --> 00:07:20,000
-        {And, CC} {you, PRP} {covered, VBN} {for, IN} {him, PRP}.
+00:07:26,182 --> 00:07:29,050
+{Conheces, NNS} {os, NN} {procedimentos, NN}.
+{Deixa, NN}-{o, NN} {ficar, NN}.
 
 87
-00:07:21,129 --> 00:07:24,088
-       {Let, VB} {me, PRP} {rebuild, NN} {Abernathy, NN}.
+00:07:29,095 --> 00:07:32,338
+{Ao, NN} {menos, NNS} {deixa, NN}-{me, PRP} {recolher, NN}
+{aqueles, NNS} {que, NN} {contactaram, NN} {com, NN} {ele, NN},
 
 88
-00:07:24,132 --> 00:07:25,339
-             {I, PRP} {make, VB} {sure, NN}
-          {this, DT} {is, VBZ} {not, RB} {something, NN}
-              {more, RBR} {serious, JJ}.
+00:07:32,348 --> 00:07:34,639
+{como, NN} {a, DT} {filha, NN}, {Dolores, NNS}.
 
 89
-00:07:25,383 --> 00:07:29,051
-{You, PRP} {know, VB} {the, DT} {policy, NN}.
-Let {it, PRP} {lie, NN}.
+00:07:34,683 --> 00:07:36,307
+{Para, NN} {quê, NN}?
 
 90
-00:07:29,095 --> 00:07:32,304
-         {Then, RB} {let, VB} {me, PRP} {at, IN} {least, JJS}
-         {pull, NN} {the, DT} {hosts, NNS} {who, WP} {had, VBD}
-         {contact, NN} {with, IN} {him, PRP},
+00:07:36,351 --> 00:07:39,478
+{Porque, NN} {se, NN} {isto, NN} {não, NN} {for, IN}
+{um, NN} {episódio, NN} {dissonante, NN},
 
 91
-00:07:32,348 --> 00:07:34,640
-      {like, IN} {the, DT} {daughter, NN} {Dolores, NNS}.
+00:07:39,521 --> 00:07:43,941
+{o, NN} {que, NN} {o, NN} {Abernathy, NN} {tem, NN}
+{pode, NN} {ser, NN} {contagioso, NN}.
 
 92
-00:07:34,684 --> 00:07:36,308
-         {What, WP} {for, IN}?
+00:07:45,610 --> 00:07:46,901
+{Por, NN} {assim, NN} {dizer, NN}.
 
 93
-00:07:36,352 --> 00:07:39,478
-          {Because, IN} {if, IN} {this, DT} {is, VBZ} {not, RB}
-          {a, DT} {dissonant, NN} {episode, NN},
+00:07:46,946 --> 00:07:49,779
+{Dolores, NNS} {foi, NN} {examinada, NN}
+{e, NN} {dada, NN} {como, NN} {apta, NN}.
 
 94
-00:07:39,522 --> 00:07:43,941
-     {then, RB} {whatever, WDT} {Abernathy, NN} {had, VBD}
-     {could, MD} {be, VB} {contagious, JJ}.
+00:07:49,824 --> 00:07:54,367
+{E, NN} é {melhor, NN} {deixar, NN} {as, IN} {histórias, NN}
+{para, NN} {os, NN} {convidados, NN}.
 
 95
-00:07:45,611 --> 00:07:46,902
-                {So, RB} {to, TO} {speak, NN}.
+00:08:19,228 --> 00:08:21,812
+<{i, NN}>{Lembra, NN}-{te, NN}.</{i, NN}>
 
 96
-00:07:46,946 --> 00:07:49,780
-    {Dolores, NNS} {was, VBD} {examined, VBN}
-    {and, CC} {cleared, VBN}.
+00:08:46,630 --> 00:08:50,006
+{Não, NN} {podes, NNS} {ficar, NN} {parada, NN}
+{noutro, NN} {sítio, NN} {qualquer, NN}?
 
 97
-00:07:49,824 --> 00:07:54,368
- {And, CC} {the, DT} {stories, NNS} {are, VBP}
- {best, JJS} {left, NN} {to, TO} {the, DT} {guests, NNS}.
+00:08:50,051 --> 00:08:52,552
+{Não, NN} {quero, NN} {que, NN} {se, NN} {pense, NN}
+{que, NN} {a, DT} {mercadoria, NNS} {ali, NN} {dentro, NN}
 
 98
-00:07:58,666 --> 00:08:00,749
-           ( {chatter, NN} )
+00:08:52,562 --> 00:08:54,062
+é {toda, NN} {como, NN} {tu, NN}.
 
 99
-00:08:09,218 --> 00:08:13,804
-    <{i, NN}> ( {chatter, NN} {grows, NNS} {louder, NN} )</{i, NN}>
+00:08:57,099 --> 00:09:00,518
+{Estes, NNS} {prazeres, NNS} {violentos, NNS}
 
 100
-00:08:17,185 --> 00:08:19,185
-       <{i, NN}> ( {people, NNS} {shouting, VBG},</{i, NN}>
-           <{i, NN}> {echoing, VBG} )</{i, NN}>
+00:09:00,561 --> 00:09:02,644
+{têm, NN} {fins, NNS} {violentos, NNS}.
 
 101
-00:08:19,228 --> 00:08:21,812
-          {Man, NN} {voice, NN}:
-           <{i, NN}> {Remember, VB}.</{i, NN}>
+00:09:22,832 --> 00:09:24,291
+{Olá, NN}, {cobói, NN}.
 
 102
-00:08:21,856 --> 00:08:23,397
-        <{i, NN}> ( {voices, NNS} {fade, NN} )</{i, NN}>
+00:09:24,335 --> 00:09:26,626
+{Um, NN} {toque, NN} {final, JJ}.
 
 103
-00:08:33,910 --> 00:08:36,994
-      <{i, NN}> ( {people, NNS} {screaming, VBG} )</{i, NN}>
+00:09:28,713 --> 00:09:30,588
+{Qual, JJ} {prefere, RB}?
 
 104
-00:08:46,631 --> 00:08:50,007
-                {Ahem, NN}.
-                Can {you, PRP} {stand, NN}
-                {somewhere, RB} {else, RB}?
+00:10:34,447 --> 00:10:38,072
+{Já, NN} {viste, NN} {bem, NN} {este, NN} {sítio, NN}?
 
 105
-00:08:50,051 --> 00:08:54,053
-    {I, PRP} {do, VBP} {want, NN} {anyone, NN} {thinking, VBG}
-    {that, IN} {you, PRP} {representative, NN}
-    {of, IN} {the, DT} {goods, NNS} {inside, IN}.
+00:10:43,456 --> 00:10:45,371
+{Como, NN} é {que, NN} {entramos, NN} {no, DT} {parque, NN}?
 
 106
-00:08:57,099 --> 00:09:00,518
-    {These, DT} {violent, NN} {delights, NNS}
+00:11:04,184 --> 00:11:08,503
+{Estás, NN} {convencido, NN} {de, NNS} {que, NN} {sabes, NNS}
+{mesmo, NN} {o, NN} {que, NN} {isto, NN} {vai, NN} {ser, NN}.
 
 107
-00:09:00,561 --> 00:09:02,645
-      {have, VB} {violent, NN} {ends, NNS}.
+00:11:10,149 --> 00:11:12,691
+{Armas, NN} {e, NN} {mamas, NN}, {e, NN} {todas, NNS} {essas, NN} {coisas, NN}.
 
 108
-00:09:02,688 --> 00:09:04,855
-           ( {scoffs, NNS} )
+00:11:12,735 --> 00:11:14,942
+{Merdas, NNS} {sem, NN} {sentido, NN}
+{que, NN} {eu, NN} {costumo, NN} {gostar, NN}.
 
 109
-00:09:07,318 --> 00:09:09,401
-       <{i, NN}> ( {piano, NN} {playing, VBG} )</{i, NN}>
+00:11:17,447 --> 00:11:20,573
+<{i, NN}>{Não, NN} {fazes, NNS} {ideia, NN}.</{i, NN}>
 
 110
-00:09:22,833 --> 00:09:24,291
-                  {Hello, NN}, {cowboy, NN}.
+00:11:20,618 --> 00:11:24,952
+{Este, NN} {sítio, NN} {acaba, NN}
+{por, NN} {seduzir, NN} {toda, NN} {a, DT} {gente, NN}.
 
 111
-00:09:24,335 --> 00:09:26,627
-    {There, EX} {one, CD} {final, JJ} {touch, NN}.
+00:11:24,996 --> 00:11:27,206
+{No, DT} {fim, NN}, {vais, NN} {suplicar, NN}-{me, PRP} {para, NN} {ficar, NN}
 
 112
-00:09:28,714 --> 00:09:30,589
-       {Which, WDT} {would, MD} {you, PRP} {prefer, NN}?
+00:11:27,249 --> 00:11:29,792
+{porque, NN} {este, NN} {lugar, NN} é {a, DT} {resposta, NN}
 
 113
-00:09:58,828 --> 00:10:01,954
-       -<{i, NN}> ( {piano, NN} {playing, VBG} )</{i, NN}>
-       -<{i, NN}> ( {chatter, NN} )</{i, NN}>
+00:11:29,835 --> 00:11:32,461
+{para, NN} {a, DT} {pergunta, NN}
+{que, NN} {tens, NNS} {feito, NN} {a, DT} {ti, NN} {mesmo, NN}.
 
 114
-00:10:34,447 --> 00:10:38,073
-            ( {sighs, NNS} )
-            {I, PRP} {mean, NN}, {can, MD} {you, PRP}
-            {believe, VB} {this, DT} {place, NN}?
+00:11:32,504 --> 00:11:34,672
+{Qual, JJ} {pergunta, NN}?
 
 115
-00:10:38,117 --> 00:10:41,285
-          <{i, NN}> ( {rumbling, VBG} )</{i, NN}>
+00:11:34,715 --> 00:11:36,298
+{Quem, NN} é{s, NN} {tu, NN}, {realmente, NN}.
 
 116
-00:10:43,456 --> 00:10:45,372
-    {So, RB}, {how, WRB} {do, VB} {we, PRP} {get, VB}
-    {into, IN} {the, DT} {park, NN}?
+00:11:37,967 --> 00:11:40,469
+{E, NN} {mal, NN} {posso, NN} {esperar, NN}
+{para, NN} {conhecer, NN} {esse, NN} {tipo, NN}.
 
 117
-00:10:45,416 --> 00:10:48,292
-     <{i, NN}> ( {rumbling, VBG}, {rattling, VBG} )</{i, NN}>
+00:11:44,392 --> 00:11:46,642
+{Cá, NN} {vai, NN} {um, NN} {brinde, NN}, {cobói, NN}.
 
 118
-00:11:02,183 --> 00:11:04,141
-             ( {whistle, NN} {blowing, NN} )
+00:11:54,567 --> 00:11:56,442
+<{i, NN}>{Além, NN} {disso, NN},</{i, NN}>
 
 119
-00:11:04,185 --> 00:11:07,603
-    {I, PRP} {know, VB} {that, IN} {you, PRP} {think, NN}
-    {you, PRP} {have, VB} {a, DT} {handle, NN} {on, IN} {what, WP}
-    {this, DT} {is, VBZ} {gon, NN} {be, VB}.
+00:11:56,486 --> 00:11:58,187
+<{i, NN}>{o, NN} {assassínio, NN} {impiedoso, NN}
+{de, NNS} {Donald, NNP} {Pardue, JJ}</{i, NN}>
 
 120
-00:11:10,149 --> 00:11:12,691
-       {Guns, NNS} {and, CC} {tits, NNS}
-       {and, CC} {all, DT} {that, IN}.
+00:11:58,197 --> 00:12:01,072
+{e, NN} {do, VB} {irmão, NN}.
 
 121
-00:11:12,735 --> 00:11:14,943
-      {Mindless, NN} {shit, NN}
-      {that, IN} {I, PRP} {usually, RB} {enjoy, NN}.
+00:12:01,116 --> 00:12:03,650
+{Por, NN} {esses, NNS} {crimes, NNS}, {serás, NN} {enforcado, NN}
 
 122
-00:11:17,448 --> 00:11:20,574
-              <{i, NN}> {You, PRP} {have, VB} {no, DT} {idea, NN}.</{i, NN}>
+00:12:03,660 --> 00:12:05,403
+{até, NN} {que, NN} {a, DT} {tua, NN} {alma, NN} {doente, NN}
+{saiba, NN} {o, NN} {caminho, NN}
 
 123
-00:11:20,618 --> 00:11:24,953
-{This, DT} {place, NN} {seduces, NNS}
-{everybody, NN} {eventually, RB}.
+00:12:05,413 --> 00:12:08,330
+{para, NN} {as, IN} {chamas, NN} {do, VB} {Inferno, NN}.
 
 124
-00:11:24,997 --> 00:11:27,206
-{By, IN} {the, DT} {end, NN}, {you, PRP} {gon, NN}
-{be, VB} {begging, VBG} {me, PRP} {to, TO} {stay, NN}
+00:12:08,374 --> 00:12:10,416
+{E, NN} {que, NN} {Deus, NN} {tenha, NN} {piedade, NN} {da, NN} {tua, NN} {alma, NN}.
 
 125
-00:11:27,249 --> 00:11:29,792
-{because, IN} {this, DT} {place, NN}
-{is, VBZ} {the, DT} {answer, NN}
+00:12:28,476 --> 00:12:30,184
+{Bom, NN} {dia, NN}, {Lawrence, NNP}.
 
 126
-00:11:29,835 --> 00:11:32,461
-{to, TO} {that, IN} {question, NN} {that, IN}
-{you, PRP} {been, VBN} {asking, VBG} {yourself, PRP}.
+00:12:30,229 --> 00:12:33,020
+<{i, NN}>{Estás, NN} {outra, NN} {vez, NN} {a, DT} {ajudá, NN}-{los, NN}
+{a, DT} {endireitar, NN} {a, DT} {corda, NN}?</{i, NN}>
 
 127
-00:11:32,505 --> 00:11:34,672
-         {What, WP} {question, NN}?
+00:12:33,065 --> 00:12:35,691
+{Esperava, NN} {ter, NN} {uma, NN} {palavra, NN}
+{aqui, NN} {com, NN} {o, NN} {meu, NN} {amigo, NN}.
 
 128
-00:11:34,715 --> 00:11:35,798
-       {Who, WP} {you, PRP} {really, RB} {are, VBP}.
+00:12:35,735 --> 00:12:39,110
+{Podes, NNS} {falar, NN} {com, NN} {ele, NN}
+{o, NN} {tempo, NN} {que, NN} {quiseres, NNS},
 
 129
-00:11:37,968 --> 00:11:40,469
-{And, CC} {I, PRP} {ca, MD} {fucking, VBG} {wait, NN}
-{to, TO} {meet, NN} {that, IN} {guy, NN}.
+00:12:39,154 --> 00:12:41,447
+{assim, NN} {que, NN} {lhe, NN} {partirmos, NN} {o, NN} {pescoço, NN}.
 
 130
-00:11:43,724 --> 00:11:44,348
-           ( {clinks, NNS} )
+00:12:41,490 --> 00:12:43,865
+{Receio, NN} {que, NN} {isso, NN}
+{não, NN} {me, PRP} {dê, NN} {muito, NN} {jeito, NN}.
 
 131
-00:11:44,392 --> 00:11:46,642
-   {Bottoms, NNS} {up, RB}, {cowboy, NN}.
+00:12:47,413 --> 00:12:49,331
+{E, NN} {se, NN} {disser, NN} {ao, NN} {meu, NN} {homem, NN} {ali, NN}
 
 132
-00:11:46,686 --> 00:11:48,477
-               ( {chuckles, NNS} )
+00:12:49,341 --> 00:12:51,941
+{para, NN} {cavar, NN} {uma, NN} {sepultura, NN}
+{mais, NN} {profunda, NN}?
 
 133
-00:11:54,568 --> 00:11:56,443
-            {Sheriff, NN}:
-        <{i, NN}> {Further, RB} {to, TO} {that, IN},</{i, NN}>
+00:12:53,376 --> 00:12:56,856
+{Bem, NN}... {Mesmo, NN} {assim, NN}, {vai, NN} {ser, NN} {muito, NN}
+{apertada, NN} {para, NN} {vocês, NN} {todos, NN}.
 
 134
-00:11:56,487 --> 00:11:58,153
-      <{i, NN}> {the, DT} {ruthless, NN} {murder, NN}</{i, NN}>
-        <{i, NN}> {of, IN} {Donald, NNP} {Pardue, JJ}</{i, NN}>
+00:13:19,235 --> 00:13:22,070
+<{i, NN}>{Merda, NNP}. {Merda, NNP}.</{i, NN}>
 
 135
-00:11:58,197 --> 00:12:01,073
-        {and, CC} {his, PRP$} {brother, NN}.
+00:13:22,114 --> 00:13:23,120
+<{i, NN}>{Merda, NNP}!</{i, NN}>
 
 136
-00:12:01,117 --> 00:12:03,617
-        {For, IN} {these, DT} {crimes, NNS},
-        {you, PRP} {will, MD} {be, VB} {hung, NN}
-        {from, IN} {the, DT} {neck, NN}
+00:13:43,052 --> 00:13:44,217
+{Cabrão, NN}.
 
 137
-00:12:03,661 --> 00:12:05,369
-{until, IN} {your, PRP$} {diseased, VBN} {soul, NN}
-{has, VBZ} {found, NN} {its, PRP$} {measure, NN}
+00:13:44,260 --> 00:13:48,388
+É {assim, NN} {que, NN} {me, PRP} {agradeces, NNS}, {Lawrence, NNP}?
 
 138
-00:12:05,413 --> 00:12:08,330
-  {in, IN} {the, DT} {flames, NNS} {below, IN}.
+00:13:48,432 --> 00:13:50,474
+{Costumavas, NN} {ser, NN} {mais, NN} {eloquente, NN}.
 
 139
-00:12:08,374 --> 00:12:10,416
-{And, CC} {may, MD} {God, NNP} {have, VB} {mercy, NN}
-{on, IN} {your, PRP$} {soul, NN}.
+00:13:50,518 --> 00:13:54,227
+{Eu, NN} {conheço, NN}-{te, NN}?
 
 140
-00:12:10,459 --> 00:12:13,544
-     <{i, NN}> ( {hoofbeats, NNS} {approach, NN} )</{i, NN}>
+00:13:54,270 --> 00:13:57,063
+{O, NN} {teu, NN} {amiguinho, NN} {Kissy, NNP}
+{mandou, NN}-{me, PRP} {ter, NN} {contigo, NN}.
 
 141
-00:12:13,587 --> 00:12:15,212
-       <{i, NN}> ( {horse, NN} {nickers, NNS} )</{i, NN}>
+00:13:57,106 --> 00:13:58,106
+{Manda, NN} {cumprimentos, NN}.
 
 142
-00:12:28,477 --> 00:12:30,185
-           {Morning, VBG}, {Lawrence, NNP}.
+00:14:05,573 --> 00:14:06,823
+{O, NN} {que, NN} é {isto, NN}?
 
 143
-00:12:30,229 --> 00:12:33,021
-    <{i, NN}> {You, PRP} {helping, VBG} {them, PRP}</{i, NN}>
-    <{i, NN}> {straighten, NN} {out, IN} {their, PRP$}</{i, NN}>
-    <{i, NN}> {rope, NN} {again, RB}?</{i, NN}>
+00:14:09,577 --> 00:14:11,370
+{Sabes, NNS} {muito, NN} {bem, NN} {o, NN} {que, NN} é.
 
 144
-00:12:33,065 --> 00:12:35,691
-   {I, PRP} {was, VBD} {hoping, VBG} {to, TO} {have, VB}
-   {a, DT} {word, NN} {with, IN} {my, PRP$} {friend, NN} {here, RB}.
+00:14:11,413 --> 00:14:14,121
+É {o, NN} {labirinto, NN}.
 
 145
-00:12:35,735 --> 00:12:39,111
-   {You, PRP} {can, MD} {have, VB} {as, IN} {many, JJ} {words, NNS}
-   {with, IN} {him, PRP} {as, IN} {you, PRP} {like, IN}
+00:14:14,166 --> 00:14:16,500
+<{i, NN}>{O, NN} {nível, NN} {mais, NN} {profundo, NN} {deste, NN} {jogo, NN}.</{i, NN}>
 
 146
-00:12:39,155 --> 00:12:41,447
-       {soon, RB} {as, IN} {his, PRP$} {neck, NN}
-       {is, VBZ} {broke, NN}.
+00:14:16,543 --> 00:14:18,303
+{Vais, NN} {ajudar, NN}-{me, PRP} {a, DT} {descobrir, NN} {a, DT} {entrada, NN}.
 
 147
-00:12:41,490 --> 00:12:43,866
-       {Well, RB}, {I, PRP} {afraid, NN} {that, DT}
-       {not, RB} {gon, NN} {work, NN} {for, IN} {me, PRP}.
+00:14:20,673 --> 00:14:21,673
+{Não, NN}.
 
 148
-00:12:47,413 --> 00:12:51,331
- {How, WRB} {about, IN} {I, PRP} {tell, NN} {my, PRP$} {man, NN}
- {there, RB} {to, TO} {dig, NN} {that, IN} {grave, NN}
- {a, DT} {couple, NN} {feet, NNS} {deeper, NN}?
+00:14:40,109 --> 00:14:42,433
+<{i, NN}>{Consegues, NNS} {ouvir, NN}, {não, NN} {consegues, NNS}?</{i, NN}>
 
 149
-00:12:53,377 --> 00:12:55,878
-          {Well, RB}, {it, PRP} {gon, NN} {be, VB}
-          {an, DT} {awful, NN} {tight, NN} {fit, NN}
-          {for, IN} {all, DT} {of, IN} {you, PRP}.
+00:14:42,443 --> 00:14:45,361
+<{i, NN}>{Aquela, NN} {pequena, NN} {voz, NN}.</{i, NN}>
 
 150
-00:13:05,473 --> 00:13:08,056
-          ( {guns, NNS} {cock, NN} )
+00:14:45,405 --> 00:14:47,313
+<{i, NN}>{A, DT} {que, NN} {te, NN} {diz, NN} "{Não, NN} {faças, NN}".</{i, NN}>
 
 151
-00:13:08,100 --> 00:13:11,310
-       -<{i, NN}> ( {gunshots, NNS} )</{i, NN}>
-       -<{i, NN}> ( {men, NNS} {grunting, VBG} )</{i, NN}>
+00:14:47,323 --> 00:14:49,073
+<{i, NN}>{Não, NN} {fiques, NNS} {a, DT} {olhar, NN} {muito, NN} {tempo, NN}.</{i, NN}>
 
 152
-00:13:17,610 --> 00:13:19,193
-       -<{i, NN}> ( {gunshots, NNS} {stop, NN} )</{i, NN}>
-       -<{i, NN}> ( {bodies, NNS} {thud, NN} )</{i, NN}>
+00:14:49,118 --> 00:14:51,701
+<{i, NN}>{Não, NN} {toques, NNS}.</{i, NN}>
 
 153
-00:13:19,236 --> 00:13:22,070
-        <{i, NN}> ( {man, NN} {panting, VBG} )</{i, NN}>
-      <{i, NN}> {Oh, UH}, {shit, NN}. Oh, {shit, NN}.</{i, NN}>
+00:14:51,745 --> 00:14:53,745
+<{i, NN}>{Não, NN} {falas, NNS} {nada, NN} {que, NN} {te, NN} {arrependas, NNS}.</{i, NN}>
 
 154
-00:13:22,114 --> 00:13:22,821
-           <{i, NN}> {Oh, UH}, {shit, NN}!</{i, NN}>
+00:14:54,748 --> 00:14:56,539
+<{i, NN}>{Costumava, NN} {ser, NN} {assim, NN}.</{i, NN}>
 
 155
-00:13:22,865 --> 00:13:25,574
-          -<{i, NN}> ( {gunshot, NN} )</{i, NN}>
-          - {Ah, NN}!
+00:14:56,584 --> 00:14:59,334
+{Sempre, NN} {que, NN} {queria, NNS} {alguma, NN} {coisa, NN},
+{ouvia, NN} {essa, NN} {voz, NN}
 
 156
-00:13:35,795 --> 00:13:38,754
-      -<{i, NN}> ( {gun, NN} {clicking, VBG} )</{i, NN}>
-      -<{i, NN}> ( {shells, NNS} {clinking, VBG} )</{i, NN}>
+00:14:59,378 --> 00:15:01,753
+{a, DT} {dizer, NN}-{me, PRP} {para, NN} {parar, NN}, {ser, NN} {cuidadosa, NN},
 
 157
-00:13:43,052 --> 00:13:44,218
-               {Motherfucker, NN}.
+00:15:01,797 --> 00:15:05,173
+{deixar, NN} {de, NNS} {viver, NN}
+{grande, NN} {parte, NN} {da, NN} {minha, NN} {vida, NN}.
 
 158
-00:13:44,261 --> 00:13:48,388
-{That, DT} {the, DT} {best, JJS} {thanks, NNS}
-{you, PRP} {can, MD} {muster, NN}, {Lawrence, NNP}?
+00:15:05,216 --> 00:15:08,051
+{Sabes, NNS} {qual, JJ} é {o, NN} ú{nico, NN} {sítio, NN}
+{onde, NN} {essa, NN} {voz, NN} {me, PRP} {deixou, NN} {em, NN} {paz, NN}?
 
 159
-00:13:48,432 --> 00:13:50,474
-{You, PRP} {used, VBN} {to, TO} {be, VB}
-{a, DT} {little, JJ} {more, RBR} {eloquent, NN}.
+00:15:09,388 --> 00:15:11,471
+{Nos, NN} {meus, NN} {sonhos, NN}.
 
 160
-00:13:50,518 --> 00:13:54,228
-         {Do, VB} {I, PRP}-- {do, VB} {I, PRP} {know, VB} {you, PRP}?
+00:15:11,514 --> 00:15:14,600
+{Era, NN} {livre, NN}. {Podia, NNP} {ser, NN} {tão, NN} {boa, NN}
 
 161
-00:13:54,271 --> 00:13:57,064
-   {Your, PRP$} {pal, NN} {Kissy, NNP}
-   {sent, NN} {me, PRP} {your, PRP$} {way, NN}.
+00:15:14,643 --> 00:15:17,936
+{ou, NN} {má, NN} {tanto, NN} {quanto, NN} {desejasse, NN}.
 
 162
-00:13:57,107 --> 00:13:57,940
-   {Sends, NNS} {his, PRP$} {regards, NNS}.
+00:15:17,980 --> 00:15:20,062
+{E, NN} {se, NN} {eu, NN} {desejasse, NN} {alguma, NN} {coisa, NN},
 
 163
-00:14:05,574 --> 00:14:06,824
-          {What, WP}-- {what, WP} {is, VBZ} {this, DT}?
+00:15:20,106 --> 00:15:22,816
+{bastava, NN} {estender, NN} {a, DT} {mão, NN} {e, NN} {agarrá, NN}-{la, NN}.
 
 164
-00:14:09,578 --> 00:14:11,370
-      {You, PRP} {know, VB} {exactly, RB}
-      {what, WP} {it, PRP} {is, VBZ}.
+00:15:25,863 --> 00:15:27,278
+{Mas, NN} {eu, NN} {acordava, NN}
 
 165
-00:14:11,413 --> 00:14:14,122
-       {It, PRP} {the, DT} {maze, NN},
+00:15:27,322 --> 00:15:29,802
+{e, NN} {a, DT} {voz, NN} {começava, NN} {outra, NN} {vez, NN}.
 
 166
-00:14:14,166 --> 00:14:16,500
-<{i, NN}>{the, DT} {deepest, NN} {level, NN}</{i, NN}>
-<{i, NN}>{of, IN} {this, DT} {game, NN}.</{i, NN}>
+00:15:31,326 --> 00:15:33,911
+{Então, NN}, {fugi, NN}.
 
 167
-00:14:16,544 --> 00:14:17,960
-   {You, PRP} {gon, NN} {help, NN} {me, PRP}
-   {find, VB} {the, DT} {entrance, NN}.
+00:15:33,953 --> 00:15:36,203
+{Atravessei, NN} {o, NN} {mar, NN} {brilhante, NN}.
 
 168
-00:14:20,673 --> 00:14:20,838
-                      {No, DT}.
+00:15:36,248 --> 00:15:39,124
+{E, NN} {quando, NN} {finalmente, NN} {pus, NN} {o, NN} {pé, NN}
+{em, NN} {terreno, NN} {sólido, NN},
 
 169
-00:14:22,925 --> 00:14:25,717
-     ( {whimpers, NNS}, {grunting, VBG} )
+00:15:39,168 --> 00:15:42,210
+{a, DT} {primeira, NN} {coisa, NN} {que, NN} {eu, NN} {ouvi, NN}
+{foi, NN} {o, NN} {raio, NN} {da, NN} {voz, NN}.
 
 170
-00:14:35,020 --> 00:14:37,104
-        ( {piano, NN} {playing, VBG} )
+00:15:43,880 --> 00:15:45,379
+{Queres, NNS} {saber, NN} {o, NN} {que, NN} {disse, NN}?
 
 171
-00:14:40,109 --> 00:14:42,401
-         {Maeve, NNP} {voice, NN}:
-        <{i, NN}> {You, PRP} {can, MD} {hear, NN} {it, PRP},</{i, NN}>
-           <{i, NN}> {ca, MD} {you, PRP}?</{i, NN}>
+00:15:50,346 --> 00:15:52,511
+{Disse, NN}...
 
 172
-00:14:42,444 --> 00:14:45,362
-       <{i, NN}> {That, DT} {little, JJ} {voice, NN}.</{i, NN}>
+00:15:59,355 --> 00:16:02,188
+{Desculpe, NN}, {dá, NN}-{me, PRP} {licença, NN}?
 
 173
-00:14:45,406 --> 00:14:47,281
-         <{i, NN}> {The, DT} {one, CD} {that, DT}</{i, NN}>
-      <{i, NN}> {telling, VBG} {you, PRP} "{do, VBP}."</{i, NN}>
+00:16:07,236 --> 00:16:10,238
+<{i, NN}>{Está, NN} {bem, NN}, {Maeve, NNP}, {o, NN} {que, NN} {disse, NN} {a, DT} {voz, NN}?</{i, NN}>
 
 174
-00:14:47,324 --> 00:14:49,074
-     <{i, NN}> {Do, VBP} {stare, NN} {too, RB} {long, RB}.</{i, NN}>
+00:16:10,282 --> 00:16:13,325
+{Disse, NN}: {este, NN} é {um, NN} {novo, NN} {mundo, NN}
 
 175
-00:14:49,118 --> 00:14:51,702
-          <{i, NN}> {Do, VBP} {touch, NN}.</{i, NN}>
+00:16:13,369 --> 00:16:14,909
+{e, NN}, {neste, NN} {mundo, NN},
 
 176
-00:14:51,745 --> 00:14:52,828
-       <{i, NN}> {Do, VBP} {do, VB} {anything, NN}</{i, NN}>
-       <{i, NN}> {you, PRP} {might, MD} {regret, NN}.</{i, NN}>
+00:16:14,953 --> 00:16:17,913
+{podes, NNS} {ser, NN} {quem, NN} {tu, NN} {quiseres, NNS}.
 
 177
-00:14:54,748 --> 00:14:56,540
-     <{i, NN}> {I, PRP} {used, VBN} {to, TO} {be, VB} {the, DT} {same, JJ}.</{i, NN}>
+00:16:17,956 --> 00:16:20,749
+{A, DT} {resposta, NN} {pupilar, NN} é {boa, NN}.
+{O, NN} {sorriso, NN} é {bom, NN}.
 
 178
-00:14:56,584 --> 00:14:59,334
-    {Whenever, WRB} {I, PRP} {wanted, VBD} {something, NN},
-    {I, PRP} {could, MD} {hear, NN} {that, IN} {voice, NN}
+00:16:20,793 --> 00:16:24,001
+{Eu, NN} {cá, NN} {fodia, NN}-{a, DT}.
+{Qual, JJ} é {o, NN} {problema, NN}?
 
 179
-00:14:59,378 --> 00:15:01,753
-            {telling, VBG} {me, PRP} {to, TO} {stop, NN},
-            {to, TO} {be, VB} {careful, NN},
+00:16:24,046 --> 00:16:25,754
+{Os, NN} {convidados, NN} {não, NN} {a, DT} {querem, NN}.
 
 180
-00:15:01,797 --> 00:15:05,173
-            {to, TO} {leave, VB} {most, JJS}
-            {of, IN} {my, PRP$} {life, NN} {unlived, JJ}.
+00:16:25,798 --> 00:16:27,681
+{O, NN} {Sizemore, NN} {vai, NN} {lançar, NN} {um, NN}
+{novo, NN} {enredo, NN} {grandioso, NN}
 
 181
-00:15:05,217 --> 00:15:08,051
-       {You, PRP} {know, VB} {the, DT} {only, RB} {place, NN}
-       {that, IN} {voice, NN} {left, NN} {me, PRP} {alone, RB}?
+00:16:27,691 --> 00:16:30,008
+{e, NN} {quer, NN} {limpar, NN} {o, NN} {peso, NN} {morto, NN}.
 
 182
-00:15:09,388 --> 00:15:11,471
-            {In, IN} {my, PRP$} {dreams, NNS}.
+00:16:30,052 --> 00:16:33,386
+{Se, NN} {não, NN} {melhorar, NN} {o, NN} {desempenho, NN},
+{ela, NN} {vai, NN} {ser, NN} {desativada, NN}.
 
 183
-00:15:11,515 --> 00:15:14,600
-           {I, PRP} {was, VBD} {free, JJ}.
-           I {could, MD} {be, VB} {as, IN} {good, JJ}
+00:16:33,429 --> 00:16:34,788
+<{i, NN}>{Vamos, NNS} {dar, NN}-{lhe, NN} {mais, NN} {agressividade, NN}.</{i, NN}>
 
 184
-00:15:14,643 --> 00:15:17,936
-           {or, CC} {as, IN} {bad, JJ}
-           {as, IN} {I, PRP} {felt, NN} {like, IN} {being, VBG}.
+00:16:34,798 --> 00:16:37,474
+- {Dez, NN} {por, NN} {cento, NN}?
+- <{i, NN}>{O, NN} {dobro, NN}.</{i, NN}>
 
 185
-00:15:17,980 --> 00:15:20,063
-             {And, CC} {if, IN} {I, PRP} {wanted, VBD}
-             {something, NN},
+00:16:37,518 --> 00:16:39,842
+<{i, NN}>{Ela, NN} é {uma, NN} {prostituta, NN}.
+{Não, NN} {faz, NN} {sentido, NN} {fazer, NN}-{se, NN} {de, NNS} {anjinha, NN}.</{i, NN}>
 
 186
-00:15:20,107 --> 00:15:22,816
-          {I, PRP} {could, MD} {just, RB}
-          {reach, NN} {out, IN} {and, CC} {take, VB} {it, PRP}.
+00:16:39,852 --> 00:16:42,187
+<{i, NN}>{Se, NN} {não, NN} {resultar, NN}, {mandamo, NN}-{la, NN}
+{para, NN} {Comportamento, NN}.</{i, NN}>
 
 187
-00:15:25,863 --> 00:15:27,279
-        {But, CC} {then, RB} {I, PRP} {would, MD} {wake, NN} {up, RB}
+00:16:42,230 --> 00:16:43,688
+<{i, NN}>{Eles, NNS} {que, NN} {lidem, NN} {com, NN} {ela, NN}.</{i, NN}>
 
 188
-00:15:27,323 --> 00:15:28,989
-           {and, CC} {the, DT} {voice, NN} {would, MD}
-           {start, NN} {all, DT} {over, IN} {again, RB}.
+00:17:03,126 --> 00:17:05,292
+{Retirámos, NN} {os, NN} {dois, NN}
+{anfitriões, NN} {em, NN} {questão, NN}.
 
 189
-00:15:31,327 --> 00:15:33,911
-               {So, RB} {I, PRP} {ran, NN} {away, RB}.
+00:17:06,212 --> 00:17:08,462
+{Ensinou, NN}-{me, PRP} {a, DT} {construí, NN}-{los, NN},
 
 190
-00:15:33,954 --> 00:15:36,204
-        {Crossed, VBN} {the, DT} {shining, VBG} {sea, NN}.
+00:17:08,507 --> 00:17:11,215
+{mas, NN} {não, NN} {como, NN} é {difícil, NN} {desligá, NN}-{los, NN}.
 
 191
-00:15:36,248 --> 00:15:39,124
-     {And, CC} {when, WRB} {I, PRP} {finally, RB} {set, NN} {foot, NN}
-     {back, RB} {on, IN} {solid, JJ} {ground, NN},
+00:17:11,259 --> 00:17:15,011
+{Não, NN} {podes, NNS} {fazer, NN} {de, NNS} {Deus, NN}
+{sem, NN} {ser, NN} {apresentado, NN} {ao, NN} {Diabo, NN}.
 
 192
-00:15:39,168 --> 00:15:42,210
-     {the, DT} {first, RB} {thing, NN} {I, PRP} {heard, NN}
-     {was, VBD} {that, IN} {goddamn, NN} {voice, NN}.
+00:17:15,055 --> 00:17:18,973
+{Há, NN} {mais, NN} {alguma, NN} {coisa, NN}
+{que, NN} {te, NN} {incomoda, NN}, {Bernard, NNP}.
 
 193
-00:15:43,881 --> 00:15:45,380
-       {Do, VB} {you, PRP} {know, VB} {what, WP} {it, PRP} {said, VBD}?
+00:17:19,018 --> 00:17:21,727
+{Eu, NN} {sei, NN} {como, NN} {funciona, NN} {essa, NN} {cabeça, NN}.
 
 194
-00:15:50,346 --> 00:15:52,512
-           {It, PRP} {said, VBD}...
+00:17:21,769 --> 00:17:23,394
+{Só, NN} {a, DT} {fotografia, NN}
 
 195
-00:15:54,350 --> 00:15:55,849
-           ( {gasping, VBG} )
+00:17:23,439 --> 00:17:26,856
+{não, NN} {poderia, NNS} {ter, NN} {causado, NN}
+{tantos, NNS} {danos, NNS} {ao, NN} {Abernathy, NN},
 
 196
-00:15:59,355 --> 00:16:02,189
-{I, PRP} {sorry, NN}, {will, MD} {you, PRP}
-{please, NN} {excuse, NN} {me, PRP}?
+00:17:26,900 --> 00:17:30,317
+{não, NN} {sem, NN} {algum, NN} {tipo, NN}
+{de, NNS} {interferência, NN} {exterior, NN}.
 
 197
-00:16:07,237 --> 00:16:10,238
-              {Man, NN}:
-       <{i, NN}> {All, DT} {right, NN}, {Maeve, NNP},</{i, NN}>
-        <{i, NN}> {what, WP} {did, VBD} {it, PRP} {say, VB}?</{i, NN}>
+00:17:32,155 --> 00:17:33,395
+{Achas, NNS} {que, NN} é {sabotagem, NN}?
 
 198
-00:16:10,282 --> 00:16:13,325
-             {Maeve, NNP}:
-       <{i, NN}> {It, PRP} {said, VBD}, "{This, DT} {is, VBZ}</{i, NN}>
-         <{i, NN}> {the, DT} {new, JJ} {world, NN}.</{i, NN}>
+00:17:33,406 --> 00:17:37,909
+{Imaginas, NNS} {alguém, NN} {a, DT} {brincar, NN}
+{com, NN} {as, IN} {nossas, NNS} {criações, NN}?
 
 199
-00:16:13,369 --> 00:16:14,910
-       {And, CC} {in, IN} {this, DT} {world, NN},
+00:17:37,952 --> 00:17:41,538
+É {a, DT} {solução, NN} {mais, NN} {simples, NNS}.
 
 200
-00:16:14,954 --> 00:16:17,913
-       {you, PRP} {can, MD} {be, VB} {whoever, NN}
-       {the, DT} {fuck, NN} {you, PRP} {want, NN}."
+00:17:41,582 --> 00:17:43,539
+{A, DT} {lâmina, NN} {do, VB} {senhor, NN} {Occam, NN}.
 
 201
-00:16:17,957 --> 00:16:20,749
-{Pupillary, JJ} {response, NN} {is, VBZ} {good, JJ}.
-Smile {is, VBZ} {good, JJ}.
+00:17:43,584 --> 00:17:47,210
+{O, NN} {problema, NN}, {Bernard, NNP},
+é {aquilo, NN} {que, NN} {tu, NN} {e, NN} {eu, NN} {fazemos, NN}
 
 202
-00:16:20,793 --> 00:16:24,002
-{I, PRP} {fuck, NN} {her, PRP$}.
-What'{s, NN} {the, DT} {problem, NN}?
+00:17:47,253 --> 00:17:51,757
+{ser, NN} {tão, NN} {complicado, NN}.
 
 203
-00:16:24,046 --> 00:16:25,754
-  {Woman, NN}:
-  {The, DT} {guests, NNS} {would, MD}.
+00:17:52,759 --> 00:17:55,343
+{Praticamos, NNS} {bruxaria, NN}.
 
 204
-00:16:25,798 --> 00:16:27,047
-  {Sizemore, NN} {is, VBZ} {launching, VBG}
-  {some, DT} {huge, JJ} {new, JJ} {storyline, NN}
+00:17:57,306 --> 00:18:00,390
+{Proferimos, NNS} {as, IN} {palavras, NNS} {certas, NNS}.
 
 205
-00:16:27,091 --> 00:16:30,008
-    {and, CC} {he, PRP} {wants, VBZ} {us, PRP}
-    {to, TO} {clear, JJ} {out, IN} {the, DT} {deadweight, NN}.
+00:18:00,433 --> 00:18:02,673
+<{i, NN}>{Depois, NN} {criamos, NN} {a, DT} {própria, NNS} {vida, NN}...</{i, NN}>
 
 206
-00:16:30,052 --> 00:16:33,387
-    <{i, NN}> {If, IN} {we, PRP} {do, VBP} {get, VB}</{i, NN}>
-    <{i, NN}> {her, PRP$} {numbers, NNS} {back, RB} {up, RB},</{i, NN}>
-    <{i, NN}> {she, PRP} {be, VB} {decommissioned, VBN}.</{i, NN}>
+00:18:03,895 --> 00:18:05,979
+{A, DT} {partir, NN} {do, VB} {caos, NN}.
 
 207
-00:16:33,430 --> 00:16:34,554
-                <{i, NN}> {Let, VB} {bump, NN}</{i, NN}>
-                <{i, NN}> {her, PRP$} {aggression, NN}.</{i, NN}>
+00:18:10,109 --> 00:18:13,444
+{William, NNP} {de, NNS} {Occam, NN}
+{foi, NN} {um, NN} {monge, NN} {do, VB} {século, NN} {XIII, NN}.
 
 208
-00:16:34,598 --> 00:16:37,474
-          - 10%?
-          -<{i, NN}> {Double, JJ} {it, PRP}.</{i, NN}>
+00:18:13,489 --> 00:18:15,021
+{Agora, NNS} {não, NN} {nos, NNS} {pode, NN} {ajudar, NN}, {Bernard, NNP}.
 
 209
-00:16:37,518 --> 00:16:39,309
-       <{i, NN}> {She, PRP} {a, DT} {hooker, NN}.</{i, NN}>
-       <{i, NN}> {No, DT} {point, NN} {in, IN} {playing, VBG} {coy, NN}.</{i, NN}>
+00:18:15,031 --> 00:18:18,075
+{Queimar, NN}-{nos, NNS}-{ia, NN} {na, NNS} {fogueira, NN}.
 
 210
-00:16:39,353 --> 00:16:42,187
-    <{i, NN}> {If, IN} {this, DT} {does, VBZ} {work, NN},</{i, NN}>
-    <{i, NN}> {we, PRP} {punt, NN} {her, PRP$} {to, TO} {behavior, NN}.</{i, NN}>
+00:18:36,095 --> 00:18:38,214
+{Vamos, NNS} {lá, NN} {molhar, NN}
+{os, NN} {nossos, NN} {pezinhos, NN}, {vaqueiro, NN}.
 
 211
-00:16:42,231 --> 00:16:43,689
-         <{i, NN}> {Let, VB} {them, PRP} {deal, NN} {with, IN} {it, PRP}.</{i, NN}>
+00:19:01,787 --> 00:19:03,828
+{Desculpe, NN}.
 
 212
-00:17:03,127 --> 00:17:05,293
-    {We, PRP} {retired, VBN} {the, DT} {two, CD} {hosts, NNS}
-          {in, IN} {question, NN}.
+00:19:03,872 --> 00:19:05,955
+- {Estás, NN} {a, DT} {brincar, NN} {comigo, NN}?
+- {O, NN} {quê, NN}?
 
 213
-00:17:06,213 --> 00:17:08,463
-          {You, PRP} {taught, NN} {me, PRP}
-        {how, WRB} {to, TO} {make, VB} {them, PRP},
+00:19:05,999 --> 00:19:07,833
+{Vai, NN}-{te, NN} {foder, NN}, {Grizzly, NN} {Adams, NNS}.
 
 214
-00:17:08,507 --> 00:17:11,216
-     {but, CC} {not, RB} {how, WRB} {hard, JJ} {it, PRP} {is, VBZ}
-        {to, TO} {turn, NN} {them, PRP} {off, IN}.
+00:19:07,875 --> 00:19:11,086
+<{i, NN}>{Manifestação, NN} {pela, NN} {União, NN}.</{i, NN}>
 
 215
-00:17:11,260 --> 00:17:15,012
-       {You, PRP} {ca, MD} {play, NN} {God, NNP}
-    {without, IN} {being, VBG} {acquainted, VBN}
-         {with, IN} {the, DT} {devil, NN}.
+00:19:11,130 --> 00:19:13,755
+<{i, NN}>{Respondam, NN} {ao, NN} {chamamento, NN}
+{do, VB} {vosso, NN} {país, NN}.</{i, NN}>
 
 216
-00:17:15,055 --> 00:17:18,974
-       {There, EX} {something, NN} {else, RB}
-       {bothering, VBG} {you, PRP}, {Bernard, NNP}.
+00:19:13,798 --> 00:19:15,665
+{Este, NN} {regimento, NN} {dirige, NN}-{se, NN}
+à {zona, NN} {de, NNS} {combate, NN}
 
 217
-00:17:19,018 --> 00:17:21,727
-           {I, PRP} {know, VB} {how, WRB} {that, IN}
-           {head, NN} {of, IN} {yours, NNS} {works, NNS}.
+00:19:15,675 --> 00:19:17,509
+{para, NN} {definir, NN} {o, NN} {futuro, NN}
+{da, NN} {nossa, NN} {grande, NN} {nação, NN}.
 
 218
-00:17:21,770 --> 00:17:23,395
-      {The, DT} {photograph, NN} {alone, RB}
+00:19:17,519 --> 00:19:21,471
+{Lutamos, NN} {por, NN} {terras, NNS} {livres, NNS} {onde, NN}
+{homem, NN} {nenhum, NN} {se, NN} {ajoelha, NN}.
 
 219
-00:17:23,439 --> 00:17:26,857
-     {could, MD} {have, VB}
-     {caused, VBN} {that, IN} {level, NN}
-     {of, IN} {damage, NN} {to, TO} {Abernathy, NN},
+00:19:21,515 --> 00:19:22,607
+{Isto, NN} é...
 
 220
-00:17:26,900 --> 00:17:30,318
-   {not, RB} {without, IN} {some, DT} {other, JJ}
-    {outside, IN} {interference, NN}.
+00:19:22,613 --> 00:19:23,707
+<{i, NN}>{Fornecemos, NNS}-{vos, NN} {uniformes, NNS}.</{i, NN}>
 
 221
-00:17:32,156 --> 00:17:33,363
-       {You, PRP} {think, NN} {it, PRP} {sabotage, NN}?
+00:19:23,717 --> 00:19:25,474
+É {maior, NN} {do, VB} {que, NN} {eu, NN} {pensava, NN}.
 
 222
-00:17:33,407 --> 00:17:37,909
-    {Imagine, NN} {someone, NN} {been, VBN}
-    {diddling, VBG} {with, IN} {our, PRP$} {creations, NNS}?
+00:19:25,519 --> 00:19:28,060
+{O, NN} {quê, NN}, {isto, NN}? É {apenas, NNS} {Sweetwater, NN}.
 
 223
-00:17:37,953 --> 00:17:41,538
-          {It, PRP} {the, DT} {simplest, NN}
-          {solution, NN}.
+00:19:28,105 --> 00:19:29,538
+{Espera, NN} {até, NN} {veres, NNS} {o, NN} {resto, NN} {do, VB} {parque, NN}.
 
 224
-00:17:41,582 --> 00:17:43,540
-     {Ah, NN}, {Mr, NN}. Occam'{s, NN} {razor, NN}.
+00:19:29,548 --> 00:19:31,856
+- {Que, NN} {tamanho, NN} é {que, NN} {tem, NN}?
+- {Não, NN} {faço, NN} {ideia, NN}.
 
 225
-00:17:43,584 --> 00:17:47,210
-{The, DT} {problem, NN}, {Bernard, NNP},
-{is, VBZ} {that, IN} {what, WP} {you, PRP} {and, CC} {I, PRP} {do, VB}
+00:19:31,900 --> 00:19:33,858
+{Nunca, NN} {cheguei, NN} {aos, NN} {limites, NNS} {dele, NN}.
 
 226
-00:17:47,254 --> 00:17:51,757
-       {is, VBZ} {so, RB} {complicated, VBN}.
+00:19:33,902 --> 00:19:37,778
+{Vês, NN} {alguma, NN} {coisa, NN} {que, NN} {gostas, NNS}?
 
 227
-00:17:52,760 --> 00:17:55,343
-     {We, PRP} {practice, NN} {witchcraft, NN}.
+00:19:37,823 --> 00:19:39,355
+{Um, NN} {par, NN} {delas, NNS}, {pelo, NN} {menos, NNS}.
 
 228
-00:17:57,306 --> 00:18:00,390
-      {We, PRP} {speak, NN} {the, DT} {right, NN} {words, NNS}.
+00:19:39,365 --> 00:19:42,491
+{Mas, NN} {vou, NN} {obrigar, NN}-{te, NN}
+{a, DT} {implorar, NN}, {querida, NN}.
 
 229
-00:18:00,434 --> 00:18:02,434
-             <{i, NN}> {Then, RB} {we, PRP} {create, NN}</{i, NN}>
-             <{i, NN}> {life, NN} {itself, PRP}...</{i, NN}>
+00:19:44,453 --> 00:19:47,747
+{Vamos, NNS}!
 
 230
-00:18:03,896 --> 00:18:05,979
-          {out, IN} {of, IN} {chaos, NN}.
+00:19:50,294 --> 00:19:52,501
+{Precisa, NN} {de, NNS} {ajuda, NN}, {senhor, NN}?
 
 231
-00:18:06,023 --> 00:18:07,981
-     <{i, NN}> ( {machinery, NN} {whirring, VBG} )</{i, NN}>
+00:19:54,463 --> 00:19:56,381
+{Obrigado, NN}, {meu, NN} {amigo, NN}.
 
 232
-00:18:10,110 --> 00:18:13,445
-        {William, NNP} {of, IN} {Occam, NN}
-        {was, VBD} {a, DT} 13th {century, NN} {monk, NN}.
+00:19:56,424 --> 00:19:59,384
+{Não, NN}. {Ele, NN} {vai, NN} {tentar, NN} {envolver, NN}-{te, NN}
+{numa, NN} {caça, NN} {ao, NN} {tesouro, NN} {da, NN} {treta, NN}.
 
 233
-00:18:13,489 --> 00:18:14,988
-          {He, PRP} {ca, MD} {help, NN} {us, PRP} {now, RB},
-          {Bernard, NNP}.
+00:19:59,427 --> 00:20:01,678
+{Sorria, NNS}.
 
 234
-00:18:15,032 --> 00:18:18,075
-      {He, PRP} {would, MD} {have, VB} {us, PRP}
-      {burned, VBN} {at, IN} {the, DT} {stake, NN}.
+00:20:01,721 --> 00:20:04,806
+É {tudo, NN} {um, NN} {convite, NN}...
+{Ele, NN}, {a, DT} {rapariga, NN} {ao, NN} {lado, NN},
 
 235
-00:18:24,374 --> 00:18:26,083
-       ( {whistle, NN} {blowing, NN} )
+00:20:04,849 --> 00:20:06,348
+<{i, NN}>{o, NN} {bêbado, NN} {da, NN} {cidade, NN}.</{i, NN}>
 
 236
-00:18:36,095 --> 00:18:38,178
-         {Let, VB} {go, VB} {get, VB}
-         {our, PRP$} {feet, NNS} {wet, NN}, {buckaroo, NN}.
+00:20:06,393 --> 00:20:09,769
+{Todos, NN} {têm, NN} {uma, NN} {grande, NN} {aventura, NN}
+{que, NN} {te, NN} {querem, NN} {vender, NN}.
 
 237
-00:18:44,937 --> 00:18:47,646
-        <{i, NN}> ( {bell, NN} {ringing, VBG} )</{i, NN}>
+00:20:09,813 --> 00:20:12,355
+{Eles, NNS} {não, NN} {vão, NN} {a, DT} {lado, NN} {nenhum, NN}.
 
 238
-00:18:54,780 --> 00:18:56,822
-( {clinking, VBG} )
+00:20:12,398 --> 00:20:14,473
+{Primeiro, NN} {vais, NN} {pagar, NN}-{me, PRP}
+{uma, NN} {bebida, NN}, {está, NN} {bem, NN}?
 
 239
-00:19:01,787 --> 00:19:03,829
-     {Oh, UH}, {sorry, NN}.
+00:20:15,693 --> 00:20:17,318
+{Agora, NNS} {fique, NN} {quieta, NN}.
 
 240
-00:19:03,872 --> 00:19:05,956
-        - {You, PRP} {kidding, VBG} {me, PRP}?
-        - {What, WP}?
+00:20:38,299 --> 00:20:40,674
+<{i, NN}>{Volta, NN} {a, DT} {ligar, NN}-{te, NN}.</{i, NN}>
 
 241
-00:19:05,999 --> 00:19:07,833
-   {Fuck, NN} {you, PRP},
-   {Grizzly, NN} {Adams, NNS}.
+00:20:48,309 --> 00:20:51,228
+{Olá, NN}.
 
 242
-00:19:07,876 --> 00:19:11,086
-              {Man, NN}:
-      <{i, NN}> {Rally, NNP} {for, IN} {the, DT} {Union, NNP}.</{i, NN}>
+00:20:51,270 --> 00:20:54,689
+<{i, NN}>{Lembras, NNS}-{te, NN} {da, NN} {nossa, NN}
+ú{ltima, NN} {conversa, NN}, {Dolores, NNS}?</{i, NN}>
 
 243
-00:19:11,130 --> 00:19:13,755
-        <{i, NN}> {Respond, NN} {to, TO} {your, PRP$}</{i, NN}>
-        <{i, NN}> {country, NN} {call, NN}.</{i, NN}>
+00:20:54,732 --> 00:20:56,607
+{Sim, NN}, {claro, NN}.
 
 244
-00:19:13,799 --> 00:19:15,632
-        {This, DT} {regiment, NN} {is, VBZ} {headed, VBN}
-        {for, IN} {the, DT} {seat, NN} {of, IN} {war, NN}
+00:20:56,652 --> 00:20:59,236
+{E, NN} {não, NN} {contaste, NN} {a, DT} {ninguém, NN}
+{das, NNS} {nossas, NNS} {conversas, NN}?
 
 245
-00:19:15,676 --> 00:19:17,175
-      {to, TO} {define, NN} {the, DT} {future, NN}
-      {of, IN} {this, DT} {great, JJ} {nation, NN}.
+00:21:02,156 --> 00:21:04,240
+{Disse, NN}-{me, PRP} {para, NN} {não, NN} {o, NN} {fazer, NN}.
 
 246
-00:19:17,219 --> 00:19:21,471
-{We, PRP} {fight, NN} {for, IN} {a, DT} {free, JJ} {land, NN}
-{where, WRB} {no, DT} {man, NN} {has, VBZ} {to, TO} {bow, NN}.
+00:21:06,536 --> 00:21:08,869
+{Avança, NN} {para, NN} {análise, NN}, {por, NN} {favor, NN}.
 
 247
-00:19:21,515 --> 00:19:23,473
-         - {This, DT} {is, VBZ}, {uh, NN}--
-    - {Man, NN}:<{i, NN}> {We, PRP} {provide, NN} {you, PRP}</{i, NN}>
-         <{i, NN}> {with, IN} {uniforms, NNS}.</{i, NN}>
+00:21:10,665 --> 00:21:14,375
+{Em, NN} {quantas, NNS} {interações, NN} {participaste, NN}
+{desde, NN} {que, NN} {falámos, NN}?
 
 248
-00:19:23,517 --> 00:19:25,475
-{Well, RB}, {it, PRP} {bigger, JJR} {than, IN}
-{I, PRP} {thought, NN} {it, PRP} {would, MD} {be, VB}.
+00:21:15,378 --> 00:21:19,631
+138 {encontros, NNS}, {incluindo, NN} {este, NN}.
 
 249
-00:19:25,519 --> 00:19:28,061
-       {What, WP}, {this, DT}?
-       This {is, VBZ} {just, RB} {Sweetwater, NN}.
+00:21:19,674 --> 00:21:21,208
+{E, NN} {alguém, NN} {alterou, NN} {ou, NN} {atualizou, NN}
 
 250
-00:19:28,105 --> 00:19:29,104
-        {Wait, NN} {till, NN} {you, PRP} {see, VB}
-        {the, DT} {rest, NN} {of, IN} {the, DT} {park, NN}.
+00:21:21,218 --> 00:21:23,509
+{os, NN} {dados, NN} {heurísticos, NN} {do, VB} {teu, NN} {núcleo, NN}
+{durante, NN} {esse, NN} {tempo, NN}?
 
 251
-00:19:29,148 --> 00:19:31,857
-    - {How, WRB} {much, JJ} {bigger, JJR} {is, VBZ} {it, PRP}?
-    - {No, DT} {idea, NN}.
+00:21:23,553 --> 00:21:25,261
+{Não, NN}.
 
 252
-00:19:31,900 --> 00:19:33,859
-        {I, PRP} {never, RB} {reached, VBN} {the, DT} {end, NN}.
+00:21:28,767 --> 00:21:30,599
+{Recomeça, NN}.
 
 253
-00:19:33,902 --> 00:19:37,779
-     {See, VB} {something, NN} {you, PRP} {like, IN}?
+00:21:33,980 --> 00:21:35,388
+<{i, NN}>{Será, NN} {melhor, NN} {não, NN} {mencionares, NNS}</{i, NN}>
 
 254
-00:19:37,823 --> 00:19:39,322
-                {A, DT} {couple, NN} {things, NNS}
-                {at, IN} {least, JJS}.
+00:21:35,398 --> 00:21:38,482
+<{i, NN}>{as, IN} {coisas, NN} {de, NNS} {que, NN} {temos, NN} {falado, NN}.</{i, NN}>
 
 255
-00:19:39,366 --> 00:19:42,492
-  {But, CC} {I, PRP} {gon, NN} {make, VB} {you, PRP}
-  {beg, NN} {for, IN} {it, PRP}, {darlin, NN}.
+00:21:38,527 --> 00:21:40,734
+{Fiz, NN} {alguma, NN} {coisa, NN} {errada, NN}?
 
 256
-00:19:44,454 --> 00:19:47,747
-     - {Driver, NN}: {Hah, NN}, {come, VB} {on, IN}!
-     - ( {man, NN} {grunts, NNS} )
+00:21:40,778 --> 00:21:44,072
+{Não, NN}, {mas, NN} {há, NN} {qualquer, NN} {coisa, NN}
+{diferente, NN} {em, NN} {ti, NN},
 
 257
-00:19:47,791 --> 00:19:50,250
-       - {Whoa, NN}.
-       -<{i, NN}> ( {man, NN} #2 {groans, NNS} )</{i, NN}>
+00:21:44,115 --> 00:21:47,616
+{na, NNS} {forma, NN} {como, NN} {pensas, NN}.
 
 258
-00:19:50,294 --> 00:19:52,502
- {Need, NN} {a, DT} {hand, NN}, {sir, NN}?
+00:21:47,661 --> 00:21:49,451
+{Acho, NN} {isso, NN} {fascinante, NN},
 
 259
-00:19:54,464 --> 00:19:56,381
-           {Thank, NN} {you, PRP}, {my, PRP$} {friend, NN}.
+00:21:49,496 --> 00:21:52,998
+{mas, NN} {outros, NNS} {podem, NN}
+{vê, NN}-{lo, NN} {de, NNS} {outra, NN} {maneira, NN}.
 
 260
-00:19:56,425 --> 00:19:59,384
-{Do, VBP}. He'{ll, NN} {only, RB} {try, NN}
-{to, TO} {rope, NN} {you, PRP} {into, IN} {some, DT}
-{bullshit, NN} {treasure, NN} {hunt, NN}.
+00:21:54,750 --> 00:21:57,126
+{Fez, NN} {alguma, NN} {coisa, NN} {de, NNS} {errado, NN}?
 
 261
-00:19:59,428 --> 00:20:01,678
-          {Smile, NN}.
+00:21:59,631 --> 00:22:01,923
+{Desliga, NN} {o, NN} {registo, NN} {de, NNS}
+{eventos, NNS}, {por, NN} {favor, NN}.
 
 262
-00:20:01,722 --> 00:20:04,806
-{It, PRP} {all, DT} {a, DT} {come, VB} {on, IN}--
-{him, PRP}, {the, DT} {girl, NN} {next, JJ} {door, NN},
+00:22:01,967 --> 00:22:03,625
+{Apaga, NN} {esta, NN} {interação, NN}. {Confirma, NN}.
 
 263
-00:20:04,850 --> 00:20:06,349
-<{i, NN}>{the, DT} {town, NN} {drunk, NN}.</{i, NN}>
+00:22:03,634 --> 00:22:07,053
+{Sim, NN}.
 
 264
-00:20:06,393 --> 00:20:09,769
-{They, PRP} {all, DT} {got, VBD}
-{some, DT} {big, JJ} {adventure, NN} {that, IN}
-{they, PRP} {want, NN} {to, TO} {sell, NN} {you, PRP} {on, IN}.
+00:22:09,432 --> 00:22:12,218
+<{i, NN}>{Tens, NNS} {de, NNS} {regressar, NN}, {Dolores, NNS},</{i, NN}>
 
 265
-00:20:09,813 --> 00:20:12,355
-     {Hey, NN}, {they, PRP} {not, RB}
-      {going, VBG} {anywhere, RB}.
+00:22:12,260 --> 00:22:13,934
+<{i, NN}>{antes, NNS} {que, NN} {alguém, NN} {dê, NN} {por, NN} {tua, NN} {falta, NN}.</{i, NN}>
 
 266
-00:20:12,399 --> 00:20:14,441
-    {First, RB} {up, RB},
-    {you, PRP} {gon, NN} {buy, VB} {me, PRP}
-    {a, DT} {drink, NN}, {okay, NN}?
+00:22:23,946 --> 00:22:26,196
+<{i, NN}>{Então, NN}!</{i, NN}>
 
 267
-00:20:14,484 --> 00:20:15,650
-        <{i, NN}> ( {bell, NN} {ringing, VBG} )</{i, NN}>
+00:22:26,240 --> 00:22:29,284
+<{i, NN}>{E, NN} {quando, NN} {finalmente, NN} {meti, NN} {o, NN} {pé, NN}
+{em, NN} {terreno, NN} {sólido, NN},</{i, NN}>
 
 268
-00:20:15,694 --> 00:20:17,319
-  {Hold, VB} {still, RB}, {now, RB}.
+00:22:29,327 --> 00:22:31,827
+<{i, NN}>{a, DT} {primeira, NN} {coisa, NN} {que, NN} {ouvi, NN}
+{foi, NN} {o, NN} {raio, NN} {da, NN} {voz, NN}.</{i, NN}>
 
 269
-00:20:38,300 --> 00:20:40,675
-            {Bernard, NNP}:
-  <{i, NN}> {Bring, VB} {yourself, PRP} {back, RB} {online, NN}.</{i, NN}>
+00:22:33,248 --> 00:22:34,596
+{Tinha, NN}-{me, PRP} {seguido, NN} {o, NN} {caminho, NN} {todo, NN}.
 
 270
-00:20:48,310 --> 00:20:51,228
-             {Hello, NN}.
+00:22:34,641 --> 00:22:36,891
+{Sabes, NNS} {o, NN} {que, NN} {disse, NN} {ela, NN}?
 
 271
-00:20:51,271 --> 00:20:54,689
-        <{i, NN}> {Do, VB} {you, PRP} {remember, VB}</{i, NN}>
-        <{i, NN}> {our, PRP$} {last, JJ} {conversation, NN},</{i, NN}>
-        <{i, NN}> {Dolores, NNS}?</{i, NN}>
+00:22:38,753 --> 00:22:40,795
+- {Não, NN}.
+- {Disse, NN}...
 
 272
-00:20:54,733 --> 00:20:56,608
-         {Yes, UH}, {of, IN} {course, NN}.
+00:22:43,424 --> 00:22:45,717
+{Este, NN} é {um, NN} {novo, NN} {mundo, NN}.
 
 273
-00:20:56,652 --> 00:20:59,236
-     {And, CC} {you, PRP} {have, VBP} {told, NN} {anyone, NN}
-     {about, IN} {our, PRP$} {little, JJ} {talks, NNS}?
+00:22:45,760 --> 00:22:47,509
+{E, NN} {neste, NN} {mundo, NN},
 
 274
-00:21:02,157 --> 00:21:04,241
-    {You, PRP} {told, NN} {me, PRP} {not, RB} {to, TO}.
+00:22:47,554 --> 00:22:51,847
+{podes, NNS} {ser, NN} {quem, NN} {tu, NN} {quiseres, NNS}.
 
 275
-00:21:06,536 --> 00:21:08,870
-           {Step, NN} {into, IN} {analysis, NN},
-           {please, NN}.
+00:22:55,354 --> 00:22:58,730
+{Obrigado, NN}. {Talvez, NN} {noutra, NNS} {altura, NN}.
 
 276
-00:21:10,666 --> 00:21:14,376
-       {How, WRB} {many, JJ} {interactions, NNS}
-       {have, VB} {you, PRP} {participated, VBD} {in, IN}
-       {since, IN} {we, PRP} {last, JJ} {talked, VBD}?
+00:23:02,277 --> 00:23:04,234
+{Um, NN} {copo, NN} {de, NNS} {xerez, NN}.
 
 277
-00:21:15,379 --> 00:21:19,631
-         138 {encounters, NNS}
-       {including, VBG} {this, DT} {one, CD}.
+00:23:04,278 --> 00:23:05,944
+{Do, VB} {bom, NN}.
 
 278
-00:21:19,675 --> 00:21:21,174
-          {And, CC} {has, VBZ} {anyone, NN}
-          {altered, VBN} {or, CC} {updated, VBN}
+00:23:05,989 --> 00:23:09,824
+{Não, NN} {esse, NN} {mijo, NN} {de, NNS} {cavalo, NN}
+{que, NN} {costumas, NN} {servir, NN}.
 
 279
-00:21:21,218 --> 00:21:23,510
-          {your, PRP$} {core, NN} {heuristics, NNS}
-          {in, IN} {that, IN} {time, NN}?
+00:23:12,203 --> 00:23:14,203
+{Já, NN} {te, NN} {disse, NN}, {nunca, NN}
+{abras, NNS} {tanto, NN} {essa, NN} {boca, NN}
 
 280
-00:21:23,553 --> 00:21:25,262
-{No, DT}.
+00:23:14,247 --> 00:23:15,872
+{a, DT} {não, NN} {ser, NN} {que, NN} {alguém, NN} {esteja, NN} {a, DT} {pagar, NN}.
 
 281
-00:21:28,767 --> 00:21:30,600
-               {Resuming, VBG}.
+00:23:15,915 --> 00:23:18,249
+{Desculpa, NN}, {Maeve, NNP}.
 
 282
-00:21:33,981 --> 00:21:35,355
-       <{i, NN}> {I, PRP} {think, NN} {it, PRP} {would, MD} {be, VB} {best, JJS}</{i, NN}>
-       <{i, NN}> {if, IN} {you, PRP} {not, RB} {mention, NN}</{i, NN}>
+00:23:18,292 --> 00:23:20,532
+{Não, NN} {dormi, NN} {muito, NN} {a, DT} {noite, RB} {passada, NN}.
 
 283
-00:21:35,399 --> 00:21:38,483
-         <{i, NN}> {the, DT} {things, NNS} {we, PRP} {been, VBN}</{i, NN}>
-         <{i, NN}> {talking, VBG} {about, IN}.</{i, NN}>
+00:23:22,047 --> 00:23:23,712
+{Estás, NN} {a, DT} {ter, NN} {pesadelos, NN} {outra, NN} {vez, NN}?
 
 284
-00:21:38,527 --> 00:21:40,735
-        {Have, VB} {I, PRP} {done, VBN}
-        {something, NN} {wrong, JJ}?
+00:23:23,757 --> 00:23:26,673
+À{s, NN} {vezes, NNS}.
 
 285
-00:21:40,779 --> 00:21:44,072
-       {No, DT}, {but, CC} {there, EX} {something, NN}
-       {different, JJ} {about, IN} {you, PRP},
+00:23:26,718 --> 00:23:29,176
+À{s, NN} {vezes, NNS}, {são, NN} {mesmo, NN} {maus, NN}.
 
 286
-00:21:44,116 --> 00:21:47,617
-       {about, IN} {the, DT} {way, NN} {you, PRP} {think, NN}.
+00:23:29,221 --> 00:23:32,055
+{Faz, NN} {como, NN} {eu, NN}.
 
 287
-00:21:47,661 --> 00:21:49,452
-         {I, PRP} {find, VB} {it, PRP} {fascinating, VBG},
+00:23:32,098 --> 00:23:34,641
+{Se, NN} {estiveres, NNS} {num, NN} {pesadelo, NN},
 
 288
-00:21:49,496 --> 00:21:52,998
-           {but, CC} {others, NNS} {may, MD} {not, RB}
-           {see, VB} {it, PRP} {that, IN} {way, NN}.
+00:23:34,683 --> 00:23:37,769
+{fecha, NN} {os, NN} {olhos, NN},
 
 289
-00:21:54,751 --> 00:21:57,127
-        {Have, VB} {you, PRP} {done, VBN}
-        {something, NN} {wrong, JJ}?
+00:23:37,813 --> 00:23:39,492
+{conta, NN} {para, NN} {trás, NN} {a, DT} {partir, NN} {do, VB} {três, NN}
 
 290
-00:21:59,631 --> 00:22:01,923
-         {Turn, NN} {off, IN}
-         {your, PRP$} {event, NN} {log, NN}, {please, NN}.
+00:23:42,858 --> 00:23:43,979
+{e, NN} {acordas, NNS} {logo, NN}.
 
 291
-00:22:01,967 --> 00:22:03,591
-        {Erase, NN} {this, DT} {interaction, NN}.
-        Confir{m, NN}
+00:23:45,737 --> 00:23:48,779
+{Confortável, NN}, {quente, NN}
+{e, NN} {segura, NN} {na, NNS} {tua, NN} {cama, NN}...
 
 292
-00:22:03,635 --> 00:22:07,053
-              {Yes, UH}.
+00:23:50,491 --> 00:23:52,483
+{onde, NN} {vais, NN} {ser, NN} {fodida, NN}
+{até, NN} {adormeceres, NNS} {outra, NN} {vez, NN}
 
 293
-00:22:09,433 --> 00:22:13,018
-         <{i, NN}> {You, PRP} {should, MD} {be, VB}</{i, NN}>
-         <{i, NN}> {getting, VBG} {back, RB}, {Dolores, NNS},</{i, NN}>
+00:23:52,493 --> 00:23:54,486
+{por, NN} {um, NN} {desses, NNS} {idiotas, NNS}
+{e, NN} {as, IN} {suas, NN} {pilas, NNS} {minúsculas, NNS}.
 
 294
-00:22:13,061 --> 00:22:13,935
-               <{i, NN}> {before, IN} {someone, NN}</{i, NN}>
-               <{i, NN}> {misses, NNS} {you, PRP}.</{i, NN}>
+00:24:01,670 --> 00:24:03,430
+{De, NNP} {volta, NN} {ao, NN} {trabalho, NN}.
 
 295
-00:22:13,979 --> 00:22:16,730
-        <{i, NN}> ( {door, NN} {closes, NNS} )</{i, NN}>
+00:24:13,682 --> 00:24:15,722
+{Estás, NN} {bem, NN}?
 
 296
-00:22:21,570 --> 00:22:23,903
-       <{i, NN}> ( {piano, NN} {playing, VBG} )</{i, NN}>
+00:24:17,227 --> 00:24:19,018
+{Pagas, NN} {pelas, NNS} {bebidas, NNS},
 
 297
-00:22:23,947 --> 00:22:26,197
-      - {Man, NN}:<{i, NN}> {Come, VB} {on, IN}, {now, RB}!</{i, NN}>
-      -<{i, NN}> ( {chatter, NN} )</{i, NN}>
+00:24:19,061 --> 00:24:21,541
+{não, NN} {pelo, NN} {direito, NN} {de, NNS} {ficares, NNS}
+{especado, NN} {a, DT} {olhar, NN} {para, NN} {mim, NN}.
 
 298
-00:22:26,241 --> 00:22:29,284
-             {Maeve, NNP}:
-  <{i, NN}> {And, CC} {when, WRB} {I, PRP} {finally, RB} {set, NN} {foot, NN}</{i, NN}>
-     <{i, NN}> {back, RB} {on, IN} {solid, JJ} {ground, NN},</{i, NN}>
+00:24:24,733 --> 00:24:27,777
+{Acho, NN} {que, NN} {temos, NN} {um, NN} {problema, NN}.
 
 299
-00:22:29,328 --> 00:22:31,828
-      <{i, NN}> {first, RB} {thing, NN} {I, PRP} {heard, NN}</{i, NN}>
-    <{i, NN}> {was, VBD} {that, IN} {goddamn, NN} {voice, NN}.</{i, NN}>
+00:24:27,820 --> 00:24:29,612
+- {Onde, NN}?
+- {Mariposa, NN}.
 
 300
-00:22:33,248 --> 00:22:33,997
-   {It, PRP} {had, VBD} {followed, VBD} {me, PRP}
-    {all, DT} {the, DT} {way, NN} {over, IN}.
+00:24:29,655 --> 00:24:31,397
+{A, DT} {Madame, NN} {está, NN} {em, NN}
+{período, NN} {experimental, NN},
 
 301
-00:22:34,041 --> 00:22:36,291
-{Do, VB} {you, PRP} {know, VB}
-{what, WP} {it, PRP} {said, VBD}?
+00:24:31,407 --> 00:24:34,192
+{mas, NN} {o, NN} {seu, NN} {desempenho, NN} {continua, NN}
+{a, DT} {declinar, NN} {cada, NN} {vez, NN} {mais, NN}.
 
 302
-00:22:38,754 --> 00:22:40,795
-          - {No, DT}.
-          - {It, PRP} {said, VBD}...
+00:24:34,201 --> 00:24:36,236
+{Dá, NN} {a, DT} {tarefa, NN} à {Clementine, NN}, {por, NN} {agora, NNS}.
 
 303
-00:22:40,839 --> 00:22:43,381
-                ( {gasps, NN} )
+00:24:36,246 --> 00:24:38,621
+{Ela, NN} {já, NN} {o, NN} {fez, NN} {antes, NNS}.
 
 304
-00:22:43,425 --> 00:22:45,717
-    ...{this, DT} {is, VBZ} {the, DT} {new, JJ} {world, NN}.
+00:24:42,586 --> 00:24:43,785
+<{i, NN}>{E, NN} {a, DT} {unidade, NN} {velha, NN}?</{i, NN}>
 
 305
-00:22:45,761 --> 00:22:47,510
-  {And, CC} {in, IN} {this, DT} {world, NN},
+00:24:43,795 --> 00:24:45,537
+{Deixa, NN}-{o, NN} {no, DT} {piso, NN} {por, NN} {esta, NN} {noite, RB},
 
 306
-00:22:47,554 --> 00:22:51,848
-   {you, PRP} {can, MD} {be, VB} {whoever, NN}
-   {the, DT} {fuck, NN} {you, PRP} {want, NN}.
+00:24:45,547 --> 00:24:48,589
+{a, DT} {ver, NN} {se, NN} {alguém, NN} {lhe, NN} {quer, NN} {dar, NN} {uma, NN}.
 
 307
-00:22:51,892 --> 00:22:53,850
-                 ( {laughs, NNS} )
+00:24:48,633 --> 00:24:51,633
+{Trazemo, NN}-{la, NN} {pela, NN} {manhã, NN}
+{para, NN} {ser, NN} {desativada, NN}.
 
 308
-00:22:55,354 --> 00:22:58,730
-          {Thanks, NNS}.
-          Maybe {another, DT} {time, NN}.
+00:24:53,637 --> 00:24:54,637
+{Uma, NN} {pena, NN}.
 
 309
-00:23:00,734 --> 00:23:02,233
-          {Oh, UH}.
+00:25:11,948 --> 00:25:14,406
+{A, DT} {Garantia, NN} {de, NNS} {Qualidade, NN}
+{vai, NN} {multar, NN}-{te, NN} {por, NN} {isto, NN}.
 
 310
-00:23:02,277 --> 00:23:04,235
-      {Glass, NN} {of, IN} {sherry, NN}.
+00:25:14,451 --> 00:25:17,035
+{E, NN} {a, DT} {mulher, NN} {responsável, NN}
 
 311
-00:23:04,279 --> 00:23:05,945
-    {The, DT} {good, JJ} {stuff, NN}.
+00:25:17,077 --> 00:25:19,662
+é {bastante, NN} {formidável, NN}.
 
 312
-00:23:05,989 --> 00:23:09,824
-{Not, RB} {that, IN} {horse, NN} {piss, NN} {you, PRP} {strain, NN}
-{through, IN} {your, PRP$} {old, JJ} {curtains, NNS}.
+00:25:22,375 --> 00:25:25,835
+{Sempre, NN} {podes, NNS} {dizer, NN} {que, NN} é {uma, NN} {cabra, NN}.
+{Ouço, NN}-{o, NN} {muitas, NNS} {vezes, NNS}.
 
 313
-00:23:09,868 --> 00:23:12,160
-                   ( {yawns, NNS} )
+00:25:25,878 --> 00:25:28,462
+{Tens, NNS} {falado, NN} {com, NN} {a, DT} {sede, NN}.
 
 314
-00:23:12,204 --> 00:23:14,204
- {I, PRP} {told, NN} {you, PRP}, {never, RB} {open, JJ}
- {your, PRP$} {mouth, NN} {that, IN} {wide, JJ}
+00:25:28,507 --> 00:25:30,582
+{Só, NN} {ficas, NN} {mais, NN} {descontraída, NN}
+{depois, NN} {de, NNS} {vires, NNS} {da, NN}...
 
 315
-00:23:14,247 --> 00:23:15,872
- {unless, IN} {someone, NN}
- {paying, VBG} {you, PRP} {for, IN} {it, PRP}.
+00:25:30,592 --> 00:25:35,345
+{Esta, NN} {rotina, NN} {de, NNS} {análise, NN} {ao, NN} {meu, NN} {caráter, NN}
+{não, NN} é {tão, NN} {charmosa, NN} {como, NN} {pensas, NN}.
 
 316
-00:23:15,916 --> 00:23:18,249
-              {Sorry, NN}, {Maeve, NNP}.
+00:25:35,387 --> 00:25:36,846
+{Correu, NN} {bem, NN}, {então, NN}?
 
 317
-00:23:18,293 --> 00:23:19,459
-             {I, PRP} {did, VBD} {sleep, NN} {much, JJ}
-             {last, JJ} {night, NN}.
+00:25:38,432 --> 00:25:41,601
+{Diz, NN}-{me, PRP} {só, NN} {que, NN} {o, NN} {teu, NN} {departamento, NN}
+{estará, NN} {pronto, NN} {para, NN} {o, NN} {lançamento, NN}.
 
 318
-00:23:22,047 --> 00:23:23,713
-   {You, PRP} {having, VBG}
-   {nightmares, NNS} {again, RB}?
+00:25:41,644 --> 00:25:43,228
+{Estaremos, NNS} {prontos, NN}.
 
 319
-00:23:23,757 --> 00:23:26,674
-                  {Sometimes, RB}.
+00:25:43,270 --> 00:25:45,730
+{E, NN} {outra, NN} {coisa, NN}.
+{O, NN} {Abernathy, NN} {e, NN} {a, DT} {atualização, NN}.
 
 320
-00:23:26,718 --> 00:23:29,177
-              {Sometimes, RB}
-              {they, PRP} {real, JJ} {bad, JJ}.
+00:25:45,773 --> 00:25:48,316
+{Ouvi, NN} {dizer, NN} {que, NN} {o, NN} {teu, NN} {departamento, NN}
+{ainda, NN} {andam, NN} {a, DT} {fazer, NN} {perguntas, NNS}.
 
 321
-00:23:29,221 --> 00:23:32,055
-        {Do, VB} {what, WP} {I, PRP} {do, VB}.
+00:25:48,359 --> 00:25:50,276
+É {para, NN} {isso, NN} {que, NN} {nos, NNS} {pagas, NN}.
 
 322
-00:23:32,099 --> 00:23:34,641
-   {You, PRP} {find, VB} {yourself, PRP}
-   {in, IN} {a, DT} {bad, JJ} {dream, NN},
+00:25:51,654 --> 00:25:53,779
+{Mas, NN} {não, NN} {estou, NN} {preocupado, NN}.
 
 323
-00:23:34,684 --> 00:23:37,769
-       {close, RB} {your, PRP$} {eyes, NNS},
+00:25:53,823 --> 00:25:55,949
+{Todos, NN} {os, NN} {anfitriões, NN}
+{estão, NN} {de, NNS} {volta, NN} {ao, NN} {normal, JJ}.
 
 324
-00:23:37,813 --> 00:23:39,396
-       {count, NN} {backwards, NNS}
-       {from, IN} {three, CD}...
+00:25:55,991 --> 00:25:58,201
+{Ainda, NN} {bem, NN}.
 
 325
-00:23:42,859 --> 00:23:43,483
-     {wake, NN} {yourself, PRP} {right, NN} {up, RB}.
+00:25:58,244 --> 00:26:00,044
+{Não, NN} {queria, NNS} {nada, NN} {a, DT} {distrair, NN}
+{os, NN} {nossos, NN} {hóspedes, NNS}
 
 326
-00:23:45,737 --> 00:23:48,780
-{Nice, NN} {and, CC} {warm, NN}
-{and, CC} {safe, JJ} {in, IN} {your, PRP$} {bed, NN}...
+00:26:00,054 --> 00:26:02,971
+{das, NNS} {suas, NN} {violações, NN} {e, NN} {pilhagens, NNS}.
 
 327
-00:23:50,492 --> 00:23:52,450
-    {where, WRB} {you, PRP} {can, MD} {get, VB} {fucked, VBN}
-    {right, NN} {back, RB} {to, TO} {sleep, NN}
+00:26:13,676 --> 00:26:16,844
+{Estás, NN} {a, DT} {pensar, NN} {como, NN}
+{distingui, NN}-{los, NN} {de, NNS} {nós, NN},
 
 328
-00:23:52,494 --> 00:23:54,452
-  {by, IN} {one, CD} {of, IN} {these, DT} {assholes, NNS}
-  {with, IN} {their, PRP$} {miniature, NN} {peckers, NNS}.
+00:26:16,887 --> 00:26:17,929
+{não, NN} {estás, NN}?
 
 329
-00:23:54,496 --> 00:23:56,204
-                   ( {chuckles, NNS} )
+00:26:18,847 --> 00:26:22,141
+{Bem, NN}, {a, DT} {maneira, NN}
+{mais, NN} {rápida, NN} {de, NNS} {descobrir, NN}...
 
 330
-00:23:58,583 --> 00:24:01,626
-                     {Ah, NN}.
+00:26:23,519 --> 00:26:25,603
+{Podemos, NNS}...
+{Podemos, NNS} {acabar, NN} {de, NNS} {comer, NN}?
 
 331
-00:24:01,670 --> 00:24:02,335
-         - ( {slaps, NNS} )
-         - {Back, RB} {to, TO} {work, NN}.
+00:26:28,232 --> 00:26:30,115
+{Estás, NN} {a, DT} {ver, NN}, é {este, NN} {o, NN} {teu, NN} {problema, NN},
+{meu, NN} {amigo, NN}.
 
 332
-00:24:13,682 --> 00:24:15,723
-{You, PRP} {all, DT} {right, NN}?
+00:26:30,125 --> 00:26:32,102
+{Sempre, NN} {preocupado, NN} {em, NN}
+{não, NN} {arranjar, NN} {confusões, NN}.
 
 333
-00:24:17,227 --> 00:24:19,018
-       {You, PRP} {pay, NN} {for, IN} {the, DT} {drinks, NNS},
+00:26:32,112 --> 00:26:33,394
+É{s, NN} {igualzinho, NN} {no, DT} {trabalho, NN}.
 
 334
-00:24:19,062 --> 00:24:20,437
-                  {not, RB} {the, DT} {right, NN}
-                 {to, TO} {gawk, NN} {at, IN} {me, PRP}.
+00:26:33,404 --> 00:26:35,863
+{Talentoso, NN}, {motivado, NN} {e, NN} {inofensivo, NN}.
 
 335
-00:24:24,734 --> 00:24:27,777
-              {I, PRP} {think, NN} {we, PRP} {have, VB}
-              {a, DT} {problem, NN}.
+00:26:35,906 --> 00:26:39,200
+{Pensei, NN} {que, NN} {não, NN} {querias, NNS}
+{falar, NN} {de, NNS} {trabalho, NN} {aqui, NN}.
 
 336
-00:24:27,821 --> 00:24:29,612
-           - {Where, WRB}?
-           - {Mariposa, NN}.
+00:26:39,243 --> 00:26:41,368
+{Quem, NN} {te, NN} {disse, NN} {que, NN} {esta, NN} {viagem, NN}
+{não, NN} é {de, NNS} {trabalho, NN}?
 
 337
-00:24:29,656 --> 00:24:31,364
-             {Madam, NNP} {listed, VBN}
-             {as, IN} {probationary, JJ},
+00:26:42,955 --> 00:26:46,039
+{Boa, NN} {noite, RB}.
 
 338
-00:24:31,408 --> 00:24:34,159
-        {but, CC} {her, PRP$} {performance, NN}
-        {has, VBZ} {continued, JJ} {to, TO} {decline, NN}
-        {even, RB} {further, RB}.
+00:26:47,626 --> 00:26:50,044
+{Merda, NNP}.
 
 339
-00:24:34,202 --> 00:24:36,202
-             {Re, NN}-{task, NN} {Clementine, NN}
-             {for, IN} {now, RB}.
+00:26:50,087 --> 00:26:52,248
+{Não, NN} {faças, NN} {contacto, NN} {visual, JJ}.
 
 340
-00:24:36,246 --> 00:24:38,621
-      {She, PRP} {done, VBN} {the, DT} {job, NN} {before, IN}.
+00:26:53,340 --> 00:26:55,416
+{Meu, NN} {amigo, NN}, {queria, NNS} {agradecer, NN}-{lhe, NN}
+{por, NN} {me, PRP} {ter, NN} {ajudado, NN}
 
 341
-00:24:38,665 --> 00:24:40,373
-           <{i, NN}> ( {beeps, NNS} )</{i, NN}>
+00:26:55,426 --> 00:26:57,343
+{durante, NN} {o, NN} {meu, NN} {infeliz, NN} {acidente, NN}.
 
 342
-00:24:42,586 --> 00:24:43,751
-           {Controller, NN}:
-       <{i, NN}> {And, CC} {the, DT} {old, JJ} {unit, NN}?</{i, NN}>
+00:26:57,386 --> 00:27:00,179
+{Deixa, NN}-{nos, NNS} {em, NN} {paz, NN}.
 
 343
-00:24:43,795 --> 00:24:45,503
-     {Maybe, RB} {leave, VB} {her, PRP$}
-     {on, IN} {the, DT} {floor, NN} {for, IN} {the, DT} {night, NN},
+00:27:00,222 --> 00:27:02,973
+{Como, NN} {sinal, JJ}
+{da, NN} {minha, NN} {humilde, NN} {apreciação, NN},
 
 344
-00:24:45,547 --> 00:24:48,590
-       {see, VB} {if, IN} {anyone, NN} {wants, VBZ}
-       {one, CD} {last, JJ} {turn, NN}.
+00:27:03,018 --> 00:27:06,184
+{queria, NNS} {oferecer, NN}-{lhe, NN}
+{a, DT} {oportunidade, NN} {de, NNS} {uma, NN} {vida, NN}.
 
 345
-00:24:48,633 --> 00:24:50,383
-          {We, PRP} {recall, NN} {her, PRP$}
-          {in, IN} {the, DT} {morning, NN},
-          {decommission, NN} {her, PRP$}.
+00:27:06,229 --> 00:27:07,644
+{Não, NN} {estamos, NN} {interessados, NN}.
 
 346
-00:24:53,638 --> 00:24:54,554
-            {Shame, NN}.
+00:27:07,689 --> 00:27:10,981
+{Ao, NN} {longo, NN} {do, VB} {rio, NN}
+{e, NN} {além, NN} {das, NNS} {terras, NNS} {selvagens, NNS},
 
 347
-00:25:11,948 --> 00:25:14,407
-        {QA, NN} {will, MD} {fine, NN} {you, PRP}
-        {for, IN} {this, DT}.
+00:27:11,026 --> 00:27:12,357
+{há, NN} {um, NN} {tesouro, NN}.
 
 348
-00:25:14,451 --> 00:25:17,035
-{And, CC} {that, IN} {woman, NN} {in, IN} {charge, NN}
+00:27:12,402 --> 00:27:17,404
+{Tenho, NN} {na, NNS} {minha, NN} {posse, NN} {um, NN} {mapa, NN}.
 
 349
-00:25:17,078 --> 00:25:19,662
-   {is, VBZ} {quite, RB} {formidable, JJ}.
+00:27:21,161 --> 00:27:24,412
+{Disse, NN} {que, NN} {não, NN} {estávamos, NN} {interessados, NN}.
 
 350
-00:25:22,375 --> 00:25:25,835
-       {You, PRP} {can, MD} {just, RB} {say, VB} "{bitch, NN}."
-       {I, PRP} {hear, NN} {it, PRP} {enough, RB}.
+00:27:25,914 --> 00:27:30,751
+{Sabes, NNS} {que, NN} {mais, NN}? {Já, NN} {estava, NN}
+{a, DT} {desenvolver, NN} {outros, NNS} {apetites, NNS}.
 
 351
-00:25:25,879 --> 00:25:28,463
-       {You, PRP} {been, VBN} {talking, VBG}
-       {to, TO} {corporate, JJ}.
+00:27:30,795 --> 00:27:33,253
+{Vamos, NNS} {embora, NNS}.
 
 352
-00:25:28,507 --> 00:25:30,548
-   {The, DT} {only, RB} {times, NNS} {you, PRP} {light, NN} {up, RB}
-   {are, VBP} {after, IN} {you, PRP} {been, VBN}--
+00:27:46,519 --> 00:27:48,720
+{Parece, NN} {que, NN} {o, NN} {teu, NN} {amigo, NN}
+{se, NN} {está, NN} {a, DT} {divertir, NN}.
 
 353
-00:25:30,592 --> 00:25:35,345
-    {This, DT} {character, NN} {analysis, NN}
-    {routine, NN} {really, RB} {is, VBZ} {half, NN}
-    {as, IN} {charming, VBG} {as, IN} {you, PRP} {think, NN}.
+00:27:48,730 --> 00:27:50,289
+{Eu, NN} {não, NN} {usaria, NNS} {esse, NN} {termo, NN}.
 
 354
-00:25:35,388 --> 00:25:36,846
- {Oh, UH}, {it, PRP} {went, VBD} {well, RB}, {then, RB}?
+00:27:50,315 --> 00:27:53,398
+- {Divertir, NN}?
+- {Amigo, NNP}.
 
 355
-00:25:38,433 --> 00:25:41,601
-     {Just, RB} {tell, NN} {me, PRP}
-     {your, PRP$} {department, NN} {will, MD} {be, VB}
-     {ready, JJ} {for, IN} {the, DT} {launch, NN}.
+00:27:55,278 --> 00:27:57,569
+É{s, NN} {engraçado, NN}.
 
 356
-00:25:41,645 --> 00:25:43,228
-{We, PRP} {be, VB} {ready, JJ}.
+00:27:57,614 --> 00:28:01,824
+{Diz, NN}-{se, NN} {que, NN} {um, NN} {homem, NN}
+{capaz, NN} {de, NNS} {despertar, NN} {o, NN} {humor, NN},
 
 357
-00:25:43,271 --> 00:25:45,730
-    {And, CC} {that, IN} {other, JJ} {thing, NN}.
-    Abernathy {and, CC} {the, DT} {update, NN}.
+00:28:01,867 --> 00:28:04,701
+{pode, NN} {despertar, NN}...
+- {Não, NN} {precisamos, NN} {de, NNS} {fazer, NN} {isto, NN}.
 
 358
-00:25:45,774 --> 00:25:48,316
-   {I, PRP} {hear, NN} {your, PRP$} {department, NN}
-   {was, VBD} {still, RB} {asking, VBG} {questions, NNS}.
+00:28:06,580 --> 00:28:09,289
+{Se, NN} {não, NN} {sou, NN} {o, NN} {teu, NN} {tipo, NN},
+{podemos, NN} {encontrar, NN} {alguém, NN} {que, NN} {seja, NN}.
 
 359
-00:25:48,360 --> 00:25:50,276
-   {That, DT} {what, WP} {you, PRP}
-   {pay, NN} {us, PRP} {to, TO} {do, VB}.
+00:28:09,334 --> 00:28:12,335
+{Alguém, NN} {perfeito, NN} {para, NN} {ti, NN}.
 
 360
-00:25:51,655 --> 00:25:53,780
- {But, CC} {I, PRP} {not, RB} {concerned, JJ}.
+00:28:12,378 --> 00:28:15,837
+{Não, NN}, {tu, NN}... {Tu, NN} é{s, NN} {perfeita, NN}.
 
 361
-00:25:53,823 --> 00:25:55,949
- {All, DT} {the, DT} {hosts, NNS}
- {are, VBP} {back, RB} {to, TO} {normal, JJ}.
+00:28:17,509 --> 00:28:18,924
+{Mas, NN} {eu, NN} {tenho, NN} {alguém, NN}.
 
 362
-00:25:55,992 --> 00:25:58,201
-              {Good, JJ}.
+00:28:18,968 --> 00:28:21,219
+{Alguém, NN} {verdadeiro, NN} à
+{minha, NN} {espera, NN} {em, NN} {casa, NN}.
 
 363
-00:25:58,245 --> 00:25:59,410
-        {Would, MD} {want, NN} {anything, NN}
-         {disturbing, VBG} {our, PRP$} {guests, NNS}
+00:28:24,265 --> 00:28:26,473
+{Percebo, NN}.
 
 364
-00:25:59,454 --> 00:26:02,372
-         {from, IN} {their, PRP$} {rape, NN}
-         {and, CC} {pillage, NN}.
+00:28:28,144 --> 00:28:32,855
+{Vale, NN} {sempre, NN} {a, DT} {pensa, NN} {esperar, NN}
+{pelo, NN} {verdadeiro, NN} {amor, NN}.
 
 365
-00:26:08,672 --> 00:26:11,839
-       - ( {chatter, NN} )
-       -<{i, NN}> ( {music, NN} {playing, VBG} )</{i, NN}>
+00:28:55,922 --> 00:28:59,048
+{Régio, NN}, {forte, NN},
 
 366
-00:26:13,677 --> 00:26:16,844
-      {You, PRP} {wondering, VBG} {how, WRB}
-      {to, TO} {tell, NN} {them, PRP} {from, IN} {us, PRP},
+00:28:59,092 --> 00:29:01,217
+{viril, NN}, {Aquilino, NN}.
 
 367
-00:26:16,888 --> 00:26:17,929
-         {are, VBP} {you, PRP}?
+00:29:02,595 --> 00:29:04,679
+{Foi, NN} {isso, NN} {que, NN} {eu, NN} {pedi, NN}.
 
 368
-00:26:18,848 --> 00:26:22,141
-     {Well, RB}, {quickest, JJS} {way, NN}
-     {to, TO} {find, VB} {out, IN}.
+00:29:04,722 --> 00:29:07,515
+{E, NN} {isto, NN}... {Que, NN} {me, PRP} {deste, NN} {tu, NN}?
 
 369
-00:26:23,520 --> 00:26:25,603
-      {Can, MD} {we, PRP}--
-      {can, MD} {we, PRP} {finish, NN} {eating, VBG}?
+00:29:07,558 --> 00:29:10,308
+{Foste, NN} {buscar, NN} {um, NN} {caralho, NN}
+à {loja, NN} {dos, NN} {corpos, NN}
 
 370
-00:26:28,233 --> 00:26:29,983
-              {See, VB}, {this, DT} {is, VBZ}
-              {your, PRP$} {problem, NN},
-              {my, PRP$} {friend, NN}.
+00:29:10,353 --> 00:29:12,894
+{e, NN} {enfiaste, NN}-{o, NN} {no, DT} {meio, NN} {dos, NN} {olhos, NN}?
 
 371
-00:26:30,026 --> 00:26:32,068
-           {You, PRP} {always, RB} {worried, JJ}
-           {about, IN} {making, VBG} {a, DT} {mess, NN}.
+00:29:12,939 --> 00:29:14,012
+<{i, NN}>{Começa, NN} {outra, NN} {vez, NN}.</{i, NN}>
 
 372
-00:26:32,112 --> 00:26:33,361
-            {You, PRP} {are, VBP} {the, DT} {same, JJ} {way, NN}
-            {at, IN} {work, NN}.
+00:29:14,057 --> 00:29:15,222
+{Não, NN} {podemos, NN} {raspá, NN}-{lo, NN}?
 
 373
-00:26:33,405 --> 00:26:35,863
-        {You, PRP} {are, VBP} {talented, VBN},
-        {driven, NN}, {and, CC} {inoffensive, JJ}.
+00:29:15,232 --> 00:29:17,858
+{Eu, NN} {disse, NN}...
 
 374
-00:26:35,907 --> 00:26:39,200
- {I, PRP} {thought, NN} {you, PRP} {did, VBD} {want, NN}
- {to, TO} {talk, NN} {about, IN} {work, NN} {here, RB}.
+00:29:20,195 --> 00:29:22,864
+{Começa, NN} {outra, NN} {vez, NN}!
 
 375
-00:26:39,244 --> 00:26:41,369
-            {Who, WP} {says, VBZ} {this, DT} {trip, NN}
-            {is, VBZ} {work, NN}?
+00:29:27,287 --> 00:29:29,287
+{Diplomático, NN}, {como, NN} {sempre, NN}.
 
 376
-00:26:42,956 --> 00:26:46,040
-{Good, JJ} {evening, VBG}.
+00:29:32,166 --> 00:29:36,335
+{Recebi, NN} {o, NN} {teu, NN} {pedido, NN}
+{para, NN} {retirar, NN} {mais, NN} 50 {anfitriões, NN}.
 
 377
-00:26:47,627 --> 00:26:50,044
-                {Oh, UH}, {shit, NN}.
+00:29:36,378 --> 00:29:38,203
+{Preciso, NN} {de, NNS} {espaço, NN}
+{para, NN} {o, NN} {meu, NN} {novo, NN} {enredo, NN}.
 
 378
-00:26:50,088 --> 00:26:51,713
-             {Well, RB}, {do, VBP} {make, VB}
-             {eye, NN} {contact, NN}.
+00:29:38,213 --> 00:29:42,090
+{Não, NN} é {uma, NN} {horda, NN} {selvagem, NN}
+{só, NN} {com, NN} 20 {selvagens, NNS}, {pois, NN} {não, NN}?
 
 379
-00:26:53,341 --> 00:26:55,383
-    {My, PRP$} {friend, NN},
-    {thank, NN} {you, PRP} {for, IN} {your, PRP$}
-    {assistance, NN} {earlier, RBR}
+00:29:42,134 --> 00:29:46,052
+{Tens, NNS} {mais, NN} 20 {anfitriões, NN},
+{não, NN} {cinquenta, NN}.
 
 380
-00:26:55,427 --> 00:26:57,343
-    {in, IN} {my, PRP$} {unfortunate, NN}
-    {accident, NN}.
+00:29:46,096 --> 00:29:48,381
+{O, NN} {Conselho, NN} {não, NN} {se, NN} {vai, NN} {importar, NN}
+{com, NN} {mais, NN} {uns, NNS} {itens, NNS} {extra, JJ}.
 
 381
-00:26:57,387 --> 00:27:00,179
-                {Leave, VB} {us, PRP}
-                {the, DT} {fuck, NN} {alone, RB}.
+00:29:48,391 --> 00:29:52,101
+{E, NN} {o, NN} {Ford, NNP} {já, NN} {aprovou, NN} {esta, NN} {narrativa, NN}?
 
 382
-00:27:00,223 --> 00:27:02,974
-     {As, IN} {a, DT} {sign, NN} {of, IN} {my, PRP$} {humble, JJ}
-     {appreciation, NN},
+00:29:52,144 --> 00:29:55,020
+{Há, NN} {anos, NNS} {que, NN} {ele, NN} {não, NN} {avalia, NNS} {um, NN} {enredo, NN}.
 
 383
-00:27:03,018 --> 00:27:06,185
-      {I, PRP} {like, IN} {to, TO} {offer, NN} {you, PRP}
-      {an, DT} {opportunity, NN}
-      {of, IN} {a, DT} {lifetime, NN}.
+00:29:55,064 --> 00:29:57,105
+{E, NN} {se, NN} {a, DT} {corporação, NN}
+{quer, NN} {reduzir, NN} {custos, NN},
 
 384
-00:27:06,229 --> 00:27:07,645
-             {Not, RB} {interested, JJ}.
+00:29:57,150 --> 00:29:59,125
+{os, NN} {velhos, NN} {anfitriões, NN} {dos, NN} {nossos, NN}
+{destemidos, NN} {líderes, NNS}
 
 385
-00:27:07,689 --> 00:27:10,982
-     {Across, IN} {the, DT} {river, NN}
-     {and, CC} {beyond, IN} {the, DT} {savage, NN} {lands, NNS}
+00:29:59,167 --> 00:30:01,335
+{não, NN} {são, NN} {as, IN} ú{nicas, NN} {coisas, NN}
+{a, DT} {mandar, NN} {para, NN} {a, DT} {sucata, NNS}.
 
 386
-00:27:11,026 --> 00:27:12,358
-      {there, RB} {is, VBZ} {a, DT} {treasure, NN}.
+00:30:40,359 --> 00:30:42,401
+<{i, NN}>{Está, NN} {perdido, NN}?</{i, NN}>
 
 387
-00:27:12,402 --> 00:27:17,405
-     {I, PRP} {have, VB} {in, IN} {my, PRP$} {possession, NN}
-     {a, DT} {map, NN}.
+00:30:44,655 --> 00:30:46,948
+{Não, NN}.
 
 388
-00:27:17,449 --> 00:27:19,907
-         ( {whimpering, VBG} )
+00:30:46,990 --> 00:30:49,741
+{Só, NN} {me, PRP} {desviei, NN} {muito, NN} {do, VB} {caminho, NN}
 
 389
-00:27:21,161 --> 00:27:24,412
-          {I, PRP} {said, VBD} {not, RB} {interested, JJ}.
+00:30:49,786 --> 00:30:51,827
+{por, NN} {onde, NN} {deveria, NNS} {seguir, NN}.
 
 390
-00:27:25,915 --> 00:27:30,752
-         {You, PRP} {know, VB} {what, WP}?
-         I'{ve, NN} {worked, VBN} {up, RB}
-         {a, DT} {new, JJ} {appetite, NN} {anyway, RB}.
+00:30:51,871 --> 00:30:54,622
+{Tal, NN} {como, NN} {tu, NN}, {imagino, NN}.
 
 391
-00:27:30,795 --> 00:27:33,254
-       - ( {screaming, VBG} )
-       - {Let, VB} {go, VB}.
+00:30:54,665 --> 00:30:57,208
+{Estamos, NNS} {de, NNS} {férias, NN}.
 
 392
-00:27:33,298 --> 00:27:35,673
-        ( {moaning, VBG} )
+00:30:57,251 --> 00:30:58,960
+É {aborrecido, NN}.
 
 393
-00:27:39,929 --> 00:27:42,930
-      {Oh, UH}!
+00:30:59,002 --> 00:31:01,287
+{O, NN} {pai, NN} {disse, NN} {que, NN} {podíamos, NN}
+{fazer, NN} {o, NN} {que, NN} {quiséssemos, NN}.
 
 394
-00:27:44,434 --> 00:27:46,476
-     <{i, NN}> ( {moaning, VBG} {continues, VBZ} )</{i, NN}>
+00:31:01,297 --> 00:31:03,588
+{O, NN} {meu, NN} {costumava, NN} {dizer, NN}
 
 395
-00:27:46,519 --> 00:27:48,686
-          {Clementine, NN}:
-          <{i, NN}> {Sounds, NNS} {like, IN} {your, PRP$}</{i, NN}>
-          <{i, NN}> {friend, NN} {having, VBG} {fun, NN}.</{i, NN}>
+00:31:03,633 --> 00:31:05,290
+{que, NN} {só, NN} {pessoas, NN} {aborrecidas, NNS}
+{se, NN} {aborrecem, NN}.
 
 396
-00:27:48,730 --> 00:27:50,271
-   {Well, RB}, {that, DT} {not, RB}
-   {the, DT} {term, NN} {I, PRP} {use, NN}.
+00:31:05,300 --> 00:31:07,134
+{O, NN} {meu, NN} {também, NN}.
 
 397
-00:27:50,315 --> 00:27:53,399
-            - {Fun, NN}?
-            - {Friend, NN}.
+00:31:07,178 --> 00:31:09,595
+{Costumava, NN} {pensar, NN} {que, NN} {só, NN}
+{as, IN} {pessoas, NN} {aborrecidas, NNS}
 
 398
-00:27:55,278 --> 00:27:57,570
-          ( {chuckles, NNS} )
-          {You, PRP} {funny, NN}.
+00:31:09,638 --> 00:31:11,096
+{não, NN} {se, NN} {sentem, NN} {aborrecidas, NNS},
 
 399
-00:27:57,614 --> 00:28:01,824
-                {They, PRP} {say, VB} {a, DT} {man, NN}
-                {who, WP} {can, MD} {tickle, NN}
-                {your, PRP$} {humor, NN}
+00:31:11,140 --> 00:31:14,851
+<{i, NN}>{por, NN} {isso, NN} {não, NN} {podiam, NN}
+{concebê, NN}-{lo, NN} {em, NN} {outros, NNS}.</{i, NN}>
 
 400
-00:28:01,868 --> 00:28:04,702
-  - {can, MD} {tickle, NN} {your, PRP$}--
-  - {You, PRP} {do, VBP} {have, VB} {to, TO} {do, VB} {this, DT}.
+00:31:14,894 --> 00:31:16,102
+{Vou, NN} {dar, NN} {um, NN} {passeio, NN}.
 
 401
-00:28:06,581 --> 00:28:09,290
-     {If, IN} {I, PRP} {not, RB} {your, PRP$} {type, NN},
-     {we, PRP} {can, MD} {find, VB} {someone, NN} {who, WP} {is, VBZ}.
+00:31:16,186 --> 00:31:18,813
+{Podes, NNS} {vir, NN} {comigo, NN}, {se, NN} {quiseres, NNS}.
 
 402
-00:28:09,334 --> 00:28:12,335
-            {Someone, NN} {who, WP}
-            {perfect, NN} {for, IN} {you, PRP}.
+00:31:28,657 --> 00:31:31,284
+<{i, NN}>{Vê, NN} {lá, NN} {se, NN} {dá, NN} {uns, NNS} {passos, NN} {mais, NN} {largos, NN}.</{i, NN}>
 
 403
-00:28:12,379 --> 00:28:15,838
-    {No, DT}, {you, PRP}--
-    {you, PRP} {are, VBP} {perfect, NN}.
+00:31:31,326 --> 00:31:32,951
+<{i, NN}>{Já, NN} {não, NN} {falta, NN} {muito, NN}.</{i, NN}>
 
 404
-00:28:17,509 --> 00:28:18,925
-{But, CC} {I, PRP} {have, VB} {somebody, NN}.
+00:31:32,996 --> 00:31:34,744
+{Vai, NN}-{te, NN} {mas, NN} é {foder, NN}.
 
 405
-00:28:18,968 --> 00:28:21,219
-{Somebody, NN} {real, JJ}
-{waiting, VBG} {for, IN} {me, PRP} {at, IN} {home, NN}.
+00:31:34,788 --> 00:31:37,163
+{Tens, NNS} {alguma, NN} {ideia, NN} {de, NNS} {quem, NN} {eu, NN} {sou, NN}?
 
 406
-00:28:24,265 --> 00:28:26,474
-               {I, PRP} {understand, NN}.
+00:31:38,835 --> 00:31:41,075
+{Sei, NN} {exatamente, NN} {quem, NN} {tu, NN} é{s, NN}, {Lawrence, NNP}.
 
 407
-00:28:28,144 --> 00:28:32,855
-             {Real, JJ} {love, NN}
-             {is, VBZ} {always, RB} {worth, NN}
-             {waiting, VBG} {for, IN}.
+00:31:42,505 --> 00:31:43,872
+{Afinal, JJ}, {tu, NN} {e, NN} {eu, NN} {somos, NN} {amigos, NNS}.
 
 408
-00:28:32,899 --> 00:28:33,773
-       <{i, NN}> ( {clock, NN} {ticking, VBG} )</{i, NN}>
+00:31:43,882 --> 00:31:46,382
+{E, NN} {por, NN} {isso, NN} {fiquei, NN} {tão, NN} {surpreendido, NN}
 
 409
-00:28:50,208 --> 00:28:52,417
-           ( {beeping, VBG} )
+00:31:46,425 --> 00:31:48,865
+{quando, NN} {o, NN} {teu, NN} {amigo, NN} {Kissy, NNP}
+{me, PRP} {falou, NN} {deste, NN} {lugar, NN}.
 
 410
-00:28:55,922 --> 00:28:59,048
-         {Lee, NNP}:
-         {Regal, NNP}, {strong, JJ},
+00:31:50,721 --> 00:31:52,471
+{Onde, NN} {estamos, NN}?
 
 411
-00:28:59,092 --> 00:29:01,217
-        {virile, NN}, {aquiline, NN}.
+00:31:54,224 --> 00:31:55,849
+{Na, NN} {tua, NN} {terra, NN}.
 
 412
-00:29:02,595 --> 00:29:04,679
-  {That, DT} {what, WP} {I, PRP} {asked, VBN} {for, IN}.
+00:32:04,818 --> 00:32:07,653
+{Não, NN}, {não, NN}, {não, NN}, {não, NN}.
 
 413
-00:29:04,723 --> 00:29:07,515
-          {And, CC} {this, DT},
-          {this, DT} {is, VBZ} {what, WP}
-          {you, PRP} {give, VB} {me, PRP}?
+00:32:09,406 --> 00:32:11,656
+{Sabes, NNS}, {tu, NN} {e, NN} {eu, NN} {caçámos, NN}
 
 414
-00:29:07,559 --> 00:29:10,309
-        {Did, NN} {you, PRP} {just, RB} {grab, NN} {a, DT} {cock, NN}
-        {from, IN} {the, DT} {body, NN} {shop, NN}
+00:32:11,701 --> 00:32:14,492
+{guerreiros, NNS} í{ndios, NNS}
+{nos, NNS} {seus, NN} {pastos, NN} {de, NNS} {inverno, NN}.
 
 415
-00:29:10,353 --> 00:29:12,895
-              {and, CC} {jam, NN} {it, PRP}
-              {between, IN} {his, PRP$} {eyes, NNS}?
+00:32:14,537 --> 00:32:16,738
+<{i, NN}>{Sei, NN} {o, NN} {uísque, NN} {que, NN} {gostas, NNS} {de, NNS} {beber, NN}.</{i, NN}>
 
 416
-00:29:12,939 --> 00:29:13,813
-                  <{i, NN}> {Start, NN} {over, IN}.</{i, NN}>
+00:32:16,748 --> 00:32:20,290
+{Sei, NN} {a, DT} {canção, NN} {que, NN} {assobias, NNS}
+{quando, NN} {vais, NN} {mijar, NN}.
 
 417
-00:29:13,857 --> 00:29:15,189
-           {Could, MD} {we, PRP} {just, RB}
-           {shave, NN} {it, PRP} {down, RB}?
+00:32:23,421 --> 00:32:24,421
+{Mas, NN}...
 
 418
-00:29:15,233 --> 00:29:17,859
-              {I, PRP} {said, VBD}...
+00:32:26,715 --> 00:32:28,476
+{Nunca, NN} {me, PRP} {disseste, NN}
+{que, NN} {tinhas, NN} {uma, NN} {família, NNS}.
 
 419
-00:29:20,196 --> 00:29:22,864
-           {start, NN} {the, DT} {fuck, NN} {over, IN}!
+00:32:32,846 --> 00:32:35,722
+{Papá, NN}!
 
 420
-00:29:27,287 --> 00:29:29,287
-             {Diplomatic, JJ} {as, IN} {ever, RB}.
+00:32:35,767 --> 00:32:38,968
+É {isso, NN} {que, NN} {eu, NN} {adoro, NN} {neste, NN} {sítio, NN}...
+{Todos, NN} {os, NN} {segredos, NN},
 
 421
-00:29:32,167 --> 00:29:36,335
-   {I, PRP} {received, VBN} {your, PRP$} {request, NN}
-   {to, TO} {retire, NN} {an, DT} {additional, JJ}
-   50 {hosts, NNS}.
+00:32:38,978 --> 00:32:42,896
+{as, IN} {pequenas, NNS} {coisas, NN}
+{em, NN} {que, NN} {nunca, NN} {reparei, NN}
 
 422
-00:29:36,379 --> 00:29:38,171
-          {I, PRP} {need, NN} {room, NN}
-          {for, IN} {my, PRP$} {new, JJ} {storyline, NN}.
+00:32:42,941 --> 00:32:45,732
+<{i, NN}>{mesmo, NN} {depois, NN} {destes, NNS} {anos, NNS} {todos, NN}.</{i, NN}>
 
 423
-00:29:38,214 --> 00:29:42,091
-    {It, PRP} {not, RB} {exactly, RB}
-    {a, DT} {savage, NN} {horde, NN} {with, IN}
-    20 {savages, NNS}, {is, VBZ} {it, PRP}?
+00:32:47,778 --> 00:32:50,654
+{Sabes, NNS} {por, NN} {que, NN} {razão, NN} {isto, NN} é {melhor, NN}
+{que, NN} {o, NN} {mundo, NN} {real, JJ}, {Lawrence, NNP}?
 
 424
-00:29:42,135 --> 00:29:46,053
-           {You, PRP} {get, VB} 20 {additional, JJ}
-           {hosts, NNS}, {not, RB} 50.
+00:32:51,699 --> 00:32:54,450
+{O, NN} {mundo, NN} {real, JJ} é {apenas, NNS} {caos, NN}.
 
 425
-00:29:46,097 --> 00:29:47,847
-{The, DT} {board, NN} {wo, MD} {care, NN} {about, IN}
-{a, DT} {few, JJ} {extra, JJ} {line, NN} {items, NNS}.
+00:32:54,493 --> 00:32:56,993
+É {um, NN} {acidente, NN}.
 
 426
-00:29:47,891 --> 00:29:52,101
-     {Has, NN} {Ford, NNP} {even, RB} {approved, VBN}
-     {the, DT} {narrative, JJ} {yet, RB}?
+00:32:58,373 --> 00:33:00,538
+{Mas, NN} {aqui, NN}, {cada, NN} {detalhe, NN}
 
 427
-00:29:52,145 --> 00:29:55,021
-{Oh, UH}, {he, PRP} {has, VBZ} {weighed, VBN} {in, IN}
-{on, IN} {a, DT} {storyline, NN} {in, IN} {years, NNS}.
+00:33:00,583 --> 00:33:04,292
+é {significativo, NN}.
 
 428
-00:29:55,064 --> 00:29:57,106
-{And, CC} {if, IN} {corporate, JJ} {does, VBZ}
-{want, NN} {to, TO} {cut, NN} {costs, NNS},
+00:33:04,336 --> 00:33:06,461
+{Até, NN} {tu, NN}, {Lawrence, NNP}.
 
 429
-00:29:57,150 --> 00:29:59,025
-{our, PRP$} {fearless, NN} {leader, NN}
-{old, JJ} {hosts, NNS}
+00:33:06,506 --> 00:33:09,089
+{Que, NN} {queres, NNS} {de, NNS} {mim, NN}?
 
 430
-00:29:59,068 --> 00:30:01,235
-{are, VBP} {the, DT} {only, RB} {things, NNS}
-{ready, JJ} {for, IN} {the, DT} {knacker, NN} {yard, NN}.
+00:33:09,133 --> 00:33:11,217
+{O, NN} {labirinto, NN}.
 
 431
-00:30:09,412 --> 00:30:11,078
-( {train, NN} {whooshes, NNS} )
+00:33:12,720 --> 00:33:15,136
+{Onde, NN} é {que, NN} {eu, NN} {encontro, NN} {a, DT} {entrada, NN}?
 
 432
-00:30:40,360 --> 00:30:42,401
-                {Boy, NNP}:
-                <{i, NN}> {Are, NN} {you, PRP} {lost, VBN}?</{i, NN}>
+00:33:15,181 --> 00:33:17,306
+{Já, NN} {te, NN} {disse, NN}...
 
 433
-00:30:44,656 --> 00:30:46,948
-     {No, DT}.
+00:33:17,349 --> 00:33:20,058
+{Não, NN} {sei, NN} {nada, NN} {de, NNS} {labirinto, NN} {nenhum, NN}.
 
 434
-00:30:46,991 --> 00:30:49,742
-  {Just, RB} {strayed, NN}
-  {a, DT} {bit, NN} {too, RB} {far, RB}
+00:33:27,734 --> 00:33:29,234
+{Toma, NN}, {querida, NN}.
 
 435
-00:30:49,786 --> 00:30:51,828
-{from, IN} {where, WRB}
-{I, PRP} {supposed, VBN} {to, TO} {be, VB}.
+00:33:30,696 --> 00:33:34,115
+{E, NN} {vais, NN} {ser, NN} {tu, NN} {a, DT} {decidir, NN}
+{o, NN} {que, NN} {se, NN} {faz, NN} {com, NN} {elas, NNS}.
 
 436
-00:30:51,871 --> 00:30:54,622
-        {Same, NN} {as, IN} {you, PRP},
-        {I, PRP} {imagine, NN}.
+00:33:37,286 --> 00:33:39,161
+{Demoraste, NN} {bastante, NN} {tempo, NN}.
 
 437
-00:30:54,666 --> 00:30:57,208
-            {We, PRP} {on, IN} {holiday, NN}.
+00:33:39,204 --> 00:33:41,788
+<{i, NN}>{Fui, NN} à {procura, NN} {da, NN} {melhor, NN} {reserva, NN}.</{i, NN}>
 
 438
-00:30:57,252 --> 00:30:58,960
-              {It, PRP} {boring, NN}.
+00:33:41,833 --> 00:33:43,665
+{Só, NN} {para, NN} {os, NN} {nossos, NN}
+{convidados, NN} {mais, NN} {distintos, NN}.
 
 439
-00:30:59,003 --> 00:31:01,254
-            {Daddy, NNP} {said, VBD} {we, PRP} {could, MD}
-            {do, VB} {as, IN} {we, PRP} {please, NN}.
+00:33:43,675 --> 00:33:45,417
+{Sim, NN}, {tenho, NN} {a, DT} {certeza, NN}
+{que, NN} {não, NN} {tem, NN} {nada, NN} {a, DT} {ver, NN}
 
 440
-00:31:01,297 --> 00:31:03,589
-    {Ah, NN}, {my, PRP$} {father, NN} {used, VBN} {to, TO} {say, VB}
+00:33:45,427 --> 00:33:47,567
+{com, NN} {dizeres, NNS} {aos, NN} {idiotas, NNS}
+{dos, NN} {primos, NN} {dele, NN}
 
 441
-00:31:03,633 --> 00:31:05,258
-     {that, IN} {only, RB} {boring, NN} {people, NNS}
-     {get, VB} {bored, VBN}.
+00:33:47,577 --> 00:33:49,577
+{para, NN} {chamarem, NN} {mais, NN} {homens, NNS}.
 
 442
-00:31:05,301 --> 00:31:07,134
-                {Mine, NN}, {too, RB}.
+00:33:56,138 --> 00:33:59,140
+{Tens, NNS} {alguma, NN} {coisa, NN}
+{para, NN} {me, PRP} {dizer, NN}, {Lawrence, NNP}?
 
 443
-00:31:07,178 --> 00:31:09,595
-   {I, PRP} {used, VBN} {to, TO} {think, NN}
-   {it, PRP} {only, RB} {boring, NN} {people, NNS}
+00:34:02,103 --> 00:34:05,742
+{Bem, NN}, {vou, NN} {ter, NN} {de, NNS} {arranjar, NN} {forma, NN}
+{de, NNS} {reavivar, NN}-{te, NN} {a, DT} {memória, NNS}.
 
 444
-00:31:09,639 --> 00:31:11,097
-     {who, WP} {do, VBP} {feel, NN} {boredom, NN},
+00:34:09,652 --> 00:34:12,152
+{Este, NN} {convidado, NN} {já, NN} {acabou, NN}
+{com, NN} {um, NN} {grupo, NN} {inteiro, NN}.
 
 445
-00:31:11,140 --> 00:31:14,851
-   <{i, NN}> {so, RB} {can, MD} {conceive, NN}</{i, NN}>
-   <{i, NN}> {of, IN} {it, PRP} {in, IN} {others, NNS}.</{i, NN}>
+00:34:12,195 --> 00:34:13,471
+{Quer, NN} {que, NN} {o, NN} {obrigue, NN} {a, DT} {abrandar, NN}?
 
 446
-00:31:14,894 --> 00:31:16,102
-    {I, PRP} {taking, VBG} {a, DT} {walk, NN}.
+00:34:13,481 --> 00:34:16,398
+{Aquele, NNS} {cavalheiro, NN} {faz, NN} {o, NN} {que, NN} {desejar, NN}.
 
 447
-00:31:16,187 --> 00:31:18,813
- {You, PRP} {welcome, NN} {to, TO} {join, NN} {me, PRP}
- {if, IN} {you, PRP} {like, IN}.
+00:34:21,246 --> 00:34:23,621
+{Sinto, NN}-{me, PRP} {mal, NN}, {meu, NN} {amigo, NN}.
 
 448
-00:31:23,611 --> 00:31:26,737
-        <{i, NN}> ( {man, NN} {grunts, NNS}, {panting, VBG} )</{i, NN}>
+00:34:23,666 --> 00:34:28,753
+{Os, NN} {meus, NN} {primos, NN} {costumam, NN}
+{ser, NN} {tão, NN} {hospitaleiros, NNS}.
 
 449
-00:31:26,781 --> 00:31:28,614
-<{i, NN}>( {horse, NN} {nickers, NNS} )</{i, NN}>
+00:34:28,795 --> 00:34:30,746
+{Não, NN} {percebes, NNS}, {Lawrence, NNP}.
 
 450
-00:31:28,658 --> 00:31:31,284
-{Man, NN} {in, IN} {Black, NN}:
-<{i, NN}>{Let, VB} {see, VB} {a, DT} {little, JJ}</{i, NN}>
-<{i, NN}>{spring, NN} {in, IN} {your, PRP$} {step, NN}.</{i, NN}>
+00:34:30,757 --> 00:34:33,048
+{Já, NN} {venho, NN} {aqui, NN} {há, NN} 30 {anos, NNS}.
 
 451
-00:31:31,327 --> 00:31:32,952
-<{i, NN}>{Not, RB} {much, JJ} {further, RB}.</{i, NN}>
+00:34:33,092 --> 00:34:36,760
+{Num, NN} {certo, NN} {sentido, NN}, {nasci, NN} {aqui, NN}.
 
 452
-00:31:32,996 --> 00:31:34,745
-    {Go, VB} {fuck, NN} {yourself, PRP}.
+00:34:37,847 --> 00:34:40,514
+{E, NN} {isto, NN} {aqui, NN}... {Isto, NN}...
 
 453
-00:31:34,789 --> 00:31:37,164
-      {You, PRP} {have, VB} {any, DT} {idea, NN}
-      {who, WP} {I, PRP} {am, VBP}?
+00:34:42,476 --> 00:34:44,326
+É {precisamente, NN} {por, NN} {causa, NN} {disto, NN}
+{que, NN} {eu, NN} {venho, NN}.
 
 454
-00:31:38,835 --> 00:31:41,043
-          {I, PRP} {know, VB} {exactly, RB}
-          {who, WP} {you, PRP} {are, VBP}, {Lawrence, NNP}.
+00:35:28,898 --> 00:35:30,978
+{Santa, NNP} {Maria, NNS},
+<{i, NN}>{madre, NN} {dios, NNS}.</{i, NN}>
 
 455
-00:31:42,505 --> 00:31:43,838
-          {After, IN} {all, DT},
-          {you, PRP} {and, CC} {I, PRP} {are, VBP} {friends, NNS}.
+00:35:36,739 --> 00:35:41,074
+{Muito, NN} {bem, NN}. {Por, NN} {divertido, NN} {que, NN} {seja, NN},
+{preciso, NN} {de, NNS} {seguir, NN} {em, NN} {frente, NN}.
 
 456
-00:31:43,882 --> 00:31:46,382
-             {Which, WDT} {is, VBZ} {why, WRB}
-             {I, PRP} {was, VBD} {so, RB} {surprised, JJ}
+00:36:05,476 --> 00:36:08,596
+{Como, NN} {disse, NN}, é{s, NN} {tu, NN}
+{a, DT} {decidir, NN} {estas, NNS} {duas, NN}.
 
 457
-00:31:46,426 --> 00:31:48,801
-       {when, WRB} {your, PRP$} {friend, NN} {Kissy, NNP}
-       {told, NN} {me, PRP} {about, IN} {this, DT} {place, NN}.
+00:36:08,688 --> 00:36:11,938
+{Como, NN} é {que, NN} {vai, NN} {ser, NN}?
 
 458
-00:31:50,722 --> 00:31:52,471
-          {Where, WRB} {are, VBP} {we, PRP}?
+00:36:11,983 --> 00:36:14,233
+{Por, NN} {favor, NN}, {eu, NN} {não, NN} {sei, NN}
+{como, NN} {encontrar, NN} {o, NN} {labirinto, NN}.
 
 459
-00:31:54,225 --> 00:31:55,850
-                      {Your, PRP$} {home, NN}.
+00:36:17,028 --> 00:36:19,905
+É {altura, NN} {de, NNS} {darmos, NN}
+{uma, NN} {voltinha, NN}, {querida, NN}.
 
 460
-00:32:01,649 --> 00:32:04,775
-    ( {chattering, VBG} {in, IN} {Spanish, JJ} )
+00:36:31,126 --> 00:36:33,335
+{São, NN} {muito, NN} {bem, NN} {feitos, NNS}, {realmente, NN}.
 
 461
-00:32:04,819 --> 00:32:07,653
-               {No, DT}, {no, DT}, {no, DT}, {no, DT}.
+00:36:35,213 --> 00:36:37,380
+{Mas, NN} {depois, NN} {de, NNS} {algum, NN} {tempo, NN},
+{consegue, NN}-{se, NN} {ver, NN} {as, IN} {falhas, NN}.
 
 462
-00:32:09,407 --> 00:32:11,657
-   {You, PRP} {know, VB}, {you, PRP} {and, CC} {I, PRP}
-   {hunted, VBN} {down, RB}
+00:36:37,425 --> 00:36:40,509
+<{i, NN}>É {por, NN} {isso, NN} {que, NN} {gosto, NN}
+{de, NNS} {emoções, NN} {básicas, NN}.</{i, NN}>
 
 463
-00:32:11,701 --> 00:32:14,493
-   {Ghost, NN} {Nation, NN} {braves, NNS}
-   {in, IN} {their, PRP$} {winter, NN} {grounds, NNS}.
+00:36:43,889 --> 00:36:45,597
+{Sabes, NNS} {o, NN} {que, NN} {significa, NN} {isso, NN}?
 
 464
-00:32:14,537 --> 00:32:16,704
-           <{i, NN}> {I, PRP} {know, VB} {the, DT} {whiskey, NN}</{i, NN}>
-           <{i, NN}> {you, PRP} {like, IN} {to, TO} {drink, NN}.</{i, NN}>
+00:36:45,641 --> 00:36:47,974
+{Por, NN} {favor, NN}.
 
 465
-00:32:16,748 --> 00:32:20,291
-     {I, PRP} {know, VB} {the, DT} {tune, NN} {you, PRP} {whistle, NN}
-     {when, WRB} {you, PRP} {taking, VBG} {a, DT} {piss, NN}.
+00:36:58,820 --> 00:37:01,322
+É {quando, NN} {estás, NN} {a, DT} {sofrer, NN}
 
 466
-00:32:23,421 --> 00:32:24,045
-    {But, CC}...
+00:37:01,364 --> 00:37:04,282
+<{i, NN}>{que, NN} {te, NN} {tornas, NNS} {mais, NN} {real, JJ}.</{i, NN}>
 
 467
-00:32:26,716 --> 00:32:27,882
-     {you, PRP} {never, RB} {told, NN} {me, PRP}
-     {you, PRP} {had, VBD} {a, DT} {family, NN}.
+00:37:22,052 --> 00:37:25,346
+{O, NN} {labirinto, NN} {não, NN} é {para, NN} {ti, NN}.
 
 468
-00:32:32,847 --> 00:32:35,723
-       - {Papa, NN}!
-       - {Hey, NN}. ( {chuckles, NNS} )
+00:37:26,724 --> 00:37:28,932
+{Que, NN} {te, NN} {disse, NN} {eu, NN}, {Lawrence, NNP}?
 
 469
-00:32:35,767 --> 00:32:38,935
-            {That, DT} {what, WP} {I, PRP} {love, NN}
-            {about, IN} {this, DT} {place, NN}--
-            {all, DT} {the, DT} {secrets, NNS},
+00:37:28,976 --> 00:37:31,434
+<{i, NN}>{Há, NN} {sempre, NN} {outro, NN} {nível, NN}.</{i, NN}>
 
 470
-00:32:38,978 --> 00:32:42,897
-          {all, DT} {the, DT} {little, JJ} {things, NNS}
-          {I, PRP} {never, RB} {noticed, VBN}
+00:37:31,478 --> 00:37:34,271
+{Vou, NN} {arriscar, NN}, {querida, NN}.
 
 471
-00:32:42,941 --> 00:32:45,733
-             <{i, NN}> {even, RB} {after, IN}</{i, NN}>
-             <{i, NN}> {all, DT} {these, DT} {years, NNS}.</{i, NN}>
+00:37:34,315 --> 00:37:37,733
+{Segue, NN} {a, DT} {corrente, NN} {de, NNS} {sangue, NN} {até, NN}
+{ao, NN} {sítio, NN} {onde, NN} {a, DT} {serpente, NN} {põe, NN} {os, NN} {ovos, NN}.
 
 472
-00:32:47,779 --> 00:32:50,655
-      {You, PRP} {know, VB} {why, WRB} {this, DT} {beats, NNS}
-      {the, DT} {real, JJ} {world, NN}, {Lawrence, NNP}?
+00:37:40,320 --> 00:37:43,530
+{Já, NN} {o, NN} {tens, NNS}. {O, NN} {que, NN} {quer, NN} {que, NN} {queiras, NNS}.
 
 473
-00:32:51,699 --> 00:32:54,450
-    {Real, JJ} {world, NN} {is, VBZ} {just, RB} {chaos, NN}.
+00:37:43,574 --> 00:37:47,201
+{Porque, NN} {não, NN} {vais, NN} {para, NN} {casa, NN}
+{e, NN} {nos, NNS} {deixas, NN} {em, NN} {paz, NN}?
 
 474
-00:32:54,494 --> 00:32:56,994
-        {It, PRP} {an, DT} {accident, NN}.
+00:37:49,204 --> 00:37:52,748
+{Não, NN}, {não, NN} {percebes, NNS}, {Lawrence, NNP}.
 
 475
-00:32:58,373 --> 00:33:00,539
-          {But, CC} {in, IN} {here, RB},
-          {every, DT} {detail, NN}
+00:37:53,708 --> 00:37:57,418
+{Desta, NN} {vez, NN} {não, NN} {vou, NN} {voltar, NN}.
 
 476
-00:33:00,583 --> 00:33:04,293
-      {adds, VBZ} {up, RB} {to, TO} {something, NN}.
+00:38:17,275 --> 00:38:20,400
+{E, NN} {ele, NN} {queria, NNS} {trepar, NN}
+{ao, NN} {topo, NN} {da, NN} {montanha, NN},
 
 477
-00:33:04,337 --> 00:33:06,462
-             {Even, RB} {you, PRP}, {Lawrence, NNP}.
+00:38:20,443 --> 00:38:23,945
+{mas, NN} {o, NN} {pai, NN} {disse, NN} {que, NN} {era, NN} {proibido, NN}.
 
 478
-00:33:06,506 --> 00:33:09,090
-     {What, WP} {do, VB} {you, PRP} {want, NN}
-     {from, IN} {me, PRP}?
+00:38:23,989 --> 00:38:25,822
+{E, NN} {depois, NN} {o, NN} {Tommy, NN} {desafiou, NN}-{me, PRP}.
 
 479
-00:33:09,133 --> 00:33:11,217
-                {The, DT} {maze, NN}.
+00:38:29,286 --> 00:38:31,244
+{E, NN} {aqui, NN} {estamos, NN}.
 
 480
-00:33:12,720 --> 00:33:15,137
-             {How, WRB} {do, VB} {I, PRP} {find, VB}
-             {the, DT} {entrance, NN}?
+00:38:32,789 --> 00:38:35,373
+{Terra, NN} {de, NNS} {ninguém, NN}.
 
 481
-00:33:15,181 --> 00:33:17,306
-     {I, PRP} {told, NN} {you, PRP},
+00:38:35,418 --> 00:38:39,168
+{Não, NN} {parece, NN} {um, NN} {nome, NN} {adequado, NN}
+{para, NN} {um, NN} {sítio, NN} {tão, NN} {cheio, NN}.
 
 482
-00:33:17,350 --> 00:33:20,059
-   {I, PRP} {do, VBP} {know, VB} {anything, NN}
-  {about, IN} {no, DT} {fucking, VBG} {maze, NN}.
+00:38:39,213 --> 00:38:41,547
+{Não, NN} {consegues, NNS} {ver, NN}?
 
 483
-00:33:27,735 --> 00:33:29,235
-           {Here, RB} {you, PRP} {go, VB}, {darlin, NN}.
+00:38:41,590 --> 00:38:43,989
+{Se, NN} {calhar, NN} {não, NN} {estás, NN}
+{a, DT} {esforçar, NN}-{te, NN} {o, NN} {suficiente, NN}.
 
 484
-00:33:30,697 --> 00:33:34,115
-         {And, CC} {you, PRP} {get, VB} {to, TO} {decide, NN}
-         {what, WP} {we, PRP} {gon, NN} {do, VB}
-         {with, IN} {them, PRP}.
+00:38:45,010 --> 00:38:46,760
+<{i, NN}>{Para, NN} {ver, NN} {o, NN} {quê, NN}?</{i, NN}>
 
 485
-00:33:37,286 --> 00:33:39,161
-      {Hell, NN}, {it, PRP} {took, VBD} {you, PRP}
-      {long, RB} {enough, RB}.
+00:38:46,804 --> 00:38:49,012
+{A, DT} {cidade, NN} {com, NN} {a, DT} {igreja, NN} {branca, NN}.
 
 486
-00:33:39,205 --> 00:33:41,789
-           <{i, NN}> {I, PRP} {was, VBD} {getting, VBG}</{i, NN}>
-           <{i, NN}> {the, DT} {grand, JJ} {reserve, NN}.</{i, NN}>
+00:38:50,557 --> 00:38:53,474
+{Ouve, NN}. {Consegues, NNS} {escutar, NN} {o, NN} {sino, NN} {dela, NN}?
 
 487
-00:33:41,833 --> 00:33:43,332
-      {Only, RB} {for, IN} {our, PRP$} {most, JJS}
-      {distinguished, VBN} {guests, NNS}.
+00:38:55,146 --> 00:38:57,228
+{Sim, NN}.
 
 488
-00:33:43,376 --> 00:33:45,084
-       {Yeah, NN}, {I, PRP} {sure, NN}
-       {it, PRP} {had, VBD} {nothing, NN}
-       {to, TO} {do, VB} {with, IN} {you, PRP}
+00:38:57,273 --> 00:38:58,512
+{Sim, NN}, {agora, NNS} {consigo, NN}.
 
 489
-00:33:45,128 --> 00:33:47,878
-        {telling, VBG}
-        {this, DT} {dipshit, NN} {cousins, NNS}
-        {to, TO} {bring, NN} {some, DT} {more, RBR} {men, NNS}.
+00:39:00,860 --> 00:39:02,735
+{Calculei, NN} {que, NN} {sim, NN}.
 
 490
-00:33:56,139 --> 00:33:59,140
-      {You, PRP} {got, VBD} {anything, NN}
-      {to, TO} {tell, NN} {me, PRP}, {Lawrence, NNP}?
+00:39:02,777 --> 00:39:05,778
+{Vês, NN} {o, NN} {que, NN} {uma, NN} {mente, NN} {aborrecida, NN}
+{pode, NN} {conjurar, NN}?
 
 491
-00:34:02,103 --> 00:34:04,812
-           {Then, RB} {I, PRP} {guess, NN} {we, PRP}
-        {gon, NN} {have, VB} {to, TO} {find, VB} {a, DT} {way, NN}
-           {to, TO} {jog, NN} {your, PRP$} {memory, NN}.
+00:39:19,961 --> 00:39:23,130
+{Como, NN} é {que, NN} {fizeste, NN} {isso, NN}?
 
 492
-00:34:06,607 --> 00:34:07,106
-          - ( {gunshot, NN} )
-          - ( {screams, NNS} )
+00:39:26,010 --> 00:39:27,925
+<{i, NN}>É {magia, NN}?</{i, NN}>
 
 493
-00:34:09,652 --> 00:34:12,153
-    {This, DT} {guest, NN} {already, RB}
-    {took, VBD} {out, IN} {an, DT} {entire, JJ} {posse, NN}.
+00:39:27,969 --> 00:39:30,128
+{Tudo, NN} {neste, NN} {mundo, NN} é {magia, NN},
 
 494
-00:34:12,196 --> 00:34:13,237
-  {Want, VB} {me, PRP}
-  {to, TO} {slow, VB} {him, PRP} {down, RB}?
+00:39:30,139 --> 00:39:32,889
+{menos, NNS} {o, NN} {mágico, NN}.
 
 495
-00:34:13,281 --> 00:34:16,198
-           {That, DT} {gentleman, NN} {gets, VBZ}
-           {whatever, WDT} {he, PRP} {wants, VBZ}.
+00:39:41,942 --> 00:39:44,568
+É {melhor, NN} {voltares, NNS} {para, NN} {casa, NN}.
 
 496
-00:34:21,247 --> 00:34:23,622
-{I, PRP} {feel, NN} {bad, JJ}, {my, PRP$} {friend, NN}.
+00:39:44,612 --> 00:39:46,353
+{Mas, NN} {o, NN} {Tommy, NN} {não, NN} {vai, NN} {acreditar, NN}...
 
 497
-00:34:23,666 --> 00:34:28,753
-{My, PRP$} {cousins, NNS} {are, VBP} {usually, RB}
-{so, RB} {hospitable, JJ}.
+00:39:46,364 --> 00:39:48,447
+{Não, NN} {vais, NN} {voltar, NN} {aqui, NN}, {pois, NN} {não, NN}?
 
 498
-00:34:28,796 --> 00:34:30,713
-          {You, PRP} {do, VBP} {understand, NN},
-          {Lawrence, NNP}.
+00:39:54,704 --> 00:39:56,496
+{Não, NN}.
 
 499
-00:34:30,757 --> 00:34:33,049
-           {I, PRP} {been, VBN} {coming, VBG} {here, RB}
-           {for, IN} 30 {years, NNS}.
+00:39:56,539 --> 00:39:57,539
+{Corre, NN}, {vá, NN}.
 
 500
-00:34:33,092 --> 00:34:36,761
-           {In, IN} {a, DT} {sense, NN}, {I, PRP} {was, VBD}--
-           {I, PRP} {was, VBD} {born, NN} {here, RB}.
+00:40:49,552 --> 00:40:51,927
+{Não, NN} {estavas, NN} {no, DT} {teu, NN} {escritório, NN}.
 
 501
-00:34:37,847 --> 00:34:40,514
-             {And, CC} {this, DT} {here, RB},
-             {this, DT}...
+00:40:52,929 --> 00:40:55,329
+{Mas, NN} {parece, NN} {que, NN} {me, PRP} {encontraste, NN}
+à {mesma, NN}.
 
 502
-00:34:40,558 --> 00:34:42,433
-              ( {chuckles, NNS} )
+00:40:56,641 --> 00:40:58,934
+- {Ouve, NN}, {há, NN} {bocado, NN}...
+- {Esquece, NN}.
 
 503
-00:34:42,477 --> 00:34:44,226
-       ...{this, DT} {is, VBZ} {exactly, RB}
-       {why, WRB} {I, PRP} {come, VB}.
+00:41:28,965 --> 00:41:30,958
+{Fica, NN} {mais, NN} {um, NN} {bocado, NN}. {Podemos, NNS} {falar, NN}.
 
 504
-00:35:02,955 --> 00:35:04,121
-           ( {groans, NNS} )
+00:41:30,967 --> 00:41:33,177
+{Nunca, NN} {falamos, NN}.
 
 505
-00:35:04,165 --> 00:35:05,873
-          ( {gunshots, NNS} )
+00:41:33,219 --> 00:41:36,179
+- {Estou, NN} {a, DT} {falar, NN} {a, DT} {sério, NN}.
+<{i, NN}>- {Também, NN} {eu, NN}.</{i, NN}>
 
 506
-00:35:28,898 --> 00:35:30,189
-              {Santa, NNP} {Maria, NNS},
-              <{i, NN}> {madre, NN} {dios, NNS}.</{i, NN}>
+00:41:39,559 --> 00:41:43,228
+{Sem, NN} {dúvida, NN}, é{s, NN} {um, NN} {homem, NN} {confortável, NN}
+{com, NN} {longos, NN} {silêncios, NNS} {pensativos, NN}.
 
 507
-00:35:32,193 --> 00:35:34,151
-                ( {gunshot, NN} )
+00:41:44,940 --> 00:41:47,733
+{Embora, NNS}, {ironicamente, NN},
 
 508
-00:35:36,739 --> 00:35:41,075
-  {All, DT} {right, NN}.
-  Well, {as, IN} {much, JJ} {fun, NN} {as, IN} {this, DT} {is, VBZ},
-  {I, PRP} {got, VBD} {to, TO} {be, VB} {moving, VBG} {on, IN}.
+00:41:47,775 --> 00:41:50,277
+{as, IN} {tuas, NN} {criações, NN} {nunca, NN} {se, NN} {calem, NN}.
 
 509
-00:35:41,119 --> 00:35:42,118
-          <{i, NN}> ( {gunshot, NN} )</{i, NN}>
+00:41:50,320 --> 00:41:53,739
+{Estão, NN} {sempre, NN} {a, DT} {falar, NN}
+{uns, NNS} {com, NN} {os, NN} {outros, NNS},
 
 510
-00:35:45,706 --> 00:35:46,205
-          - ( {gunshot, NN} )
-          - ( {groans, NNS} )
+00:41:53,782 --> 00:41:56,240
+{mesmo, NN} {quando, NN}
+{não, NN} {há, NN} {hóspedes, NNS} {por, NN} {perto, NN}.
 
 511
-00:35:49,627 --> 00:35:51,502
-           ( {grunts, NNS} )
+00:41:56,284 --> 00:41:58,577
+{Estão, NN} {sempre, NN}
+{a, DT} {tentar, NN} {corrigir, NN} {o, NN} {erro, NN}.
 
 512
-00:35:53,714 --> 00:35:55,214
-                 <{i, NN}> ( {body, NN} {thuds, NNS} )</{i, NN}>
+00:42:00,831 --> 00:42:03,539
+{Tornarem, NN}-{se, NN} {mais, NN} {humanos, NNS}.
 
 513
-00:36:05,476 --> 00:36:08,060
-             {Like, IN} {I, PRP} {said, VBD},
-             {you, PRP} {get, VB} {to, TO} {decide, NN}
-             {these, DT} {two, CD}.
+00:42:03,583 --> 00:42:05,659
+{Falar, NN} {uns, NNS} {com, NN} {os, NN} {outros, NNS}
+é {uma, NN} {forma, NN} {de, NNS} {praticarem, NN}.
 
 514
-00:36:08,688 --> 00:36:11,939
-             {What, WP} {it, PRP} {gon, NN} {be, VB}?
+00:42:05,668 --> 00:42:09,630
+É {o, NN} {que, NN} {estamos, NN} {a, DT} {fazer, NN} {agora, NNS}?
 
 515
-00:36:11,983 --> 00:36:14,233
-    {Please, VB}, {I, PRP} {do, VBP} {know, VB}
-    {how, WRB} {to, TO} {find, VB} {the, DT} {maze, NN}.
+00:42:09,672 --> 00:42:11,047
+{A, DT} {praticar, NN}?
 
 516
-00:36:17,029 --> 00:36:19,905
-             {Time, NN} {for, IN} {a, DT} {spin, NN},
-             {darlin, NN}.
+00:42:21,768 --> 00:42:24,311
+{A, DT} {Garantia, NN} {de, NNS} {Qualidade, NN} {disse, NN}-{nos, NNS}
+{que, NN} {ela, NN} {tinha, NN} {sido, NN} {desativada, NN}.
 
 517
-00:36:20,867 --> 00:36:22,116
-           ( {sobbing, VBG} )
+00:42:24,320 --> 00:42:25,762
+- {Trabalhas, NN} {para, NN} {eles, NNS}?
+- {Não, NN}, {mas, NN}...
 
 518
-00:36:31,127 --> 00:36:33,335
-        {It, PRP} {beautifully, RB}
-        {done, VBN}, {really, RB}.
+00:42:25,771 --> 00:42:28,172
+{Corre, NN} {um, NN} {diagnóstico, NN} {rápido, NN}.
 
 519
-00:36:35,214 --> 00:36:37,381
-        {But, CC} {you, PRP} {see, VB} {the, DT} {cracks, NNS}
-        {after, IN} {a, DT} {while, IN}.
+00:42:31,110 --> 00:42:34,403
+{Está, NN} {bem, NN}.
 
 520
-00:36:37,425 --> 00:36:40,509
-           <{i, NN}> {That, DT} {why, WRB} {I, PRP} {like, IN}</{i, NN}>
-           <{i, NN}> {the, DT} {basic, JJ} {emotions, NNS}.</{i, NN}>
+00:42:35,324 --> 00:42:39,784
+{Alguma, NN} {hesitação, NN},
+{pouco, NN} {significativa, NN}.
 
 521
-00:36:41,679 --> 00:36:43,846
-                   ( {sobbing, VBG} )
+00:42:39,827 --> 00:42:42,913
+{Escassa, NN} {cognitividade, NN} {D, NN}.
 
 522
-00:36:43,890 --> 00:36:45,598
-        {You, PRP} {know, VB}
-        {what, WP} {that, IN} {means, NNS}?
+00:42:42,956 --> 00:42:44,014
+{E, NN} {uma, NN} {porrada, NN} {de, NNS} {agressão, NN},
 
 523
-00:36:45,641 --> 00:36:47,975
-       - {Please, VB}.
-       -<{i, NN}> ( {hammer, NN} {clicks, NNS} )</{i, NN}>
+00:42:44,057 --> 00:42:47,217
+{cortesia, NN} {dos, NN} {idiotas, NNS} {da, NN} {Narrativa, NN}.
 
 524
-00:36:52,982 --> 00:36:56,025
-        - ( {gunshot, NN} )
-        -<{i, NN}> ( {body, NN} {thuds, NNS} )</{i, NN}>
+00:42:47,460 --> 00:42:51,088
+{Não, NN} {precisas, NN}
+{de, NNS} {ser, NN} {agressiva, NN}, {pois, NN} {não, NN}?
 
 525
-00:36:56,068 --> 00:36:58,777
-      ( {sobbing, VBG} )
+00:42:51,130 --> 00:42:54,298
+{Só, NN} {topar, NN} {com, NN} {mais, NN} {rapidez, NN} {os, NN} {cabrões, NN}
+{reprimidos, NN} {que, NN} {atravessam, NN} {a, DT} {porta, NN}.
 
 526
-00:36:58,821 --> 00:37:01,322
-          {It, PRP} {means, NNS}
-          {when, WRB} {you, PRP} {suffering, VBG},
+00:42:54,342 --> 00:42:56,467
+{Arquiva, NN} {esta, NN} {configuração, NN}.
 
 527
-00:37:01,365 --> 00:37:04,283
-             <{i, NN}> {that, DT} {when, WRB}</{i, NN}>
-             <{i, NN}> {you, PRP} {most, JJS} {real, JJ}.</{i, NN}>
+00:42:56,512 --> 00:42:59,596
+{Abre, NN} {as, IN} {funções, NN} {primárias, NN}.
 
 528
-00:37:22,053 --> 00:37:25,346
-    {The, DT} {maze, NN}
-    {is, VBZ} {meant, NN} {for, IN} {you, PRP}.
+00:42:59,639 --> 00:43:02,849
+{Perceção, NN}. {Acuidade, NN} {emocional, JJ}.
 
 529
-00:37:26,724 --> 00:37:28,933
-             {What, WP} {I, PRP} {tell, NN} {you, PRP},
-             {Lawrence, NNP}?
+00:43:02,893 --> 00:43:04,809
+{Sobe, NN}.
 
 530
-00:37:28,976 --> 00:37:31,435
-          <{i, NN}> {Always, NNS} {another, DT} {level, NN}.</{i, NN}>
+00:43:04,853 --> 00:43:07,896
+1.5%.
 
 531
-00:37:31,479 --> 00:37:34,271
-          {I, PRP} {take, VB} {my, PRP$} {chances, NNS},
-          {sweetheart, NN}.
+00:43:07,940 --> 00:43:09,898
+<{i, NN}>{A, DT} {atualizar, NN}.</{i, NN}>
 
 532
-00:37:34,315 --> 00:37:37,733
-  {Follow, VB} {the, DT} {blood, NN} {arroyo, NN}
-  {to, TO} {the, DT} {place, NN} {where, WRB} {the, DT} {snake, NN}
-  {lays, NNS} {its, PRP$} {eggs, NNS}.
+00:43:11,610 --> 00:43:14,068
+- <{i, NN}>{Eles, NNS} {sonham, NN}?</{i, NN}>
+- {O, NN} {quê, NN}?
 
 533
-00:37:40,321 --> 00:37:43,530
-   {You, PRP} {have, VB} {it, PRP} {now, RB}.
-   Whatever {you, PRP} {want, NN}.
+00:43:14,112 --> 00:43:16,572
+{Na, NN} {história, NN} {dela, NN}, {disse, NN} {que, NN} {sonhava, NN}.
 
 534
-00:37:43,574 --> 00:37:47,201
-  {Why, WRB} {do, VBP} {you, PRP} {go, VB} {home, NN},
-  {leave, VB} {us, PRP} {alone, RB}?
+00:43:16,614 --> 00:43:17,630
+{Fazemos, NNS}-{los, NN} {sonhar, NN}?
 
 535
-00:37:49,205 --> 00:37:52,748
-           {No, DT}, {you, PRP} {do, VBP}
-           {understand, NN}, {Lawrence, NNP}.
+00:43:17,675 --> 00:43:20,284
+{Qual, JJ} {seria, NNS} {o, NN} {sentido, NN} {disso, NN}?
 
 536
-00:37:53,709 --> 00:37:57,419
-          {This, DT} {time, NN},
-          {I, PRP} {never, RB} {going, VBG} {back, RB}.
+00:43:20,327 --> 00:43:23,452
+{Sonhos, NN} {são, NN}, {na, NNS} {maioria, NNS}, {memórias, NNS}.
 
 537
-00:38:17,275 --> 00:38:20,401
-     {And, CC} {we, PRP} {wanted, VBD} {to, TO} {climb, NN}
-     {to, TO} {the, DT} {top, NN} {of, IN} {the, DT} {mountain, NN},
+00:43:23,496 --> 00:43:25,003
+{Podes, NNS} {imaginar, NN} {como, NN}
+{seríamos, NN} {doentios, NNS}
 
 538
-00:38:20,444 --> 00:38:23,946
-           {but, CC} {Daddy, NNP} {said, VBD}
-           {we, PRP} {were, VBD} {allowed, VBN}.
+00:43:25,007 --> 00:43:26,597
+{se, NN} {permitíssemos, NN} {que, NN}
+{este, NN} {pobres, NNS} {diabos, NNS}
 
 539
-00:38:23,990 --> 00:38:25,823
-    {And, CC} {then, RB} {Tommy, NN} {dared, VBN} {me, PRP}.
+00:43:26,608 --> 00:43:28,833
+{se, NN} {lembrassem, NN} {do, VB} {que, NN}
+{os, NN} {hóspedes, NNS} {lhes, NNS} {fazem, NN}?
 
 540
-00:38:29,287 --> 00:38:31,245
-                {And, CC} {here, RB} {we, PRP} {are, VBP}.
+00:43:28,876 --> 00:43:32,795
+{Mas, NN} {damos, NN}-{lhes, NNS} {o, NN} {conceito, NN} {de, NNS} {sonho, NN}.
 
 541
-00:38:32,790 --> 00:38:35,374
-          {Nowhere, RB} {land, NN}.
+00:43:32,840 --> 00:43:34,840
+{Especificamente, NN}, {pesadelos, NN}.
 
 542
-00:38:35,418 --> 00:38:39,169
-             {That, DT} {seems, VBZ} {hardly, RB}
-            {a, DT} {fitting, NN} {name, NN} {for, IN}
-             {a, DT} {place, NN} {so, RB} {full, JJ}.
+00:43:34,882 --> 00:43:37,217
+<{i, NN}>{Porquê, NN}?</{i, NN}>
 
 543
-00:38:39,213 --> 00:38:41,547
-            {Ca, NNP} {you, PRP} {see, VB} {it, PRP}?
+00:43:37,260 --> 00:43:39,112
+{Para, NN} {o, NN} {caso, NN} {de, NNS} {alguém, NN}
+{se, NN} {esquecer, NN} {de, NNS} {os, NN} {apagar, NN}
 
 544
-00:38:41,590 --> 00:38:43,674
-           {Perhaps, RB} {you, PRP} {not, RB}
-           {looking, VBG} {hard, JJ} {enough, RB}.
+00:43:39,112 --> 00:43:40,420
+{no, DT} {fim, NN} {da, NN} {sessão, NN} {de, NNS} {manutenção, NN}.
 
 545
-00:38:45,011 --> 00:38:46,760
-              {Boy, NNP}:
-            <{i, NN}> {At, IN} {what, WP}?</{i, NN}>
+00:43:40,422 --> 00:43:42,130
+{Se, NN} {ela, NN} {sonhar, NN}, é {com, NN} {os, NN} {desleixados, NN}
 
 546
-00:38:46,804 --> 00:38:49,013
- {The, DT} {town, NN} {with, IN}
- {the, DT} {white, JJ} {church, NN}.
+00:43:42,141 --> 00:43:45,559
+{da, NN} {loja, NN} {dos, NN} {corpos, NN}
+{a, DT} {remendá, NN}-{la, NN} {outra, NN} {vez, NN}.
 
 547
-00:38:50,558 --> 00:38:53,475
- {Listen, VB}.
- Can'{t, NN} {you, PRP} {hear, NN} {its, PRP$} {bell, NN}?
+00:43:47,061 --> 00:43:49,146
+{Ela, NN} {tem, NN} {algum, NN} {desconforto, NN} {físico, NN}.
 
 548
-00:38:53,519 --> 00:38:55,102
-        <{i, NN}> ( {bell, NN} {tolling, VBG} )</{i, NN}>
+00:43:49,188 --> 00:43:52,983
+{Mete, NNP} {um, NN} {pedido, NN} {para, NN} {exame, NN}
+{físico, NN} {completo, NN} {no, DT} {próximo, NN} {turno, NN}.
 
 549
-00:38:55,146 --> 00:38:57,229
-                 {Yes, UH}.
+00:43:55,320 --> 00:43:56,737
+{Muito, NN} {bem, NN}, {bonita, NN},
 
 550
-00:38:57,273 --> 00:38:58,480
-        {Yes, UH}, {I, PRP} {can, MD} {hear, NN} {it, PRP} {now, RB}.
+00:43:56,780 --> 00:43:59,030
+<{i, NN}>{estás, NN} {de, NNS} {volta, NN} à {competição, NN}.</{i, NN}>
 
 551
-00:38:58,524 --> 00:39:00,816
-              {Yeah, NN}.
+00:43:59,074 --> 00:44:03,242
+<{i, NN}>{Vais, NN} {acordar, NN} {em, NN} {três, NN}, {dois, NN}, {um, NN}...</{i, NN}>
 
 552
-00:39:00,860 --> 00:39:02,735
-          {I, PRP} {thought, NN} {you, PRP} {might, MD}.
+00:44:03,286 --> 00:44:07,581
+{Então, NN} {eu, NN} {fugi, NN},
+{atravessei, NN} {o, NN} {mar, NN} {brilhante, NN}
 
 553
-00:39:02,778 --> 00:39:05,779
-       {You, PRP} {see, VB} {what, WP} {a, DT} {bored, VBN} {mind, NN}
-       {can, MD} {conjure, NN}?
+00:44:07,625 --> 00:44:10,416
+{e, NN} {quando, NN} {finalmente, NN} {pus, NN} {o, NN} {pé, NN}
+{em, NN} {terreno, NN} {sólido, NN},
 
 554
-00:39:05,823 --> 00:39:08,407
-          <{i, NN}> ( {rattling, VBG} )</{i, NN}>
+00:44:10,460 --> 00:44:13,670
+{a, DT} {primeira, NN} {coisa, NN} {que, NN} {ouvi, NN}
+{foi, NN} {aquela, NN} {voz, NN}.
 
 555
-00:39:19,962 --> 00:39:23,130
-            {How, WRB} {did, VBD} {you, PRP} {do, VB} {that, IN}?
+00:44:13,713 --> 00:44:15,422
+{Sabes, NNS} {o, NN} {que, NN} {disse, NN} {ela, NN}?
 
 556
-00:39:26,010 --> 00:39:27,926
-<{i, NN}>{Is, NN} {it, PRP} {magic, NN}?</{i, NN}>
+00:44:16,800 --> 00:44:18,215
+{Disse, NN}...
 
 557
-00:39:27,970 --> 00:39:30,095
-                  {Everything, NN}
-                 {in, IN} {this, DT} {world, NN}
-                   {is, VBZ} {magic, NN},
+00:44:18,260 --> 00:44:21,719
+{Isto, NN} é {um, NN} {novo, NN} {mundo, NN}.
 
 558
-00:39:30,139 --> 00:39:32,890
-   {except, IN} {to, TO} {the, DT} {magician, NN}.
+00:44:23,556 --> 00:44:25,766
+{E, NN} {neste, NN} {mundo, NN}...
 
 559
-00:39:41,942 --> 00:39:44,568
-       {Best, JJS} {you, PRP} {head, NN} {home, NN} {now, RB}.
+00:44:27,353 --> 00:44:30,978
+{Podes, NNS} {ser, NN} {quem, NN} {tu, NN} {quiseres, NNS}.
 
 560
-00:39:44,612 --> 00:39:46,320
-       {But, CC} {Tommy, NNP} {not, RB}
-       {going, VBG} {to, TO} {believe, VB}--
+00:44:48,289 --> 00:44:51,041
+{Bem, NN}, {ele, NN} {pareceu, NN} {convencido, NN}.
 
 561
-00:39:46,364 --> 00:39:48,447
-{You, PRP} {not, RB} {going, VBG} {to, TO} {come, VB}
-{back, RB} {here, RB} {again, RB}, {are, VBP} {you, PRP}?
+00:44:53,711 --> 00:44:56,672
+{Sabes, NNS} {qual, JJ} {foi, NN} {a, DT} {primeira, NN} {voz, NN}
+{que, NN} {ouvi, NN} {quando, NN} {saí, NN} {daquele, NN} {barco, NN}?
 
 562
-00:39:49,867 --> 00:39:52,659
-          ( {whirring, VBG} )
+00:44:56,715 --> 00:44:59,048
+{Um, NN} {simpático, NN} {jovem, NN} {de, NNS} {Baton, NNP} {Rouge, NN}
 
 563
-00:39:54,705 --> 00:39:56,497
-                     {No, DT}.
+00:44:59,092 --> 00:45:02,802
+{a, DT} {dizer, NN}-{me, PRP} {que, NN} {a, DT} {minha, NN} {rata, NN} {podia, NN}
+{fazê, NN}-{lo, NN} {ganhar, NN} {dois, NN} {dólares, NNS} {por, NN} {dia, NN}.
 
 564
-00:39:56,540 --> 00:39:57,331
-       {Run, VB} {along, IN}, {now, RB}.
+00:45:02,846 --> 00:45:05,806
+{E, NN} {que, NN} {estaria, NNS} {mais, NN} {do, VB} {que, NN} {disposto, NN}
+{a, DT} {deixar, NN}-{me, PRP} {ficar, NN} {com, NN} {até, NN} 30%.
 
 565
-00:40:26,112 --> 00:40:28,070
-            ( {beeps, NNS} )
+00:45:05,849 --> 00:45:09,809
+{Bem, NN}, {podes, NNS} {adicionar, NN} {a, DT} {mentira, NN}
+à {tua, NN} {lista, NN} {de, NNS} {pecados, NN}.
 
 566
-00:40:38,666 --> 00:40:39,498
-         <{i, NN}> ( {knocks, NNS} )</{i, NN}>
+00:45:09,853 --> 00:45:12,603
+{A, DT} ú{nica, NN} {coisa, NN} {errada, NN}
+{com, NN} {os, NN} {sete, NN} {pecados, NN} {mortais, NN}
 
 567
-00:40:49,552 --> 00:40:51,927
-{You, PRP} {were, VBD} {at, IN} {your, PRP$} {office, NN}.
+00:45:12,648 --> 00:45:14,731
+é {não, NN} {haver, NN} {mais, NN} {iguais, NN}.
 
 568
-00:40:52,930 --> 00:40:54,555
-              {You, PRP} {seem, NN} {to, TO} {have, VB}
-              {found, NN} {me, PRP} {anyway, RB}.
+00:45:14,775 --> 00:45:16,315
+{E, NN} {já, NN} {que, NN} {falamos, NN} {do, VB} {assunto, NN},
 
 569
-00:40:56,642 --> 00:40:58,934
-       - {Listen, VB}, {earlier, RBR}--
-       - {Forget, NN} {it, PRP}.
+00:45:16,360 --> 00:45:18,994
+{as, IN} {minhas, NN} {transgressões, NN} {apagam, NN}-{se, NN}
+{com, NN} {mais, NN} {facilidade, NN} {que, NN} {as, IN} {tuas, NN}.
 
 570
-00:41:28,966 --> 00:41:30,924
-           {Stay, NN} {a, DT} {little, JJ} {longer, NN}.
-           We {can, MD} {talk, NN}.
+00:45:21,280 --> 00:45:23,672
+{Ao, NN} {menos, NNS} {quando, NN} {as, IN} {minhas, NN} {raparigas, NN}
+{terminam, NN} {com, NN} {os, NN} {homens, NNS},
 
 571
-00:41:30,968 --> 00:41:33,177
-      {We, PRP} {never, RB} {talk, NN}.
+00:45:23,682 --> 00:45:25,742
+{eles, NNS} {ainda, NN} {conseguem, NN} {respirar, NN}.
 
 572
-00:41:33,220 --> 00:41:36,180
-         - {I, PRP} {serious, JJ}.
-         -<{i, NN}> {So, RB} {am, VBP} {I, PRP}.</{i, NN}>
+00:45:25,786 --> 00:45:27,411
+{A, DT} {maior, NN} {parte, NN}.
 
 573
-00:41:39,560 --> 00:41:43,228
-   {You, PRP} {certainly, RB} {a, DT} {man, NN}
-   {comfortable, JJ} {with, IN} {long, RB},
-   {pensive, NN} {silences, NNS}.
+00:45:27,454 --> 00:45:29,195
+<{i, NN}>{Sai, NN} {da, NN} {minha, NN} {mesa, NN}!</{i, NN}>
 
 574
-00:41:44,940 --> 00:41:47,733
-   {Although, IN}, {ironically, RB},
+00:45:32,041 --> 00:45:33,666
+{Bem, NN}, {nesse, NN} {caso, NN}...
 
 575
-00:41:47,776 --> 00:41:50,277
-    {your, PRP$} {creations, NNS}
-    {never, RB} {shut, NN} {up, RB}.
+00:45:35,878 --> 00:45:37,121
+À{s, NN} {nossas, NNS} {indiscrições, NN}.
 
 576
-00:41:50,321 --> 00:41:53,739
-  {They, PRP} {always, RB} {talking, VBG}
-  {to, TO} {each, DT} {other, JJ},
+00:45:37,130 --> 00:45:38,914
+<{i, NN}>{Merda, NNP} {a, DT} {mais, NN} {para, NN} {uma, NN} {noite, RB}!</{i, NN}>
 
 577
-00:41:53,782 --> 00:41:56,241
-  {even, RB} {when, WRB} {there, RB} {are, VBP}
-  {no, DT} {guests, NNS} {around, IN}.
+00:45:38,923 --> 00:45:40,916
+<{i, NN}>{Disparo, NN} {sobre, NN} {qualquer, NN}
+{um, NN} {nesta, NN} {espelunca, NN}...</{i, NN}>
 
 578
-00:41:56,285 --> 00:41:58,577
-        {They, PRP} {always, RB} {trying, VBG}
-        {to, TO} {error, NN} {correct, NN}.
+00:45:40,925 --> 00:45:42,675
+{Faladas, NNS} {ou, NN} {não, NN}.
 
 579
-00:42:00,831 --> 00:42:03,540
-         {Make, VB} {themselves, PRP}
-         {more, RBR} {human, NN}.
+00:46:00,237 --> 00:46:03,516
+{Isto, NN} é {o, NN} {que, NN} {eu, NN} {chamo, NN} {de, NNS} {férias, NN}!
 
 580
-00:42:03,584 --> 00:42:05,626
-   {When, WRB} {they, PRP} {talk, NN} {to, TO} {each, DT} {other, JJ},
-   {it, PRP} {a, DT} {way, NN} {of, IN} {practicing, VBG}.
+00:49:13,387 --> 00:49:15,179
+{Três, NN},
 
 581
-00:42:05,669 --> 00:42:09,630
-        - {Is, NN} {that, IN} {what, WP}
-        {you, PRP} {doing, VBG} {now, RB}?
-        - ( {chuckles, NNS} )
+00:49:15,222 --> 00:49:19,099
+{dois, NN},
 
 582
-00:42:09,673 --> 00:42:11,048
-   {Practicing, VBG}?
+00:49:19,143 --> 00:49:21,061
+{um, NN}.
 
 583
-00:42:21,769 --> 00:42:23,977
-      {Man, NN}:
-      {QA, NN} {told, NN} {us, PRP} {she, PRP} {was, VBD}
-      {being, VBG} {decommissioned, VBN}.
+00:49:34,659 --> 00:49:37,534
+<{i, NN}>{Descobri, NN}.</{i, NN}>
 
 584
-00:42:24,021 --> 00:42:25,229
-         - {Elsie, NN}: {Do, VB} {you, PRP}
-         {work, NN} {for, IN} {QA, NN}?
-         - {No, DT}, {but, CC}--
+00:49:37,579 --> 00:49:41,121
+<{i, NN}>{Bactérias, NNS} {MRSA, NN} {no, DT} {abdómen, NNS}.</{i, NN}>
 
 585
-00:42:25,272 --> 00:42:27,523
-                 {Run, VB} {a, DT} {fast, NN}-{pass, NN}
-                 {diagnostic, JJ}.
+00:49:41,166 --> 00:49:43,708
+{Animais, NN} {do, VB} {caralho, NN} {nem, NN} {se, NN} {lavam, NN}.
 
 586
-00:42:30,528 --> 00:42:31,068
-     ( {sighs, NNS} )
+00:49:43,751 --> 00:49:45,777
+{Não, NN} {admira, NN} {que, NN} {tenhamos, NN}
+{um, NN} {problema, NN} {com, NN} {as, IN} {moscas, NN}.
 
 587
-00:42:31,111 --> 00:42:34,404
-     {All, DT} {righty, NN}.
+00:49:45,786 --> 00:49:49,914
+{Não, NN} {olhes, NNS} {para, NN} {mim, NN}.
+{Sou, NN} {o, NN} {rei, NN} {da, NN} {higiene, NN}.
 
 588
-00:42:35,324 --> 00:42:39,785
-         {Some, DT} {non, NN}-{affect, NN}
-         {hesitation, NN}.
+00:49:49,925 --> 00:49:52,884
+{Tretas, NNS}. {Já, NN} {te, NN} {vi, NN}.
 
 589
-00:42:39,828 --> 00:42:42,913
-{Little, JJ} {cognitive, NN} {D, NN}.
+00:49:52,927 --> 00:49:54,920
+{Comes, NNS} {aquela, NN} {merda, NN}
+{pegajosa, NN} {e, NN} {só, NN} {enxaguas, NN}.
 
 590
-00:42:42,957 --> 00:42:43,914
-         {And, CC} {a, DT} {fuckload, NN}
-         {of, IN} {aggression, NN},
+00:49:54,929 --> 00:49:57,639
+<{i, NN}>{Percebes, NNS}, {a, DT} {sopa, NN} é {mecânica, NN}.</{i, NN}>
 
 591
-00:42:43,958 --> 00:42:47,417
-    {courtesy, NN} {of, IN} {those, DT} {morons, NNS}
-    {in, IN} {narrative, JJ}.
+00:50:00,143 --> 00:50:02,760
+{Se, NN} {não, NN} {estás, NN} {a, DT} {fazer, NN} {bolhinhas, NN},
+{não, NN} {estás, NN} {a, DT} {fazer, NN} {nada, NN}.
 
 592
-00:42:47,461 --> 00:42:51,088
-{You, PRP} {do, VBP} {need, NN}
-{to, TO} {be, VB} {aggro, NN}, {do, VB} {you, PRP}?
+00:50:02,771 --> 00:50:04,311
+{Foda, NN}-{se, NN}! {Foda, NN}-{se, NN}!
+{Mas, NN} {que, NN} {caralho, NN}?!
 
 593
-00:42:51,131 --> 00:42:54,299
-{Just, RB} {a, DT} {quicker, NN} {study, NN}
-{of, IN} {those, DT} {repressed, VBN} {fucks, NNS}
-{walking, VBG} {through, IN} {the, DT} {door, NN}.
+00:50:04,356 --> 00:50:05,938
+- {Merda, NNP}!
+- {Mas, NN} {que, NN} {caralho, NN}!?
 
 594
-00:42:54,343 --> 00:42:56,468
-   {Archive, JJ} {this, DT} {configuration, NN}.
+00:50:12,989 --> 00:50:15,864
+{Não, NN}. {Foda, NN}-{se, NN}.
 
 595
-00:42:56,512 --> 00:42:59,596
-    - {Open, VB} {up, RB} {her, PRP$} {primaries, NNS}.
-    - ( {beeping, VBG} )
+00:50:18,704 --> 00:50:22,038
+{Idiota, NN}, {esqueceste, NN}-{te, NN} {de, NNS}
+{colocá, NN}-{lo, NN} {em, NN} {modo, NN} {de, NNS} {sono, NN}.
 
 596
-00:42:59,640 --> 00:43:02,849
-     {Perception, NN}.
-     Emotional {acuity, NN}.
+00:50:23,833 --> 00:50:26,001
+{Não, NN} {faças, NN}, {não, NN} {faças, NN}!
 
 597
-00:43:02,893 --> 00:43:04,810
-           {Bump, NN} {it, PRP}.
+00:50:26,043 --> 00:50:27,626
+{Não, NN}! {Não, NN}, {não, NN}, {não, NN}!
 
 598
-00:43:04,853 --> 00:43:07,896
-          - 1.5%.
-          -<{i, NN}> ( {beeping, VBG} )</{i, NN}>
+00:50:27,670 --> 00:50:30,246
+- {Não, NN} {o, NN} {faças, NN}! {Não, NN} {o, NN} {faças, NN}!
 
 599
-00:43:07,940 --> 00:43:09,898
-           -<{i, NN}> {Updating, VBG}.</{i, NN}>
-           - {Okay, NN}.
+00:50:30,257 --> 00:50:32,923
+{Para, NN}. {Larga, NN} {isso, NN}!
 
 600
-00:43:11,610 --> 00:43:14,069
-        -<{i, NN}> {Do, VB} {they, PRP} {dream, NN}?</{i, NN}>
-        - {What, WP}?
+00:50:32,967 --> 00:50:35,418
+{Partes, NNS}-{lhe, NN} {alguma, NN} {coisa, NN} {na, NNS} {cabeça, NN}
+{e, NN} {temos, NN} {de, NNS} {enviar, NN} {relatório, NN}.
 
 601
-00:43:14,113 --> 00:43:16,572
-           {In, IN} {her, PRP$} {story, NN},
-           {she, PRP} {said, VBD} {she, PRP} {dreamed, VBN}.
+00:50:35,429 --> 00:50:37,721
+{Vamos, NNS} {falar, NN} {com, NN} {ela, NN}.
 
 602
-00:43:16,615 --> 00:43:17,531
-          {Do, VB} {we, PRP} {make, VB} {them, PRP} {dream, NN}?
+00:50:37,764 --> 00:50:39,681
+- {Como, NN} {se, NN} {chama, NN}?
+- {Maeve, NNP}!
 
 603
-00:43:17,575 --> 00:43:20,284
-          {Fuck, NN} {would, MD} {be, VB}
-       {the, DT} {point, NN} {of, IN} {that, IN}?
+00:50:39,724 --> 00:50:40,923
+{Olá, NN}, {Maeve, NNP}.
+{Maeve, NNP}, {olá, NN}.
 
 604
-00:43:20,327 --> 00:43:23,453
-{Dreams, NNS} {are, VBP} {mainly, RB} {memories, NNS}.
+00:50:40,934 --> 00:50:44,561
+{Tens, NNS} {de, NNS} {te, NN} {acalmar, NN}.
 
 605
-00:43:23,497 --> 00:43:25,664
-{Can, MD} {you, PRP} {imagine, NN} {how, WRB} {fucked, VBN}
-{we, PRP} {be, VB} {if, IN} {these, DT} {poor, JJ} {assholes, NNS}
+00:50:44,603 --> 00:50:47,014
+{Está, NN} {bem, NN}? {Sentamo, NN}-{nos, NNS}
+{e, NN} {podemos, NN} {ajudar, NN}-{te, NN}.
 
 606
-00:43:25,708 --> 00:43:28,834
-{ever, RB} {remembered, VBN} {what, WP}
-{the, DT} {guests, NNS} {do, VB} {to, TO} {them, PRP}?
+00:50:47,023 --> 00:50:49,356
+{Tira, NN} {essas, NN} {mãos, NN} {de, NNS} {mim, NN}.
 
 607
-00:43:28,877 --> 00:43:32,796
-     {We, PRP} {do, VB} {give, VB} {them, PRP}
-     {the, DT} {concept, NN} {of, IN} {dreams, NNS}.
+00:50:52,153 --> 00:50:53,737
+{Não, NN}.
 
 608
-00:43:32,840 --> 00:43:34,840
-{Specifically, RB} {nightmares, NNS}.
+00:52:30,585 --> 00:52:31,960
+{Juro, NN} {que, NN} {a, DT} {meti, NN} {em, NN} {modo, NN} {de, NNS} {sono, NN}.
 
 609
-00:43:34,883 --> 00:43:37,217
-<{i, NN}>{Why, WRB}?</{i, NN}>
+00:52:31,969 --> 00:52:34,679
+{Isto, NN} {parece, NN}-{te, NN} {um, NN} {modo, NN} {de, NNS} {sono, NN}?
 
 610
-00:43:37,261 --> 00:43:40,178
-{Just, RB} {in, IN} {case, NN} {somebody, NN} {forgets, NNS}
-{to, TO} {wipe, NN} {them, PRP} {out, IN} {at, IN} {the, DT} {end, NN}
-{of, IN} {a, DT} {maintenance, NN} {session, NN}.
+00:52:36,298 --> 00:52:38,715
+{Acalma, NN}-{te, NN} {e, NN} {ajuda, NN}-{me, PRP}
+{a, DT} {mover, NN} {esta, NN} {coisa, NN}
 
 611
-00:43:40,222 --> 00:43:42,097
-  {If, IN} {she, PRP} {got, VBD}
-  {any, DT} {dreams, NNS}, {it, PRP} {just, RB}
-  {of, IN} {those, DT} {sloppy, JJ} {fucks, NNS}
+00:52:38,760 --> 00:52:41,760
+{antes, NNS} {que, NN} {alguém, NN} {veja, NN}.
 
 612
-00:43:42,141 --> 00:43:45,559
-  {down, RB} {in, IN} {the, DT} {body, NN} {shop, NN}
-  {patching, VBG} {her, PRP$} {back, RB}
-  {together, RB} {again, RB}.
+00:53:07,621 --> 00:53:09,079
+{Aqui, NN}?
 
 613
-00:43:45,603 --> 00:43:47,019
-<{i, NN}>( {chuckles, NNS} )</{i, NN}>
+00:53:39,362 --> 00:53:42,280
+{Este, NN} {enredo, NN} {vai, NN} {fazer, NN} {com, NN} {que, NN}
+{Hieronymus, NN} {Bosch, NNP}
 
 614
-00:43:47,062 --> 00:43:49,146
-    {She, PRP} {got, VBD} {some, DT}
-    {physical, JJ} {discomfort, NN}.
+00:53:42,324 --> 00:53:44,532
+{pareça, NN} {que, NN} {estava, NN} {a, DT} {afogar, NN} {gatinhos, NN}.
 
 615
-00:43:49,189 --> 00:43:52,983
-   {Put, VB} {in, IN} {a, DT} {request, NN}
-   {for, IN} {a, DT} {full, JJ} {physical, JJ}
-   {at, IN} {her, PRP$} {next, JJ} {rotation, NN}.
+00:53:44,576 --> 00:53:48,702
+{Tenho, NN} {vivissecção, NN}, {auto, NN}-{canibalismo, NN},
 
 616
-00:43:55,321 --> 00:43:56,737
-   {All, DT} {right, NN}, {gorgeous, JJ},
+00:53:48,746 --> 00:53:53,081
+{uma, NN} {coisa, NN} {especial, JJ}
+{a, DT} {que, NN} {chamei, NN} "{Whoroborus, NN}".
 
 617
-00:43:56,780 --> 00:43:59,031
-<{i, NN}>{you, PRP} {back, RB} {to, TO} {the, DT} {races, NNS}.</{i, NN}>
+00:53:53,126 --> 00:53:55,751
+{Não, NN} {quero, NN} {parecer, NN} {pouco, NN} {modesto, NN},
 
 618
-00:43:59,074 --> 00:44:03,243
-<{i, NN}>{You, PRP} {gon, NN} {wake, NN}</{i, NN}>
-<{i, NN}>{in, IN} {three, CD}, {two, CD}, {one, CD}.</{i, NN}>
+00:53:55,795 --> 00:54:01,507
+{mas, NN} {isto, NN} é {o, NN} á{pice, NN}
+{do, VB} {que, NN} {o, NN} {parque, NN} {pode, NN} {oferecer, NN}.
 
 619
-00:44:03,287 --> 00:44:07,581
-{So, RB} {I, PRP} {ran, NN} {away, RB},
-{crossed, VBN} {the, DT} {shining, VBG} {sea, NN}.
+00:54:01,550 --> 00:54:03,351
+- <{i, NN}>{Horror, NN}...</{i, NN}>
+- {Perdi, NN} {alguma, NN} {coisa, NN} {de, NNS} {interesse, NN}?
 
 620
-00:44:07,625 --> 00:44:10,417
-{And, CC} {when, WRB} {I, PRP} {finally, RB} {set, NN} {foot, NN}
-{back, RB} {on, IN} {solid, JJ} {ground, NN},
+00:54:03,360 --> 00:54:06,137
+<{i, NN}>{Romance, NN},
+{excitação, NN}.</{i, NN}>
 
 621
-00:44:10,461 --> 00:44:13,670
-{the, DT} {first, RB} {thing, NN} {I, PRP} {heard, NN}
-{was, VBD} {that, IN} {voice, NN}.
+00:54:06,181 --> 00:54:08,347
+{O, NN} {Lee, NNP} {a, DT} {não, NN} {parecer, NN} {imodesto, NN}.
 
 622
-00:44:13,714 --> 00:44:15,422
-{Do, VB} {you, PRP} {know, VB} {what, WP} {it, PRP} {said, VBD}?
+00:54:08,391 --> 00:54:10,641
+{Os, NN} {nossos, NN} {hóspedes, NNS}
+{mais, NN} {qualificados, NN} {vão, NN} {lutar, NN}
 
 623
-00:44:16,800 --> 00:44:18,216
-     {It, PRP} {said, VBD}...
+00:54:10,684 --> 00:54:12,518
+{até, NN} {aos, NN} {limites, NNS} {exteriores, NNS} {do, VB} {parque, NN}
 
 624
-00:44:18,260 --> 00:44:21,720
-     {this, DT} {is, VBZ} {the, DT} {new, JJ} {world, NN}.
+00:54:12,561 --> 00:54:16,231
+{vencendo, NN} í{ndios, NNS} {assustadores, NNS},
+{seduzindo, NN} {donzelas, NNS} {adolescentes, NNS},
 
 625
-00:44:23,557 --> 00:44:25,766
-  {And, CC} {in, IN} {this, DT} {world, NN}...
+00:54:16,273 --> 00:54:19,817
+{fazendo, NN} {amizade, NN} {com, NN} {parceiros, NNS}
+{que, NN} {terão, NN} {um, NN} {trágico, NN} {destino, NN}
 
 626
-00:44:27,353 --> 00:44:30,979
-      {you, PRP} {can, MD} {be, VB} {whoever, NN}
-      {the, DT} {fuck, NN} {you, PRP} {want, NN}.
+00:54:19,860 --> 00:54:22,737
+{e, NN}, {claro, NN},
 
 627
-00:44:36,111 --> 00:44:38,403
-       <{i, NN}> ( {piano, NN} {playing, VBG} )</{i, NN}>
+00:54:22,780 --> 00:54:25,164
+{como, NN} {todas, NNS} {as, IN} {nossas, NNS} {melhores, NNS}
+{narrativas, NN} {ao, NN} {longo, NN} {dos, NN} {anos, NNS},
 
 628
-00:44:41,075 --> 00:44:43,325
-                     ( {sighs, NNS} )
+00:54:25,175 --> 00:54:27,824
+{os, NN} {nossos, NN} {hóspedes, NNS} {terão, NN} {o, NN} {privilégio, NN}
 
 629
-00:44:48,290 --> 00:44:51,041
-                {Well, RB}, {he, PRP} {seemed, VBD}
-                {convinced, VBN}.
+00:54:27,869 --> 00:54:30,778
+{de, NNS} {conhecer, NN} {a, DT} {personagem, NN} {em, NN} {que, NN}
+{estão, NN} {mais, NN} {interessados, NN}...
 
 630
-00:44:53,712 --> 00:44:56,672
-    {You, PRP} {know, VB} {the, DT} {first, RB} {voice, NN}
-    {I, PRP} {heard, NN} {when, WRB} {I, PRP} {got, VBD} {off, IN}
-    {that, IN} {boat, NN}?
+00:54:30,789 --> 00:54:32,746
+{Eles, NNS} {mesmos, NNS}.
 
 631
-00:44:56,715 --> 00:44:59,049
-  {A, DT} {nice, JJ} {young, JJ} {man, NN}
-  {from, IN} {Baton, NNP} {Rouge, NN}
+00:54:32,791 --> 00:54:37,001
+{Apresento, IN}-{vos, NN} {a, DT} {nova, NNS} {obsessão, NN}
+{dos, NN} {nossos, NN} {hóspedes, NNS}:
 
 632
-00:44:59,093 --> 00:45:02,803
- {said, VBD} {my, PRP$} {pussy, NN} {could, MD} {earn, NN} {him, PRP}
- {two, CD} {whole, JJ} {dollars, NNS} {a, DT} {day, NN}.
+00:54:37,086 --> 00:54:40,295
+{Odisseia, NN} {no, DT} {Rio, NN} {Vermelho, NN}.
 
 633
-00:45:02,846 --> 00:45:05,806
- {And, CC} {he, PRP} {be, VB} {more, RBR} {than, IN} {happy, JJ}
- {to, TO} {let, VB} {me, PRP} {have, VB} {up, RB} {to, TO} 30%.
+00:54:51,016 --> 00:54:52,266
+{Não, NN}.
 
 634
-00:45:05,849 --> 00:45:09,810
-          {Well, RB}, {then, RB} {I, PRP} {guess, NN}
-          {you, PRP} {could, MD} {add, VB} {lying, VBG}
-          {to, TO} {your, PRP$} {list, NN} {of, IN} {sins, NNS}.
+00:54:52,309 --> 00:54:53,317
+{Desculpe, NN}?
 
 635
-00:45:09,853 --> 00:45:12,604
-{The, DT} {only, RB} {thing, NN} {wrong, JJ}
-{with, IN} {the, DT} {seven, CD} {deadly, RB} {sins, NNS}
+00:54:53,360 --> 00:54:56,853
+{Não, NN}, {penso, NN} {que, NN} {não, NN}.
 
 636
-00:45:12,648 --> 00:45:14,731
-{is, VBZ} {that, IN} {there, RB} {are, VBP}
-{more, RBR} {of, IN} {them, PRP}.
+00:54:56,898 --> 00:54:58,472
+<{i, NN}>{Espere, RB}, {não, NN} {acha, NN} {que, NN}...</{i, NN}>
 
 637
-00:45:14,775 --> 00:45:16,316
-{And, CC} {while, IN} {we, PRP}
-{on, IN} {the, DT} {subject, NN},
+00:54:58,483 --> 00:55:00,099
+<{i, NN}>{Qual, JJ} é {o, NN} {sentido, NN} {disso, NN}?</{i, NN}>
 
 638
-00:45:16,360 --> 00:45:18,694
-{my, PRP$} {transgressions, NNS} {wash, NN} {off, IN}
-{a, DT} {little, JJ} {easier, JJR} {than, IN} {yours, NNS}.
+00:55:00,110 --> 00:55:03,068
+{Ter, NN} {meia, NN}-{dúzia, NN} {de, NNS} {emoções, NN} {baratas, NNS}?
 
 639
-00:45:21,281 --> 00:45:22,739
-    {At, IN} {least, JJS} {when, WRB} {my, PRP$} {girls, NNS}
-    {are, VBP} {done, VBN} {with, IN} {a, DT} {man, NN},
+00:55:03,112 --> 00:55:04,945
+{Algumas, NN} {surpresas, NN}?
 
 640
-00:45:22,783 --> 00:45:25,742
-     {he, PRP} {still, RB} {left, NN}
-     {drawing, VBG} {breath, NN}.
+00:55:04,989 --> 00:55:06,822
+{Mas, NN} {não, NN} é {suficiente, NN}.
 
 641
-00:45:25,786 --> 00:45:27,411
-     {For, IN} {the, DT} {most, JJS} {part, NN}.
+00:55:06,865 --> 00:55:10,326
+{Isto, NN} {não, NN} é {dar, NN} {aos, NN} {hóspedes, NNS}
+{o, NN} {que, NN} {achamos, NNS} {que, NN} {eles, NNS} {querem, NN}.
 
 642
-00:45:27,454 --> 00:45:29,162
-              {Man, NN}:
-       <{i, NN}> {Get, VB} {the, DT} {fuck, NN} {away, RB}</{i, NN}>
-         <{i, NN}> {from, IN} {my, PRP$} {table, NN}.</{i, NN}>
+00:55:10,369 --> 00:55:11,427
+{Não, NN}, {isso, NN} é {simples, NNS}.
 
 643
-00:45:29,206 --> 00:45:31,998
-    -<{i, NN}> ( {objects, NNS} {crash, NN} )</{i, NN}>
-    - {Man, NN} #2:<{i, NN}> {Hey, NN}, {fuck, NN} {you, PRP}!</{i, NN}>
+00:55:11,471 --> 00:55:15,998
+{A, DT} {excitação, NN}, {o, NN} {horror, NN}, {a, DT} {exaltação, NN}...
 
 644
-00:45:32,042 --> 00:45:33,667
-         {Well, RB}, {in, IN} {that, IN} {case, NN}...
+00:55:16,041 --> 00:55:17,791
+{São, NN} {truques, NNS} {de, NNS} {salão, NN}.
 
 645
-00:45:33,711 --> 00:45:35,836
-          <{i, NN}> ( {crashing, VBG},</{i, NN}>
-      <{i, NN}> {argument, NN} {continue, NN} )</{i, NN}>
+00:55:17,835 --> 00:55:23,338
+{Os, NN} {hóspedes, NNS} {não, NN} {regressam, NN}
+{pelas, NNS} {coisas, NN} ó{bvias, NN} {que, NN} {fazemos, NN},
 
 646
-00:45:35,879 --> 00:45:37,087
-              ...{here, RB} {to, TO}
-              {our, PRP$} {indiscretions, NNS}.
+00:55:23,382 --> 00:55:25,425
+{as, IN} {coisas, NN} {espalhafatosas, NN}.
 
 647
-00:45:37,131 --> 00:45:38,880
-              {Man, NN}:
-      <{i, NN}> ...{fucking, VBG} {bullshit, NN}</{i, NN}>
-         <{i, NN}> {for, IN} {one, CD} {night, NN}.</{i, NN}>
+00:55:27,094 --> 00:55:32,264
+{Regressam, NN} {por, NN} {causa, NN} {das, NNS} {subtilezas, NN},
 
 648
-00:45:38,924 --> 00:45:40,882
-      <{i, NN}> {I, PRP} {shoot, NN} {everyone, NN}</{i, NN}>
-        <{i, NN}> {in, IN} {this, DT} {dump, NN}...</{i, NN}>
+00:55:32,309 --> 00:55:33,309
+{dos, NN} {detalhes, NNS}.
 
 649
-00:45:40,926 --> 00:45:42,676
-        {Spoken, NNP} {and, CC} {otherwise, RB}.
+00:55:35,436 --> 00:55:38,771
+<{i, NN}>{Regressam, NN} {porque, NN} {descobrem, NN}</{i, NN}>
 
 650
-00:45:42,720 --> 00:45:47,305
-         - ( {gunshots, NNS} )
-         - ( {groaning, VBG} )
+00:55:38,815 --> 00:55:43,650
+{algo, NN} {que, NN} {imaginam, NN}
+{que, NN} {ninguém, NN} {reparou, NN} {antes, NNS},
 
 651
-00:45:57,443 --> 00:46:00,193
-         ( {panting, VBG} )
+00:55:47,824 --> 00:55:49,903
+<{i, NN}>{algo, NN} {pelo, NN} {qual, JJ} {se, NN} {apaixonam, NN}.</{i, NN}>
 
 652
-00:46:00,237 --> 00:46:03,113
-            ( {snaps, NNS} {fingers, NNS} )
-            {Now, RB} {that, DT} {a, DT} {fucking, VBG}
-            {vacation, NN}!
+00:55:52,954 --> 00:55:54,487
+<{i, NN}>{Não, NN} {estão, NN} à {procura, NN}
+{de, NNS} {uma, NN} {história, NN}</{i, NN}>
 
 653
-00:47:26,824 --> 00:47:28,532
-           ( {gunshot, NN} )
+00:55:54,496 --> 00:55:58,041
+{que, NN} {lhes, NNS} {diga, NN} {quem, NN} {eles, NNS} {são, NN}.
 
 654
-00:47:36,333 --> 00:47:38,542
-             ( {whinnies, NNS} )
+00:55:58,083 --> 00:56:00,876
+{Eles, NNS} {já, NN} {sabem, NN} {quem, NN} {são, NN}.
 
 655
-00:48:50,073 --> 00:48:52,782
-          ( {gunshots, NNS} )
+00:56:07,344 --> 00:56:10,260
+{Estão, NN} {aqui, NN} {porque, NN} {querem, NN} {um, NN} {vislumbre, NN}
 
 656
-00:49:13,388 --> 00:49:15,180
-             {Three, CD},
+00:56:10,304 --> 00:56:11,679
+{do, VB} {que, NN} {poderiam, NN} {ter, NN} {sido, NN}.
 
 657
-00:49:15,223 --> 00:49:19,100
-              {two, CD},
+00:56:11,722 --> 00:56:14,639
+<{i, NN}>{Billy, RB}!</{i, NN}>
 
 658
-00:49:19,144 --> 00:49:21,061
-              {one, CD}.
+00:56:14,684 --> 00:56:16,391
+{Vamos, NNS}.
 
 659
-00:49:31,448 --> 00:49:33,031
-          <{i, NN}> ( {beeping, VBG} )</{i, NN}>
+00:56:21,775 --> 00:56:24,733
+{A, DT} ú{nica, NN} {coisa, NN}
+{que, NN} {a, DT} {sua, NN} {história, NN} {me, PRP} {diz, NN},
 
 660
-00:49:34,660 --> 00:49:37,535
-              {Man, NN}:
-           <{i, NN}> {Found, IN} {it, PRP}.</{i, NN}>
+00:56:24,777 --> 00:56:29,489
+{Sr, NN}. {Sizemore, NN}, é {quem, NN} {você, NN} é.
 
 661
-00:49:37,579 --> 00:49:41,122
-      <{i, NN}> {It, PRP} {MRSA, NN} {in, IN} {her, PRP$} {abdomen, NNS}.</{i, NN}>
+00:56:35,329 --> 00:56:38,039
+{Bem, NN}, {não, NN} {há, NN} {nada, NN} {de, NNS} {que, NN} {goste, NN}?
 
 662
-00:49:41,166 --> 00:49:43,708
-          {Filthy, NN} {fucking, VBG} {animals, NNS}
-          {not, RB} {cleaning, NN} {up, RB}.
+00:56:42,211 --> 00:56:44,336
+{De, NNP} {que, NN} {tamanho, NN} {são, NN} {essas, NN} {botas, NNS}?
 
 663
-00:49:43,752 --> 00:49:45,043
-          {No, DT} {wonder, NN} {we, PRP} {have, VB}
-          {a, DT} {fucking, VBG} {fly, NN} {problem, NN}.
+00:56:51,346 --> 00:56:53,253
+{Alguma, NN} {coisa, NN} {que, NN} {queira, NN}
+{dizer, NN}-{me, PRP}, {Sr, NN}. {Lowe, NN}?
 
 664
-00:49:45,087 --> 00:49:49,214
-{Do, VBP} {look, NN} {at, IN} {me, PRP}.
-I'{m, NN} {the, DT} {king, NN} {of, IN} {hygiene, NN}.
+00:56:53,264 --> 00:56:57,099
+- {O, NN} {Conselho, NN}, {senhor, NN}.
+- {Sim, NN}?
 
 665
-00:49:49,925 --> 00:49:52,884
-                {Bullshit, NNP}.
-                I'{ve, NN} {seen, VBN} {you, PRP}.
+00:56:57,143 --> 00:56:59,583
+{Isto, NN} {poderá, NN} {irritar, NN} {algumas, NN} {pessoas, NN}.
 
 666
-00:49:52,928 --> 00:49:54,886
-                <{i, NN}> {You, PRP} {just, RB} {glop, NN}</{i, NN}>
-                <{i, NN}> {that, IN} {shit, NN} {on, IN}</{i, NN}>
-                <{i, NN}> {and, CC} {rinse, NN}.</{i, NN}>
+00:56:59,603 --> 00:57:01,096
+{Prometeu, NN}-{lhes, NNS} {um, NN} {novo, NN} {enredo, NN}.
 
 667
-00:49:54,930 --> 00:49:57,639
-            <{i, NN}> {You, PRP} {understand, NN},</{i, NN}>
-            <{i, NN}> {soap, NN} {is, VBZ} {mechanical, JJ}.</{i, NN}>
+00:57:01,106 --> 00:57:03,940
+{E, NN} {terão, NN} {um, NN}.
 
 668
-00:49:57,683 --> 00:50:00,100
-     - {Man, NN} #2:<{i, NN}> {Fuck, NN} {are, VBP} {you, PRP}</{i, NN}>
-     <{i, NN}> {talking, VBG} {about, IN}?</{i, NN}>
-     -<{i, NN}> {Bubbles, NNS}.</{i, NN}>
+00:57:03,983 --> 00:57:07,193
+{Uma, NN} {coisa, NN} {em, NN} {que, NN} {estou, NN}
+{a, DT} {trabalhar, NN} {há, NN} {bastante, NN} {tempo, NN}.
 
 669
-00:50:00,143 --> 00:50:02,727
-      {If, IN} {you, PRP} {not, RB}
-      {making, VBG} {the, DT} {little, JJ} {bubbles, NNS},
-      {you, PRP} {not, RB} {doing, VBG} {shit, NN}.
+00:57:10,447 --> 00:57:12,489
+{Uma, NN} {coisa, NN} {bastante, NN} {original, JJ}.
 
 670
-00:50:02,771 --> 00:50:04,312
-{Fuck, NN}! Fuck!
-What {the, DT} {fuck, NN}?!
+00:57:27,000 --> 00:57:31,000
+{Tradução, NN}: {Marco, NN}@{Bitaites, NNS}/{Bitates, NNS}.{org, NN}
 
-671
-00:50:04,356 --> 00:50:05,939
-        - {Shit, NN}!
-        - {What, WP} {the, DT} {fuck, NN}?
-
-672
-00:50:05,983 --> 00:50:08,274
-     -<{i, NN}> ( {instruments, NNS} {clang, NN} )</{i, NN}>
-     - {Man, NN} #2:<{i, NN}> {Uh, NN}, {uh, NN}...</{i, NN}>
-
-673
-00:50:08,318 --> 00:50:10,652
-<{i, NN}>{Uh, NN}...</{i, NN}>
-
-674
-00:50:10,696 --> 00:50:12,946
-            ( {gasps, NN} )
-
-675
-00:50:12,990 --> 00:50:15,865
-               {No, DT}. Oh, {fuck, NN}.
-
-676
-00:50:15,909 --> 00:50:18,660
-           - {Man, NN}:<{i, NN}> {Oh, UH}.</{i, NN}>
-           - ( {bangs, NNS} )
-
-677
-00:50:18,704 --> 00:50:22,038
-       {Asshole, NN}, {you, PRP} {forgot, NN}
-       {to, TO} {put, NN} {her, PRP$} {in, IN} {sleep, NN} {mode, NN}.
-
-678
-00:50:23,834 --> 00:50:26,001
-     - {Oh, UH}!
-     - {Do, VBP}, {do, VBP}, {do, VBP}!
-
-679
-00:50:26,044 --> 00:50:27,627
-              {No, DT}! No, {no, DT}, {no, DT}!
-
-680
-00:50:27,671 --> 00:50:30,213
-       - {Do, VBP}! Don'{t, NN},
-    {do, VBP}, {do, VBP}, {do, VBP}.
-       - ( {shouting, VBG} )
-
-681
-00:50:30,257 --> 00:50:32,924
-                  {Stop, VB}.
-                  Put {that, IN} {down, RB}!
-
-682
-00:50:32,968 --> 00:50:35,385
-        {You, PRP} {break, NN} {anything, NN}
-        {in, IN} {her, PRP$} {head, NN}, {we, PRP} {have, VB}
-        {to, TO} {file, NN} {a, DT} {damage, NN} {report, NN}.
-
-683
-00:50:35,429 --> 00:50:37,721
-              {Uh, NN}, {okay, NN},
-              {let, NN} {talk, NN} {to, TO} {her, PRP$}.
-
-684
-00:50:37,764 --> 00:50:39,681
-       - {What, WP} {her, PRP$} {name, NN}?
-       - {Maeve, NNP}!
-
-685
-00:50:39,725 --> 00:50:40,890
-           {Hi, NN}, {Maeve, NNP}.
-           Maeve, {hi, NN}.
-
-686
-00:50:40,934 --> 00:50:44,561
-          {Look, VB}, {uh, NN},
-          {you, PRP} {got, VBD} {calm, NN} {down, RB}.
-
-687
-00:50:44,604 --> 00:50:46,980
-         {Okay, NN}?
-         Let'{s, NN} {sit, NN} {down, RB}
-         {and, CC} {we, PRP} {can, MD} {help, NN} {you, PRP}.
-
-688
-00:50:47,024 --> 00:50:49,357
-  {Keep, VB} {your, PRP$}
-  {fucking, VBG} {hands, NNS} {off, IN} {me, PRP}.
-
-689
-00:50:49,401 --> 00:50:50,817
-      <{i, NN}> ( {monitor, NN} {beeping, VBG} )</{i, NN}>
-
-690
-00:50:52,154 --> 00:50:53,737
-                            {No, DT}.
-
-691
-00:50:57,909 --> 00:50:59,534
-     <{i, NN}> ( {beeping, VBG} {continues, VBZ} )</{i, NN}>
-
-692
-00:51:06,460 --> 00:51:09,335
-            ( {gasps, NN} )
-
-693
-00:51:17,721 --> 00:51:20,430
-   <{i, NN}> ( {electricity, NN} {crackling, VBG} )</{i, NN}>
-
-694
-00:51:49,169 --> 00:51:51,836
-   <{i, NN}> ( {electricity, NN} {crackling, VBG} )</{i, NN}>
-
-695
-00:51:53,632 --> 00:51:56,549
-       <{i, NN}> ( {quiet, JJ} {chatter, NN} )</{i, NN}>
-
-696
-00:51:59,221 --> 00:52:01,763
-       <{i, NN}> ( {metal, NN} {clanging, VBG} )</{i, NN}>
-
-697
-00:52:30,585 --> 00:52:31,626
-        {I, PRP} {swear, NN} {I, PRP} {put, NN} {it, PRP}
-         {in, IN} {sleep, NN} {mode, NN}.
-
-698
-00:52:31,670 --> 00:52:34,379
-{Oh, UH}, {does, VBZ} {this, DT} {look, NN}
-{like, IN} {fucking, VBG} {sleep, NN} {mode, NN}?
-
-699
-00:52:36,299 --> 00:52:38,716
-    {Calm, NN} {the, DT} {fuck, NN} {down, RB}
-    {and, CC} {help, NN} {me, PRP} {move, NN}
-    {this, DT}... {thing, NN}
-
-700
-00:52:38,760 --> 00:52:41,761
-{before, IN} {someone, NN} {sees, NNS}.
-
-701
-00:52:41,805 --> 00:52:43,847
-     ( {both, DT} {grunt, NN} )
-
-702
-00:53:01,116 --> 00:53:03,449
-        <{i, NN}> ( {coyote, NN} {howls, NN} )</{i, NN}>
-
-703
-00:53:07,622 --> 00:53:09,080
-         {Here, RB}?
-
-704
-00:53:39,362 --> 00:53:42,280
-       {Lee, NNP}:
-       {This, DT} {storyline, NN} {will, MD} {make, VB}
-       {Hieronymus, NN} {Bosch, NNP}
-
-705
-00:53:42,324 --> 00:53:44,532
-          {look, NN} {like, IN} {he, PRP} {was, VBD}
-          {doodling, VBG} {kittens, NNS}.
-
-706
-00:53:44,576 --> 00:53:48,703
-          {I, PRP} {have, VB} {vivisection, NN},
-          {self, NN}-{cannibalism, NN},
-
-707
-00:53:48,747 --> 00:53:53,082
-      {a, DT} {special, JJ} {little, JJ} {something, NN}
-      {I, PRP} {call, NN} {the, DT} "{whoroborus, NN}."
-
-708
-00:53:53,126 --> 00:53:55,752
-         {Now, RB}, {I, PRP} {do, VBP} {want, NN}
-         {to, TO} {appear, VB} {immodest, NN},
-
-709
-00:53:55,795 --> 00:54:01,507
-      {but, CC} {this, DT} {is, VBZ} {the, DT} {apex, NN}
-      {of, IN} {what, WP} {the, DT} {park, NN}
-      {could, MD} {provide, NN}--
-
-710
-00:54:01,551 --> 00:54:03,218
-  -<{i, NN}> {horror, NN}...</{i, NN}>
-  - {Miss, NNP} {anything, NN} {interesting, VBG}?
-
-711
-00:54:03,261 --> 00:54:06,137
-                <{i, NN}> ...{romance, NN},</{i, NN}>
-                <{i, NN}> {titillation, NN}.</{i, NN}>
-
-712
-00:54:06,181 --> 00:54:08,348
-          {Lee, NNP} {not, RB} {appearing, VBG}
-          {immodest, NN}.
-
-713
-00:54:08,391 --> 00:54:10,642
-     {Our, PRP$} {most, JJS} {skilled, VBN} {guests, NNS}
-     {will, MD} {fight, NN} {their, PRP$} {ways, NNS}
-
-714
-00:54:10,685 --> 00:54:12,518
-       {to, TO} {the, DT} {outer, NN} {limits, NNS}
-       {of, IN} {the, DT} {park, NN},
-
-715
-00:54:12,562 --> 00:54:16,231
-       {besting, NN} {fearsome, NN} {braves, NNS},
-       {seducing, VBG} {nubile, NN} {maidens, NNS},
-
-716
-00:54:16,274 --> 00:54:19,817
-         {befriending, NN} {tragically, RB}
-         {ill, NN}-{fated, VBN} {sidekicks, NNS},
-
-717
-00:54:19,861 --> 00:54:22,737
-                 {and, CC}, {of, IN} {course, NN},
-
-718
-00:54:22,781 --> 00:54:25,031
-         {like, IN} {all, DT} {our, PRP$}
-         {best, JJS} {narratives, NNS}
-         {over, IN} {the, DT} {years, NNS},
-
-719
-00:54:25,075 --> 00:54:27,825
-            {our, PRP$} {guests, NNS} {will, MD} {have, VB}
-            {the, DT} {privilege, NN}
-
-720
-00:54:27,869 --> 00:54:30,745
-         <{i, NN}> {of, IN} {getting, VBG} {to, TO} {know, VB}</{i, NN}>
-         <{i, NN}> {the, DT} {character, NN} {they, PRP}</{i, NN}>
-         <{i, NN}> {most, JJS} {interested, JJ} {in, IN}--</{i, NN}>
-
-721
-00:54:30,789 --> 00:54:32,747
-                 {themselves, PRP}.
-
-722
-00:54:32,791 --> 00:54:37,001
-         {I, PRP} {present, NN} {our, PRP$} {guests, NNS}
-         {next, JJ} {obsession, NN}:
-
-723
-00:54:37,087 --> 00:54:40,296
-           {Odyssey, NN} {on, IN} {Red, JJ} {River, NN}.
-
-724
-00:54:40,340 --> 00:54:42,674
-          <{i, NN}> ( {applause, NN} )</{i, NN}>
-
-725
-00:54:51,017 --> 00:54:52,267
-                      {No, DT}.
-
-726
-00:54:52,310 --> 00:54:53,017
-                     {Sorry, NN}?
-
-727
-00:54:53,061 --> 00:54:56,854
-           {No, DT}, {I, PRP} {do, VBP} {think, NN} {so, RB}.
-
-728
-00:54:56,898 --> 00:54:58,439
-       {Lee, NNP}:
-       <{i, NN}> {Wait, NN}, {you, PRP} {do, VBP} {think, NN}--</{i, NN}>
-
-729
-00:54:58,483 --> 00:55:00,066
-    {Dr, NN}. Ford:
-    <{i, NN}> {What, WP} {is, VBZ} {the, DT} {point, NN} {of, IN} {it, PRP}?</{i, NN}>
-
-730
-00:55:00,110 --> 00:55:03,069
-             {Get, VB} {a, DT} {couple, NN}
-             {of, IN} {cheap, NN} {thrills, NNS}?
-
-731
-00:55:03,113 --> 00:55:04,946
-              {Some, DT} {surprises, NNS}?
-
-732
-00:55:04,990 --> 00:55:06,823
-{But, CC} {it, PRP} {not, RB} {enough, RB}.
-
-733
-00:55:06,866 --> 00:55:10,326
-{It, PRP} {not, RB} {about, IN}
-{giving, VBG} {the, DT} {guests, NNS}
-{what, WP} {you, PRP} {think, NN} {they, PRP} {want, NN}.
-
-734
-00:55:10,370 --> 00:55:11,327
-  {No, DT}, {that, DT} {simple, NN}.
-
-735
-00:55:11,371 --> 00:55:15,999
-   {The, DT} {titillation, NN},
-   {horror, NN}, {elation, NN}--
-
-736
-00:55:16,042 --> 00:55:17,792
-{they, PRP} {parlor, NN} {tricks, NNS}.
-
-737
-00:55:17,836 --> 00:55:23,339
-   {The, DT} {guests, NNS} {do, VBP} {return, NN}
-   {for, IN} {the, DT} {obvious, JJ} {things, NNS} {we, PRP} {do, VB},
-
-738
-00:55:23,383 --> 00:55:25,425
-{the, DT} {garish, NN} {things, NNS}.
-
-739
-00:55:27,095 --> 00:55:32,265
-{They, PRP} {come, VB} {back, RB}
-{because, IN} {of, IN} {the, DT} {subtleties, NNS},
-
-740
-00:55:32,309 --> 00:55:33,308
-     {the, DT} {details, NNS}.
-
-741
-00:55:35,437 --> 00:55:38,771
-         <{i, NN}> {They, PRP} {come, VB} {back, RB}</{i, NN}>
-     <{i, NN}> {because, IN} {they, PRP} {discover, NN}</{i, NN}>
-
-742
-00:55:38,815 --> 00:55:43,651
-     <{i, NN}> {something, NN} {they, PRP} {imagine, NN}</{i, NN}>
-     <{i, NN}> {no, DT} {on, IN} {had, VBD} {ever, RB} {noticed, VBN}</{i, NN}>
-           <{i, NN}> {before, IN}...</{i, NN}>
-
-743
-00:55:47,824 --> 00:55:49,407
-       <{i, NN}> {something, NN} {they, PRP}</{i, NN}>
-      <{i, NN}> {fallen, VBN} {in, IN} {love, NN} {with, IN}.</{i, NN}>
-
-744
-00:55:52,954 --> 00:55:54,454
-      <{i, NN}> {They, PRP} {not, RB} {looking, VBG}</{i, NN}>
-          <{i, NN}> {for, IN} {a, DT} {story, NN}</{i, NN}>
-
-745
-00:55:54,497 --> 00:55:58,041
-      {that, IN} {tells, NNS} {them, PRP}
-      {who, WP} {they, PRP} {are, VBP}.
-
-746
-00:55:58,084 --> 00:56:00,877
-    {They, PRP} {already, RB} {know, VB}
-    {who, WP} {they, PRP} {are, VBP}.
-
-747
-00:56:07,344 --> 00:56:10,261
-    {They, PRP} {here, RB} {because, IN}
-     {they, PRP} {want, NN} {a, DT} {glimpse, NN}
-
-748
-00:56:10,305 --> 00:56:11,679
-    {of, IN} {who, WP} {they, PRP} {could, MD} {be, VB}.
-
-749
-00:56:11,723 --> 00:56:14,640
-        {Logan, NNP}:
-        <{i, NN}> {Billy, RB}!</{i, NN}>
-
-750
-00:56:14,684 --> 00:56:16,392
-              {Let, VB} {go, VB}.
-
-751
-00:56:21,775 --> 00:56:24,734
-            {Dr, NN}. Ford:
-         <{i, NN}> {The, DT} {only, RB} {thing, NN}</{i, NN}>
-      <{i, NN}> {your, PRP$} {story, NN} {tells, NNS} {me, PRP},</{i, NN}>
-
-752
-00:56:24,778 --> 00:56:29,489
-    {Mr, NN}. Sizemore,
-    {is, VBZ} {who, WP} {you, PRP} {are, VBP}.
-
-753
-00:56:35,330 --> 00:56:38,039
-      {Well, RB}, {is, VBZ} {there, RB} {anything, NN}
-      {you, PRP} {like, IN} {about, IN} {it, PRP}?
-
-754
-00:56:42,212 --> 00:56:44,337
-              {What, WP} {size, NN}
-              {are, VBP} {those, DT} {boots, NNS}?
-
-755
-00:56:51,346 --> 00:56:53,221
-          {Something, VBG} {you, PRP} {want, NN}
-           {to, TO} {say, VB}, {Mr, NN}. Lowe?
-
-756
-00:56:53,264 --> 00:56:57,100
-        - {The, DT} {board, NN}, {sir, NN}.
-        - {Yeah, NN}?
-
-757
-00:56:57,143 --> 00:56:59,560
-               {This, DT} {might, MD} {ruffle, NN}
-               {some, DT} {feathers, NNS}.
-
-758
-00:56:59,604 --> 00:57:01,062
-               {You, PRP} {promised, VBN} {them, PRP}
-               {a, DT} {new, JJ} {storyline, NN}.
-
-759
-00:57:01,106 --> 00:57:03,940
-      {They, PRP} {shall, MD} {have, VB} {one, CD}.
-
-760
-00:57:03,983 --> 00:57:07,193
-    {Something, VBG} {I, PRP} {been, VBN}
-    {working, VBG} {on, IN} {for, IN} {some, DT} {time, NN}.
-
-761
-00:57:10,448 --> 00:57:12,490
-    {Something, VBG} {quite, RB} {original, JJ}.
-
-762
-00:57:25,964 --> 00:57:27,422
-       <{i, NN}> ( {music, NN} {playing, VBG} )</{i, NN}>
-
-										
-  
-     
-         
-
- 
-
-  
- 
-
- 
-										
-
-  
-
-   
-
-
-
-
-
-
-
-
-
-
-
- 

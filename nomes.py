@@ -1,8 +1,8 @@
 #!/usr/bin/python3.6
-
+ 
 import fileinput, re, getopt, sys
 import nltk
-
+ 
 """
 CC   - conjuction (coordinating)
 CD   - numeral (cardinal)
@@ -38,77 +38,81 @@ WP   - WH-pronoun (that, what, which, who, whom, ...)
 WRB  - WH-adverb (how, where, why, ...)
 """
 opcoes , args = getopt.getopt(sys.argv[1:],"dwn")
-
+ 
 titles =[r"[Ss](?:enho)?r(?:a)?",
          r"[Mm]r(?:s)?(?:\.)?",
          r"[Mm]is(?:s|ter)"]
 titles = "|".join(titles)
-
-
-
+ 
+ 
+ 
 palMai = r"(?:\b[A-ZÀ-Ý]\w+|[A-ZÀ-Ý]\.)"
 preposicao = r"d[eao]s?"
 fimDeFrase = r"([^A-ZÀ-Ý][.!?]\s+|\n{2,}(?:-\s*)?)([A-ZÀ-Ý])"
-
-nomeProprio= palMai + "(?: (?:"+preposicao+" )?"+palMai+")*"
-#nomeProprio = f"({palMai}(?: (?:{preposicao} )?{palMai})*)"
-palavra =r"(?:\b[A-Za-z]\w|*|[a-z]\.)" 
-
+ 
+#nomeProprio= "("+palMai + "(?: (?:"+preposicao+" )?"+palMai+")*)"
+nomeProprio = f"({palMai}(?: (?:{preposicao} )?{palMai})*)"
+palavra =r"(?:[A-Za-z]\w*|[a-z]\.)"
+ 
 def namePP(dic):
     for key,val in sorted(dic.items(),key=lambda x: x[1] , reverse=True):
         print(key + " -> " + str(val))
-        
-
+       
+ 
 def properNameBag(texto):
     nomes = {}
     texto = re.sub(fimDeFrase,r"\1_\2",texto)
     for nome in re.findall(nomeProprio,texto):
         tokens = nltk.tokenize.word_tokenize(nome)
         tag = nltk.pos_tag(tokens)[0]
-        if tag[1] == 'NNP': 
+        if tag[1] == 'NNP':
             nomes[nome] = nomes.get(nome,0)+1
     return nomes
-
+ 
 def wordBag(texto):
-    # NNP, NN, VBZ, VBN,...
+    # Precisa de input.
+    # NNP, NN, VBZ, VBN,... (lista em cima)
     filt =input()
     nomes = {}
     texto = re.sub(fimDeFrase,r"\1_\2",texto)
     for nome in re.findall(palavra,texto):
         tokens = nltk.tokenize.word_tokenize(nome)
         tag = nltk.pos_tag(tokens)[0]
-
-        if tag[1] == filt: 
+ 
+        if tag[1] == filt:
             nomes[nome] = nomes.get(nome,0)+1
     return nomes
-
-def tagWord(text):
-    word = text.group()
-    token = nltk.tokenize.word_tokenize(word)
-    tag = nltk.tag.pos_tag(token)[0]
-    return "{"+str(tag[0])+", "+str(tag[1])+"}"
-
+ 
 def properNameAnot(texto):
     texto = re.sub(fimDeFrase,r"\1_\2",texto)
     texto = re.sub(nomeProprio,r"{\1}",texto)
     texto = re.sub("_","",texto)
     return texto
-
+ 
+ 
+def tagWord(text):
+    word = text.group()
+    token = nltk.tokenize.word_tokenize(word)
+    tag = nltk.tag.pos_tag(token)[0]
+    return "{"+str(tag[0])+", "+str(tag[1])+"}"
+ 
+ 
 def wordAnot(texto):
     texto = re.sub(fimDeFrase,r"\1_\2",texto)
     texto = re.sub(palavra,tagWord,texto)
     texto = re.sub("_","",texto)
     return texto
-
+ 
 # ------------ MAIN -----------------
-
+ 
 texto = "".join(fileinput.input(args))
-
+ 
 if len(opcoes)>0 and opcoes[0][0] == '-d':
-    namePP(properNameBag(texto))
+    #namePP(properNameBag(texto))
+    properNameBag(texto)
 elif len(opcoes)>0 and opcoes[0][0] == '-w':
     namePP(wordBag(texto))
 elif len(opcoes)>0 and opcoes[0][0] == '-n':
     print(properNameAnot(texto))
-else:
-    print(wordAnot(texto))
+#else:
+#    print(wordAnot(texto))

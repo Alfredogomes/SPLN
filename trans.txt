@@ -1,0 +1,1965 @@
+DIOC: {1: ['<i>Acorda', 'Dolores'], 2: ['<i>Lembras-te'], 3: ['<i>Estamos'], 4: ['<i>Posso'], 5: ['<i>Estamos'], 6: ['Para'], 7: ['Estás'], 8: ['Não'], 11: ['Nesse'], 12: ['Vai-te'], 14: ['Que'], 15: ['Diverte-te'], 16: ['Fica'], 17: ['Poupa-me'], 19: ['Como'], 21: ['Deve', 'William', 'Bem-vindo', 'Westworld'], 22: ['Obrigado'], 23: ['Dado'], 24: ['Tem'], 25: ['Que'], 26: ['Problemas', 'Não'], 27: ['Algum'], 29: ['Só'], 30: ['Estou'], 32: ['Isto'], 33: ['Garantir'], 34: ['Pensei'], 35: ['Só'], 37: ['Começa'], 38: ['<i>Quanto'], 39: ['Até'], 40: ['Então', 'Há'], 41: ['Nenhuma'], 42: ['Nenhum'], 43: ['Descobrir'], 44: ['Resta-lhe'], 45: ['Começando'], 46: ['Tudo'], 47: ['Se'], 48: ['Você'], 49: ['Se'], 50: ['São'], 51: ['<i>Suficientemente'], 52: ['<i>Mas'], 53: ['Alguma'], 54: ['Há'], 55: ['Ou'], 56: ['Claro', 'Posso'], 57: ['Ou'], 58: ['Que'], 59: ['Não'], 60: ['Eu'], 61: ['Percebe', 'William'], 62: ['Todos'], 63: ['Eu'], 64: ['Podemos'], 65: ['Leve'], 66: ['Obrigado'], 67: ['Não'], 68: ['Claro'], 69: ['Não'], 70: ['Como'], 71: ['Já'], 72: ['Assumimos', 'Abernathy\n'], 74: ['Revi'], 76: ['Este'], 77: ['Como'], 78: ['Achas'], 79: ['Acho'], 81: ['Sabemos'], 82: ['Sabemos'], 84: ['Deixa-me', 'Abernathy'], 85: ['Certifico-me'], 86: ['Conheces', 'Deixa-o'], 87: ['Ao'], 88: ['Dolores'], 89: ['Para'], 90: ['Porque'], 91: ['Abernathy'], 92: ['Por'], 93: ['Dolores'], 95: ['<i>Lembra-te'], 96: ['Não'], 97: ['Não'], 99: ['Estes'], 101: ['Olá'], 102: ['Um'], 103: ['Qual'], 104: ['Já'], 105: ['Como'], 106: ['Estás'], 107: ['Armas'], 108: ['Merdas'], 109: ['<i>Não'], 110: ['Este'], 111: ['No'], 114: ['Qual'], 115: ['Quem'], 117: ['Cá'], 118: ['<i>Além'], 119: ['Donald', 'Pardue</i>\n'], 121: ['Por'], 123: ['Inferno'], 124: ['Deus'], 125: ['Bom', 'Lawrence'], 126: ['<i>Estás'], 127: ['Esperava'], 128: ['Podes'], 130: ['Receio'], 133: ['Bem', 'Mesmo'], 134: ['<i>Merda', 'Merda'], 135: ['<i>Merda'], 136: ['Cabrão'], 137: ['Lawrence'], 138: ['Costumavas'], 139: ['Eu'], 140: ['Kissy\n'], 141: ['Manda'], 143: ['Sabes'], 146: ['Vais'], 147: ['Não'], 148: ['<i>Consegues'], 149: ['<i>Aquela'], 150: ['"Não'], 151: ['<i>Não'], 152: ['<i>Não'], 153: ['<i>Não'], 154: ['<i>Costumava'], 155: ['Sempre'], 158: ['Sabes'], 159: ['Nos'], 160: ['Era', 'Podia'], 164: ['Mas'], 166: ['Então'], 167: ['Atravessei'], 170: ['Queres'], 171: ['Disse'], 172: ['Desculpe'], 173: ['<i>Está', 'Maeve'], 174: ['Disse'], 178: ['Eu', 'Qual'], 179: ['Os'], 180: ['Sizemore'], 182: ['Se'], 183: ['<i>Vamos'], 184: ['Dez'], 185: ['<i>Ela', 'Não'], 186: ['<i>Se', 'Comportamento'], 187: ['<i>Eles'], 188: ['Retirámos'], 189: ['Ensinou-me'], 191: ['Não', 'Deus\n', 'Diabo'], 192: ['Há', 'Bernard'], 193: ['Eu'], 194: ['Só'], 195: ['Abernathy'], 197: ['Achas'], 198: ['Imaginas'], 200: ['Occam'], 201: ['Bernard'], 203: ['Praticamos'], 204: ['Proferimos'], 205: ['<i>Depois'], 207: ['William', 'Occam\n', 'XIII'], 208: ['Agora', 'Bernard'], 209: ['Queimar-nos-ia'], 210: ['Vamos'], 211: ['Desculpe'], 212: ['Estás'], 213: ['Vai-te', 'Grizzly', 'Adams'], 214: ['<i>Manifestação', 'União'], 215: ['<i>Respondam'], 216: ['Este'], 218: ['Lutamos'], 219: ['Isto'], 220: ['<i>Fornecemos-vos'], 222: ['Sweetwater'], 223: ['Espera'], 224: ['Que', 'Não'], 225: ['Nunca'], 226: ['Vês'], 227: ['Um'], 228: ['Mas'], 229: ['Vamos'], 230: ['Precisa'], 231: ['Obrigado'], 232: ['Não', 'Ele'], 233: ['Sorria'], 234: ['Ele'], 236: ['Todos'], 237: ['Eles'], 238: ['Primeiro'], 239: ['Agora'], 240: ['<i>Volta'], 241: ['Olá'], 242: ['<i>Lembras-te', 'Dolores'], 243: ['Sim'], 245: ['Disse-me'], 246: ['Avança'], 247: ['Em'], 251: ['Não'], 252: ['Recomeça'], 253: ['<i>Será'], 255: ['Fiz'], 256: ['Não'], 258: ['Acho'], 260: ['Fez'], 261: ['Desliga'], 262: ['Apaga', 'Confirma'], 263: ['Sim'], 264: ['<i>Tens', 'Dolores'], 266: ['<i>Então'], 269: ['Tinha-me'], 270: ['Sabes'], 271: ['Não', 'Disse'], 272: ['Este'], 275: ['Obrigado', 'Talvez'], 276: ['Um'], 277: ['Do'], 278: ['Não'], 279: ['Já'], 281: ['Desculpa', 'Maeve'], 282: ['Não'], 283: ['Estás'], 284: ['Às'], 285: ['Às'], 286: ['Faz'], 287: ['Se'], 291: ['Confortável'], 294: ['De'], 295: ['Estás'], 296: ['Pagas'], 298: ['Acho'], 299: ['Onde', 'Mariposa'], 300: ['Madame'], 302: ['Dá', 'Clementine'], 303: ['Ela'], 305: ['Deixa-o'], 307: ['Trazemo-la'], 308: ['Uma'], 309: ['Garantia', 'Qualidade\n'], 312: ['Sempre', 'Ouço-o'], 313: ['Tens'], 314: ['Só'], 315: ['Esta'], 316: ['Correu'], 317: ['Diz-me'], 318: ['Estaremos'], 319: ['Abernathy'], 320: ['Ouvi'], 322: ['Mas'], 323: ['Todos'], 324: ['Ainda'], 325: ['Não'], 327: ['Estás'], 329: ['Bem'], 330: ['Podemos', 'Podemos'], 331: ['Estás'], 332: ['Sempre'], 333: ['És'], 334: ['Talentoso'], 335: ['Pensei'], 336: ['Quem'], 337: ['Boa'], 338: ['Merda'], 339: ['Não'], 340: ['Meu'], 342: ['Deixa-nos'], 343: ['Como'], 345: ['Não'], 346: ['Ao'], 348: ['Tenho'], 349: ['Disse'], 350: ['Sabes', 'Já'], 351: ['Vamos'], 352: ['Parece'], 353: ['Eu'], 354: ['Divertir', 'Amigo'], 355: ['És'], 356: ['Diz-se'], 357: ['Não'], 358: ['Se'], 359: ['Alguém'], 360: ['Não', 'Tu'], 361: ['Mas'], 362: ['Alguém'], 363: ['Percebo'], 364: ['Vale'], 365: ['Régio'], 366: ['Aquilino'], 367: ['Foi'], 368: ['Que'], 369: ['Foste'], 371: ['<i>Começa'], 372: ['Não'], 373: ['Eu'], 374: ['Começa'], 375: ['Diplomático'], 376: ['Recebi'], 377: ['Preciso'], 378: ['Não'], 379: ['Tens'], 380: ['Conselho'], 381: ['Ford'], 382: ['Há'], 386: ['<i>Está'], 387: ['Não'], 388: ['Só'], 390: ['Tal'], 391: ['Estamos'], 397: ['Costumava'], 400: ['Vou'], 401: ['Podes'], 402: ['<i>Vê'], 403: ['<i>Já'], 404: ['Vai-te'], 405: ['Tens'], 406: ['Sei', 'Lawrence'], 407: ['Afinal'], 409: ['Kissy\n'], 410: ['Onde'], 411: ['Na'], 412: ['Não'], 413: ['Sabes'], 415: ['<i>Sei'], 416: ['Sei'], 417: ['Mas'], 418: ['Nunca'], 419: ['Papá'], 420: ['Todos'], 423: ['Sabes', 'Lawrence'], 426: ['Mas'], 428: ['Até', 'Lawrence'], 429: ['Que'], 431: ['Onde'], 432: ['Já'], 433: ['Não'], 434: ['Toma'], 436: ['Demoraste'], 437: ['<i>Fui'], 438: ['Só'], 439: ['Sim'], 442: ['Tens', 'Lawrence'], 443: ['Bem'], 444: ['Este'], 445: ['Quer'], 446: ['Aquele'], 447: ['Sinto-me'], 448: ['Os'], 449: ['Não', 'Lawrence'], 450: ['Já'], 451: ['Num'], 452: ['Isto'], 454: ['Santa', 'Maria'], 455: ['Muito', 'Por'], 456: ['Como'], 457: ['Como'], 458: ['Por'], 460: ['São'], 461: ['Mas'], 463: ['Sabes'], 464: ['Por'], 468: ['Que', 'Lawrence'], 469: ['<i>Há'], 470: ['Vou'], 471: ['Segue'], 472: ['Já'], 473: ['Porque'], 474: ['Não', 'Lawrence'], 475: ['Desta'], 478: ['Tommy'], 480: ['Terra'], 481: ['Não'], 482: ['Não'], 483: ['Se'], 484: ['<i>Para'], 486: ['Ouve', 'Consegues'], 487: ['Sim'], 488: ['Sim'], 489: ['Calculei'], 490: ['Vês'], 491: ['Como'], 493: ['Tudo'], 496: ['Mas', 'Tommy'], 497: ['Não'], 498: ['Não'], 499: ['Corre'], 500: ['Não'], 501: ['Mas'], 502: ['Ouve', 'Esquece'], 503: ['Fica', 'Podemos'], 504: ['Nunca'], 505: ['Estou', 'Também'], 506: ['Sem'], 507: ['Embora'], 509: ['Estão'], 511: ['Estão'], 512: ['Tornarem-se'], 513: ['Falar'], 516: ['Garantia', 'Qualidade'], 517: ['Trabalhas', 'Não'], 518: ['Corre'], 519: ['Está'], 520: ['Alguma'], 521: ['Escassa', 'D'], 523: ['Narrativa'], 524: ['Não'], 525: ['Só'], 526: ['Arquiva'], 527: ['Abre'], 528: ['Perceção', 'Acuidade'], 529: ['Sobe'], 532: ['<i>Eles'], 533: ['Na'], 534: ['Fazemos-los'], 535: ['Qual'], 536: ['Sonhos'], 537: ['Podes'], 540: ['Mas'], 541: ['Especificamente'], 542: ['<i>Porquê'], 543: ['Para'], 545: ['Se'], 547: ['Ela'], 548: ['Mete'], 549: ['Muito'], 551: ['<i>Vais'], 552: ['Então'], 555: ['Sabes'], 556: ['Disse'], 557: ['Isto'], 559: ['Podes'], 560: ['Bem'], 561: ['Sabes'], 562: ['Um', 'Baton', 'Rouge\n'], 565: ['Bem'], 570: ['Ao'], 573: ['<i>Sai'], 574: ['Bem'], 575: ['Às'], 576: ['<i>Merda'], 577: ['<i>Disparo'], 578: ['Faladas'], 579: ['Isto'], 580: ['Três'], 583: ['<i>Descobri'], 584: ['<i>Bactérias', 'MRSA'], 585: ['Animais'], 586: ['Não'], 587: ['Não', 'Sou'], 588: ['Tretas', 'Já'], 589: ['Comes'], 590: ['<i>Percebes'], 591: ['Se'], 592: ['Foda-se', 'Foda-se', 'Mas'], 593: ['Merda', 'Mas'], 594: ['Não', 'Foda-se'], 595: ['Idiota'], 596: ['Não'], 597: ['Não', 'Não'], 598: ['Não', 'Não'], 599: ['Para', 'Larga'], 600: ['Partes-lhe'], 601: ['Vamos'], 602: ['Como', 'Maeve'], 603: ['Olá', 'Maeve', 'Maeve'], 604: ['Tens'], 605: ['Está', 'Sentamo-nos\n'], 606: ['Tira'], 607: ['Não'], 608: ['Juro'], 609: ['Isto'], 610: ['Acalma-te'], 612: ['Aqui'], 613: ['Este', 'Hieronymus', 'Bosch\n'], 615: ['Tenho'], 616: ['"Whoroborus"'], 617: ['Não'], 619: ['<i>Horror', 'Perdi'], 620: ['<i>Romance'], 621: ['Lee'], 622: ['Os'], 630: ['Eles'], 631: ['Apresento-vos'], 632: ['Odisseia', 'Rio', 'Vermelho'], 633: ['Não'], 634: ['Desculpe'], 635: ['Não'], 636: ['<i>Espere'], 637: ['<i>Qual'], 638: ['Ter'], 639: ['Algumas'], 640: ['Mas'], 641: ['Isto'], 642: ['Não'], 644: ['São'], 645: ['Os'], 647: ['Regressam'], 649: ['<i>Regressam'], 652: ['<i>Não'], 654: ['Eles'], 655: ['Estão'], 657: ['<i>Billy'], 658: ['Vamos'], 660: ['Sr', 'Sizemore'], 661: ['Bem'], 662: ['De'], 663: ['Alguma', 'Sr', 'Lowe'], 664: ['Conselho', 'Sim'], 665: ['Isto'], 666: ['Prometeu-lhes'], 668: ['Uma'], 669: ['Uma'], 670: ['Tradução', 'Marco@Bitaites/Bitates'], 671: ["Man's", 'Wake', 'Dolores'], 672: ['Do'], 675: ['Woman', "We're"], 676: ['May'], 677: ['Woman', 'P', 'Now'], 678: ['Where'], 679: ["You're"], 680: ['No'], 682: ['Unless'], 684: ['Fuck'], 685: ['Hey'], 686: ["What'd"], 687: ['Have'], 688: ['Stay'], 689: ['Give'], 690: ['What'], 691: ["It's"], 693: ['You', 'William', 'Welcome', 'Westworld'], 694: ['Thanks'], 695: ['Given'], 696: ['Do'], 697: ['No'], 698: ['Heart', 'No'], 699: ['Any'], 701: ['Just'], 703: ['Do'], 704: ['What'], 705: ['To'], 707: ['Only'], 708: ['The'], 709: ['You', "It's"], 710: ['The'], 711: ['How'], 712: ['So', 'Is'], 713: ['No'], 715: ['Figuring'], 716: ['All'], 718: ['Everything'], 719: ['You'], 720: ['Are'], 721: ['Well'], 722: ['Are'], 723: ['Real'], 724: ['But'], 725: ['Anything'], 726: ['Is'], 727: ['Or'], 728: ['Of'], 729: ['Or'], 730: ['What'], 731: ['You'], 733: ['Do', 'William'], 734: ['All'], 735: ['Myself'], 736: ['We'], 737: ['Take'], 738: ['Thank'], 740: ['Of'], 741: ['Take'], 742: ['How'], 744: ['Look', "Abernathy's"], 747: ['The'], 748: ['This'], 749: ["It's"], 750: ['You'], 752: ['And'], 753: ['Do'], 754: ['We'], 755: ['And'], 756: ['Let', 'Abernathy'], 758: ['You', 'Let'], 759: ['Then'], 760: ['Dolores'], 761: ['What'], 762: ['Because'], 763: ['Abernathy'], 764: ['So'], 765: ['Dolores'], 766: ['And'], 770: ["Man's", 'Remember'], 773: ['Ahem', 'Can'], 775: ['These'], 779: ['Hello'], 780: ["There's"], 781: ['Which'], 785: ['So'], 789: ['Guns'], 790: ['Mindless'], 791: ['You'], 792: ['This'], 793: ['By'], 796: ['What'], 797: ['Who'], 798: ['And'], 800: ['Bottoms'], 802: ['Sheriff', 'Further'], 803: ['Donald', 'Pardue</i>\n'], 805: ['For'], 808: ['And', 'God'], 811: ['Morning', 'Lawrence'], 812: ['You'], 814: ['You'], 816: ['Well'], 817: ['How'], 818: ['Well'], 822: ['Oh', 'Oh'], 823: ['Oh'], 824: ['Ah'], 826: ['Motherfucker'], 827: ["That's", 'Lawrence'], 828: ['You'], 829: ['Do'], 830: ['Your', 'Kissy\n'], 831: ['Sends'], 832: ['What--'], 833: ['You'], 834: ["It's"], 836: ["You're"], 837: ['No'], 840: ["Maeve's", 'You'], 841: ['That'], 842: ['The'], 843: ["Don't"], 844: ["Don't"], 845: ["Don't"], 847: ['Whenever'], 850: ['You'], 851: ['In'], 854: ['And'], 856: ['But'], 858: ['So'], 859: ['Crossed'], 860: ['And'], 862: ['Do'], 863: ['It'], 866: ['Man', 'All', 'Maeve'], 867: ['Maeve', 'It', '"This'], 868: ['And'], 870: ['Pupillary', 'Smile'], 871: ["What's"], 872: ['Woman', 'The'], 873: ['Sizemore'], 875: ['If'], 876: ["Let's"], 877: ['Double'], 878: ["She's", 'No'], 879: ['If'], 880: ['Let'], 881: ['We'], 882: ['You'], 884: ['You', 'God\n'], 885: ["There's", 'Bernard'], 887: ['The'], 888: ['Abernathy'], 890: ['You'], 891: ['Imagine'], 892: ["It's"], 893: ['Ah', 'Mr', "Occam's"], 894: ['The', 'Bernard'], 896: ['We'], 897: ['We'], 898: ['Then'], 901: ['William', 'Occam\n'], 902: ['He', 'Bernard'], 903: ['He'], 905: ["Let's"], 908: ['Oh'], 909: ['You', 'What'], 910: ['Fuck', 'Grizzly', 'Adams'], 911: ['Man', 'Rally', 'Union'], 912: ['Respond'], 913: ['This'], 915: ['We'], 916: ['This', 'Man', "We'll"], 917: ['Well'], 918: ['What', 'This', 'Sweetwater'], 919: ['Wait'], 920: ['How', 'No'], 922: ['See'], 924: ['But'], 925: ['Driver', 'Hah'], 926: ['Whoa'], 927: ['Need'], 928: ['Thank'], 929: ["Don't", "He'll"], 930: ['Smile'], 931: ["It's"], 933: ['They'], 934: ['Hey'], 935: ['First'], 937: ['Hold'], 938: ['Bernard', 'Bring'], 939: ['Hello'], 940: ['Do', 'Dolores'], 941: ['Yes'], 942: ['And'], 943: ['You'], 944: ['Step'], 945: ['How'], 947: ['And'], 949: ['No'], 950: ['Resuming'], 953: ['Have'], 954: ['No'], 958: ['Have'], 959: ['Turn'], 960: ['Erase', 'Confirm'], 961: ['Yes'], 962: ['You', 'Dolores'], 966: ['Man', 'Come'], 967: ['Maeve', 'And'], 969: ['It'], 970: ['Do'], 971: ['No', 'It'], 974: ['And'], 977: ['Thanks', 'Maybe'], 978: ['Oh'], 979: ['Glass'], 980: ['The'], 981: ['Not'], 985: ['Sorry', 'Maeve'], 987: ['You'], 988: ['Sometimes'], 989: ['Sometimes\n'], 990: ['Do'], 991: ['You'], 995: ['Nice'], 999: ['Ah'], 1000: ['Back'], 1001: ['You'], 1002: ['You'], 1005: ['Where', 'Mariposa'], 1006: ["Madam's"], 1008: ['Re-task', 'Clementine\n'], 1009: ["She's"], 1011: ['Controller', 'And'], 1012: ['Maybe'], 1014: ['We'], 1015: ['Shame'], 1016: ['QA'], 1017: ['And'], 1019: ['You'], 1020: ["You've"], 1021: ['The'], 1022: ['This'], 1023: ['Oh'], 1024: ['Just'], 1025: ["We'll"], 1026: ['And', 'Abernathy'], 1028: ["That's"], 1029: ['But'], 1030: ['All'], 1031: ['Good'], 1032: ["Wouldn't"], 1035: ["You're"], 1037: ['Well'], 1038: ['Can'], 1039: ['See'], 1040: ["You're"], 1041: ['You'], 1042: ['You'], 1044: ['Who'], 1045: ['Good'], 1046: ['Oh'], 1047: ['Well'], 1048: ['My'], 1050: ['Leave'], 1051: ['As'], 1053: ['Not'], 1054: ['Across'], 1059: ['You'], 1060: ["Let's"], 1062: ['Oh'], 1064: ['Clementine', 'Sounds'], 1065: ['Well'], 1066: ['Fun', 'Friend'], 1067: ["You're"], 1068: ['They'], 1069: ['You'], 1070: ['If'], 1071: ['Someone'], 1072: ['No'], 1073: ['But'], 1074: ['Somebody'], 1076: ['Real'], 1079: ['Lee', 'Regal'], 1081: ["That's"], 1082: ['And'], 1083: ['Did'], 1085: ['Start'], 1086: ["Couldn't"], 1089: ['Diplomatic'], 1092: ["It's"], 1093: ['You'], 1094: ['The'], 1095: ['Has', 'Ford'], 1096: ['Oh'], 1097: ['And'], 1101: ['Boy', 'Are'], 1102: ['No'], 1103: ['Just'], 1105: ['Same'], 1106: ["We're"], 1107: ["It's"], 1108: ['Daddy'], 1109: ['Ah'], 1111: ['Mine'], 1116: ["You're"], 1119: ['Man', 'Black', "<i>Let's"], 1120: ['<i>Not'], 1121: ['Go'], 1122: ['You'], 1123: ['Lawrence'], 1124: ['After'], 1125: ['Which'], 1126: ['Kissy\n'], 1127: ['Where'], 1128: ['Your'], 1129: ['Spanish'], 1130: ['No'], 1131: ['You'], 1132: ['Ghost', 'Nation'], 1135: ['But'], 1137: ['Papa', 'Hey'], 1138: ["That's"], 1141: ['You', 'Lawrence'], 1142: ['Real'], 1143: ["It's"], 1144: ['But'], 1146: ['Even', 'Lawrence'], 1147: ['What'], 1148: ['The'], 1149: ['How'], 1152: ['Here'], 1153: ['And'], 1154: ['Hell'], 1156: ['Only'], 1157: ['Yeah'], 1159: ['You', 'Lawrence'], 1160: ['Then'], 1162: ['This'], 1163: ['Want'], 1164: ['That'], 1166: ['My'], 1167: ['You', 'Lawrence'], 1169: ['In'], 1170: ['And'], 1175: ['Santa', 'Maria'], 1177: ['All', 'Well'], 1182: ['Like'], 1183: ["What's"], 1184: ['Please'], 1185: ['Time'], 1187: ["It's"], 1188: ['But'], 1189: ["That's"], 1191: ['You'], 1192: ['Please'], 1195: ['It'], 1197: ['The'], 1198: ["What'd", 'Lawrence'], 1199: ['Always'], 1201: ['Follow'], 1202: ['You', 'Whatever'], 1203: ['Why'], 1204: ['No', 'Lawrence'], 1205: ['This'], 1206: ['And'], 1207: ['Daddy'], 1208: ['And', 'Tommy'], 1209: ['And'], 1210: ['Nowhere'], 1211: ['That'], 1212: ["Can't"], 1213: ['Perhaps'], 1214: ['Boy', 'At'], 1215: ['The'], 1216: ['Listen', "Can't"], 1218: ['Yes'], 1219: ['Yes'], 1220: ['Yeah'], 1222: ['You'], 1224: ['How'], 1225: ['<i>Is'], 1226: ['Everything\n'], 1228: ['Best'], 1229: ['But', "Tommy's"], 1230: ["You're"], 1232: ['No'], 1233: ['Run'], 1236: ['You'], 1237: ['You'], 1238: ['Listen', 'Forget'], 1239: ['Stay', 'We'], 1240: ['We'], 1241: ['So', 'I'], 1242: ["You're"], 1243: ['Although'], 1245: ["They're"], 1247: ["They're"], 1248: ['Make'], 1249: ['When'], 1250: ['Is'], 1251: ['Practicing'], 1252: ['Man', 'QA'], 1253: ['Elsie', 'Do', 'QA', 'No'], 1254: ['Run'], 1256: ['All'], 1257: ['Some'], 1258: ['Little', 'D'], 1259: ['And'], 1261: ['You'], 1262: ['Just'], 1263: ['Archive'], 1264: ['Open'], 1265: ['Perception', 'Emotional'], 1266: ['Bump'], 1268: ['Updating', 'Okay'], 1269: ['Do', 'What'], 1270: ['In'], 1271: ['Do'], 1272: ['Fuck'], 1273: ['Dreams'], 1274: ['Can'], 1276: ['We'], 1277: ['Specifically'], 1278: ['<i>Why'], 1279: ['Just'], 1280: ['If'], 1283: ["She's"], 1284: ['Put'], 1285: ['All'], 1287: ["<i>You're"], 1288: ['So'], 1289: ['And'], 1291: ['Do'], 1292: ['It'], 1294: ['And'], 1298: ['Well'], 1299: ['You'], 1300: ['Baton', 'Rouge\n'], 1302: ['And'], 1303: ['Well'], 1304: ['The'], 1306: ['And'], 1308: ['At'], 1310: ['For'], 1311: ['Man', 'Get'], 1312: ['Man', 'Hey'], 1313: ['Well'], 1316: ['Man'], 1318: ['Spoken'], 1321: ['Now'], 1325: ['Three'], 1329: ['Man', 'Found'], 1330: ["It's", 'MRSA'], 1331: ['Filthy'], 1332: ['No'], 1333: ["Don't"], 1334: ['Bullshit'], 1335: ['You'], 1336: ['You'], 1337: ['Man', 'Fuck', 'Bubbles'], 1338: ['If'], 1339: ['Fuck', 'Fuck', 'What'], 1340: ['Shit', 'What'], 1341: ['Man', 'Uh'], 1342: ['<i>Uh'], 1344: ['No', 'Oh'], 1345: ['Man', 'Oh'], 1346: ['Asshole'], 1347: ['Oh', "Don't"], 1348: ['No', 'No'], 1349: ["Don't", "Don't"], 1350: ['Stop', 'Put'], 1351: ['You'], 1352: ['Uh'], 1353: ["What's", 'Maeve'], 1354: ['Hi', 'Maeve', 'Maeve'], 1355: ['Look'], 1356: ['Okay', "Let's"], 1357: ['Keep'], 1359: ['No'], 1367: ['Oh'], 1368: ['Calm'], 1372: ['Here'], 1373: ['Lee', 'This', 'Hieronymus', 'Bosch\n'], 1377: ['Now'], 1379: ['Miss'], 1381: ['Lee'], 1382: ['Our'], 1392: ['Odyssey', 'Red', 'River'], 1394: ['No'], 1395: ['Sorry'], 1396: ['No'], 1397: ['Lee', 'Wait'], 1398: ['Dr', 'Ford', 'What'], 1399: ['Get'], 1400: ['Some'], 1401: ['But'], 1402: ["It's"], 1403: ['No'], 1404: ['The'], 1406: ['The'], 1408: ['They'], 1410: ['They'], 1413: ["They're"], 1415: ['They'], 1416: ["They're"], 1418: ['Logan', 'Billy'], 1419: ["Let's"], 1420: ['Dr', 'Ford', 'The'], 1421: ['Mr', 'Sizemore'], 1422: ['Well'], 1423: ['What'], 1424: ['Something', 'Mr', 'Lowe'], 1425: ['The', 'Yeah'], 1426: ['This'], 1427: ['You'], 1428: ['They'], 1429: ['Something'], 1430: ['Something']}
+DIOC: {1: ['<i>Acorda', 'Dolores'], 2: ['<i>Lembras-te'], 3: ['<i>Estamos'], 4: ['<i>Posso'], 5: ['<i>Estamos'], 6: ['Para'], 7: ['Estás'], 8: ['Não'], 11: ['Nesse'], 12: ['Vai-te'], 14: ['Que'], 15: ['Diverte-te'], 16: ['Fica'], 17: ['Poupa-me'], 19: ['Como'], 21: ['Deve', 'William', 'Bem-vindo', 'Westworld'], 22: ['Obrigado'], 23: ['Dado'], 24: ['Tem'], 25: ['Que'], 26: ['Problemas', 'Não'], 27: ['Algum'], 29: ['Só'], 30: ['Estou'], 32: ['Isto'], 33: ['Garantir'], 34: ['Pensei'], 35: ['Só'], 37: ['Começa'], 38: ['<i>Quanto'], 39: ['Até'], 40: ['Então', 'Há'], 41: ['Nenhuma'], 42: ['Nenhum'], 43: ['Descobrir'], 44: ['Resta-lhe'], 45: ['Começando'], 46: ['Tudo'], 47: ['Se'], 48: ['Você'], 49: ['Se'], 50: ['São'], 51: ['<i>Suficientemente'], 52: ['<i>Mas'], 53: ['Alguma'], 54: ['Há'], 55: ['Ou'], 56: ['Claro', 'Posso'], 57: ['Ou'], 58: ['Que'], 59: ['Não'], 60: ['Eu'], 61: ['Percebe', 'William'], 62: ['Todos'], 63: ['Eu'], 64: ['Podemos'], 65: ['Leve'], 66: ['Obrigado'], 67: ['Não'], 68: ['Claro'], 69: ['Não'], 70: ['Como'], 71: ['Já'], 72: ['Assumimos', 'Abernathy\n'], 74: ['Revi'], 76: ['Este'], 77: ['Como'], 78: ['Achas'], 79: ['Acho'], 81: ['Sabemos'], 82: ['Sabemos'], 84: ['Deixa-me', 'Abernathy'], 85: ['Certifico-me'], 86: ['Conheces', 'Deixa-o'], 87: ['Ao'], 88: ['Dolores'], 89: ['Para'], 90: ['Porque'], 91: ['Abernathy'], 92: ['Por'], 93: ['Dolores'], 95: ['<i>Lembra-te'], 96: ['Não'], 97: ['Não'], 99: ['Estes'], 101: ['Olá'], 102: ['Um'], 103: ['Qual'], 104: ['Já'], 105: ['Como'], 106: ['Estás'], 107: ['Armas'], 108: ['Merdas'], 109: ['<i>Não'], 110: ['Este'], 111: ['No'], 114: ['Qual'], 115: ['Quem'], 117: ['Cá'], 118: ['<i>Além'], 119: ['Donald', 'Pardue</i>\n'], 121: ['Por'], 123: ['Inferno'], 124: ['Deus'], 125: ['Bom', 'Lawrence'], 126: ['<i>Estás'], 127: ['Esperava'], 128: ['Podes'], 130: ['Receio'], 133: ['Bem', 'Mesmo'], 134: ['<i>Merda', 'Merda'], 135: ['<i>Merda'], 136: ['Cabrão'], 137: ['Lawrence'], 138: ['Costumavas'], 139: ['Eu'], 140: ['Kissy\n'], 141: ['Manda'], 143: ['Sabes'], 146: ['Vais'], 147: ['Não'], 148: ['<i>Consegues'], 149: ['<i>Aquela'], 150: ['"Não'], 151: ['<i>Não'], 152: ['<i>Não'], 153: ['<i>Não'], 154: ['<i>Costumava'], 155: ['Sempre'], 158: ['Sabes'], 159: ['Nos'], 160: ['Era', 'Podia'], 164: ['Mas'], 166: ['Então'], 167: ['Atravessei'], 170: ['Queres'], 171: ['Disse'], 172: ['Desculpe'], 173: ['<i>Está', 'Maeve'], 174: ['Disse'], 178: ['Eu', 'Qual'], 179: ['Os'], 180: ['Sizemore'], 182: ['Se'], 183: ['<i>Vamos'], 184: ['Dez'], 185: ['<i>Ela', 'Não'], 186: ['<i>Se', 'Comportamento'], 187: ['<i>Eles'], 188: ['Retirámos'], 189: ['Ensinou-me'], 191: ['Não', 'Deus\n', 'Diabo'], 192: ['Há', 'Bernard'], 193: ['Eu'], 194: ['Só'], 195: ['Abernathy'], 197: ['Achas'], 198: ['Imaginas'], 200: ['Occam'], 201: ['Bernard'], 203: ['Praticamos'], 204: ['Proferimos'], 205: ['<i>Depois'], 207: ['William', 'Occam\n', 'XIII'], 208: ['Agora', 'Bernard'], 209: ['Queimar-nos-ia'], 210: ['Vamos'], 211: ['Desculpe'], 212: ['Estás'], 213: ['Vai-te', 'Grizzly', 'Adams'], 214: ['<i>Manifestação', 'União'], 215: ['<i>Respondam'], 216: ['Este'], 218: ['Lutamos'], 219: ['Isto'], 220: ['<i>Fornecemos-vos'], 222: ['Sweetwater'], 223: ['Espera'], 224: ['Que', 'Não'], 225: ['Nunca'], 226: ['Vês'], 227: ['Um'], 228: ['Mas'], 229: ['Vamos'], 230: ['Precisa'], 231: ['Obrigado'], 232: ['Não', 'Ele'], 233: ['Sorria'], 234: ['Ele'], 236: ['Todos'], 237: ['Eles'], 238: ['Primeiro'], 239: ['Agora'], 240: ['<i>Volta'], 241: ['Olá'], 242: ['<i>Lembras-te', 'Dolores'], 243: ['Sim'], 245: ['Disse-me'], 246: ['Avança'], 247: ['Em'], 251: ['Não'], 252: ['Recomeça'], 253: ['<i>Será'], 255: ['Fiz'], 256: ['Não'], 258: ['Acho'], 260: ['Fez'], 261: ['Desliga'], 262: ['Apaga', 'Confirma'], 263: ['Sim'], 264: ['<i>Tens', 'Dolores'], 266: ['<i>Então'], 269: ['Tinha-me'], 270: ['Sabes'], 271: ['Não', 'Disse'], 272: ['Este'], 275: ['Obrigado', 'Talvez'], 276: ['Um'], 277: ['Do'], 278: ['Não'], 279: ['Já'], 281: ['Desculpa', 'Maeve'], 282: ['Não'], 283: ['Estás'], 284: ['Às'], 285: ['Às'], 286: ['Faz'], 287: ['Se'], 291: ['Confortável'], 294: ['De'], 295: ['Estás'], 296: ['Pagas'], 298: ['Acho'], 299: ['Onde', 'Mariposa'], 300: ['Madame'], 302: ['Dá', 'Clementine'], 303: ['Ela'], 305: ['Deixa-o'], 307: ['Trazemo-la'], 308: ['Uma'], 309: ['Garantia', 'Qualidade\n'], 312: ['Sempre', 'Ouço-o'], 313: ['Tens'], 314: ['Só'], 315: ['Esta'], 316: ['Correu'], 317: ['Diz-me'], 318: ['Estaremos'], 319: ['Abernathy'], 320: ['Ouvi'], 322: ['Mas'], 323: ['Todos'], 324: ['Ainda'], 325: ['Não'], 327: ['Estás'], 329: ['Bem'], 330: ['Podemos', 'Podemos'], 331: ['Estás'], 332: ['Sempre'], 333: ['És'], 334: ['Talentoso'], 335: ['Pensei'], 336: ['Quem'], 337: ['Boa'], 338: ['Merda'], 339: ['Não'], 340: ['Meu'], 342: ['Deixa-nos'], 343: ['Como'], 345: ['Não'], 346: ['Ao'], 348: ['Tenho'], 349: ['Disse'], 350: ['Sabes', 'Já'], 351: ['Vamos'], 352: ['Parece'], 353: ['Eu'], 354: ['Divertir', 'Amigo'], 355: ['És'], 356: ['Diz-se'], 357: ['Não'], 358: ['Se'], 359: ['Alguém'], 360: ['Não', 'Tu'], 361: ['Mas'], 362: ['Alguém'], 363: ['Percebo'], 364: ['Vale'], 365: ['Régio'], 366: ['Aquilino'], 367: ['Foi'], 368: ['Que'], 369: ['Foste'], 371: ['<i>Começa'], 372: ['Não'], 373: ['Eu'], 374: ['Começa'], 375: ['Diplomático'], 376: ['Recebi'], 377: ['Preciso'], 378: ['Não'], 379: ['Tens'], 380: ['Conselho'], 381: ['Ford'], 382: ['Há'], 386: ['<i>Está'], 387: ['Não'], 388: ['Só'], 390: ['Tal'], 391: ['Estamos'], 397: ['Costumava'], 400: ['Vou'], 401: ['Podes'], 402: ['<i>Vê'], 403: ['<i>Já'], 404: ['Vai-te'], 405: ['Tens'], 406: ['Sei', 'Lawrence'], 407: ['Afinal'], 409: ['Kissy\n'], 410: ['Onde'], 411: ['Na'], 412: ['Não'], 413: ['Sabes'], 415: ['<i>Sei'], 416: ['Sei'], 417: ['Mas'], 418: ['Nunca'], 419: ['Papá'], 420: ['Todos'], 423: ['Sabes', 'Lawrence'], 426: ['Mas'], 428: ['Até', 'Lawrence'], 429: ['Que'], 431: ['Onde'], 432: ['Já'], 433: ['Não'], 434: ['Toma'], 436: ['Demoraste'], 437: ['<i>Fui'], 438: ['Só'], 439: ['Sim'], 442: ['Tens', 'Lawrence'], 443: ['Bem'], 444: ['Este'], 445: ['Quer'], 446: ['Aquele'], 447: ['Sinto-me'], 448: ['Os'], 449: ['Não', 'Lawrence'], 450: ['Já'], 451: ['Num'], 452: ['Isto'], 454: ['Santa', 'Maria'], 455: ['Muito', 'Por'], 456: ['Como'], 457: ['Como'], 458: ['Por'], 460: ['São'], 461: ['Mas'], 463: ['Sabes'], 464: ['Por'], 468: ['Que', 'Lawrence'], 469: ['<i>Há'], 470: ['Vou'], 471: ['Segue'], 472: ['Já'], 473: ['Porque'], 474: ['Não', 'Lawrence'], 475: ['Desta'], 478: ['Tommy'], 480: ['Terra'], 481: ['Não'], 482: ['Não'], 483: ['Se'], 484: ['<i>Para'], 486: ['Ouve', 'Consegues'], 487: ['Sim'], 488: ['Sim'], 489: ['Calculei'], 490: ['Vês'], 491: ['Como'], 493: ['Tudo'], 496: ['Mas', 'Tommy'], 497: ['Não'], 498: ['Não'], 499: ['Corre'], 500: ['Não'], 501: ['Mas'], 502: ['Ouve', 'Esquece'], 503: ['Fica', 'Podemos'], 504: ['Nunca'], 505: ['Estou', 'Também'], 506: ['Sem'], 507: ['Embora'], 509: ['Estão'], 511: ['Estão'], 512: ['Tornarem-se'], 513: ['Falar'], 516: ['Garantia', 'Qualidade'], 517: ['Trabalhas', 'Não'], 518: ['Corre'], 519: ['Está'], 520: ['Alguma'], 521: ['Escassa', 'D'], 523: ['Narrativa'], 524: ['Não'], 525: ['Só'], 526: ['Arquiva'], 527: ['Abre'], 528: ['Perceção', 'Acuidade'], 529: ['Sobe'], 532: ['<i>Eles'], 533: ['Na'], 534: ['Fazemos-los'], 535: ['Qual'], 536: ['Sonhos'], 537: ['Podes'], 540: ['Mas'], 541: ['Especificamente'], 542: ['<i>Porquê'], 543: ['Para'], 545: ['Se'], 547: ['Ela'], 548: ['Mete'], 549: ['Muito'], 551: ['<i>Vais'], 552: ['Então'], 555: ['Sabes'], 556: ['Disse'], 557: ['Isto'], 559: ['Podes'], 560: ['Bem'], 561: ['Sabes'], 562: ['Um', 'Baton', 'Rouge\n'], 565: ['Bem'], 570: ['Ao'], 573: ['<i>Sai'], 574: ['Bem'], 575: ['Às'], 576: ['<i>Merda'], 577: ['<i>Disparo'], 578: ['Faladas'], 579: ['Isto'], 580: ['Três'], 583: ['<i>Descobri'], 584: ['<i>Bactérias', 'MRSA'], 585: ['Animais'], 586: ['Não'], 587: ['Não', 'Sou'], 588: ['Tretas', 'Já'], 589: ['Comes'], 590: ['<i>Percebes'], 591: ['Se'], 592: ['Foda-se', 'Foda-se', 'Mas'], 593: ['Merda', 'Mas'], 594: ['Não', 'Foda-se'], 595: ['Idiota'], 596: ['Não'], 597: ['Não', 'Não'], 598: ['Não', 'Não'], 599: ['Para', 'Larga'], 600: ['Partes-lhe'], 601: ['Vamos'], 602: ['Como', 'Maeve'], 603: ['Olá', 'Maeve', 'Maeve'], 604: ['Tens'], 605: ['Está', 'Sentamo-nos\n'], 606: ['Tira'], 607: ['Não'], 608: ['Juro'], 609: ['Isto'], 610: ['Acalma-te'], 612: ['Aqui'], 613: ['Este', 'Hieronymus', 'Bosch\n'], 615: ['Tenho'], 616: ['"Whoroborus"'], 617: ['Não'], 619: ['<i>Horror', 'Perdi'], 620: ['<i>Romance'], 621: ['Lee'], 622: ['Os'], 630: ['Eles'], 631: ['Apresento-vos'], 632: ['Odisseia', 'Rio', 'Vermelho'], 633: ['Não'], 634: ['Desculpe'], 635: ['Não'], 636: ['<i>Espere'], 637: ['<i>Qual'], 638: ['Ter'], 639: ['Algumas'], 640: ['Mas'], 641: ['Isto'], 642: ['Não'], 644: ['São'], 645: ['Os'], 647: ['Regressam'], 649: ['<i>Regressam'], 652: ['<i>Não'], 654: ['Eles'], 655: ['Estão'], 657: ['<i>Billy'], 658: ['Vamos'], 660: ['Sr', 'Sizemore'], 661: ['Bem'], 662: ['De'], 663: ['Alguma', 'Sr', 'Lowe'], 664: ['Conselho', 'Sim'], 665: ['Isto'], 666: ['Prometeu-lhes'], 668: ['Uma'], 669: ['Uma']}
+DIOC: {2: ["Man's", 'Wake', 'Dolores'], 3: ['Do'], 6: ['Woman', "We're"], 7: ['May'], 8: ['Woman', 'P', 'Now'], 9: ['Where'], 10: ["You're"], 11: ['No'], 13: ['Unless'], 15: ['Fuck'], 16: ['Hey'], 17: ["What'd"], 18: ['Have'], 19: ['Stay'], 20: ['Give'], 21: ['What'], 22: ["It's"], 24: ['You', 'William', 'Welcome', 'Westworld'], 25: ['Thanks'], 26: ['Given'], 27: ['Do'], 28: ['No'], 29: ['Heart', 'No'], 30: ['Any'], 32: ['Just'], 34: ['Do'], 35: ['What'], 36: ['To'], 38: ['Only'], 39: ['The'], 40: ['You', "It's"], 41: ['The'], 42: ['How'], 43: ['So', 'Is'], 44: ['No'], 46: ['Figuring'], 47: ['All'], 49: ['Everything'], 50: ['You'], 51: ['Are'], 52: ['Well'], 53: ['Are'], 54: ['Real'], 55: ['But'], 56: ['Anything'], 57: ['Is'], 58: ['Or'], 59: ['Of'], 60: ['Or'], 61: ['What'], 62: ['You'], 64: ['Do', 'William'], 65: ['All'], 66: ['Myself'], 67: ['We'], 68: ['Take'], 69: ['Thank'], 71: ['Of'], 72: ['Take'], 73: ['How'], 75: ['Look', "Abernathy's"], 78: ['The'], 79: ['This'], 80: ["It's"], 81: ['You'], 83: ['And'], 84: ['Do'], 85: ['We'], 86: ['And'], 87: ['Let', 'Abernathy'], 89: ['You', 'Let'], 90: ['Then'], 91: ['Dolores'], 92: ['What'], 93: ['Because'], 94: ['Abernathy'], 95: ['So'], 96: ['Dolores'], 97: ['And'], 101: ["Man's", 'Remember'], 104: ['Ahem', 'Can'], 106: ['These'], 110: ['Hello'], 111: ["There's"], 112: ['Which'], 116: ['So'], 120: ['Guns'], 121: ['Mindless'], 122: ['You'], 123: ['This'], 124: ['By'], 127: ['What'], 128: ['Who'], 129: ['And'], 131: ['Bottoms'], 133: ['Sheriff', 'Further'], 134: ['Donald', 'Pardue</i>\n'], 136: ['For'], 139: ['And', 'God'], 142: ['Morning', 'Lawrence'], 143: ['You'], 145: ['You'], 147: ['Well'], 148: ['How'], 149: ['Well'], 153: ['Oh', 'Oh'], 154: ['Oh'], 155: ['Ah'], 157: ['Motherfucker'], 158: ["That's", 'Lawrence'], 159: ['You'], 160: ['Do'], 161: ['Your', 'Kissy\n'], 162: ['Sends'], 163: ['What--'], 164: ['You'], 165: ["It's"], 167: ["You're"], 168: ['No'], 171: ["Maeve's", 'You'], 172: ['That'], 173: ['The'], 174: ["Don't"], 175: ["Don't"], 176: ["Don't"], 178: ['Whenever'], 181: ['You'], 182: ['In'], 185: ['And'], 187: ['But'], 189: ['So'], 190: ['Crossed'], 191: ['And'], 193: ['Do'], 194: ['It'], 197: ['Man', 'All', 'Maeve'], 198: ['Maeve', 'It', '"This'], 199: ['And'], 201: ['Pupillary', 'Smile'], 202: ["What's"], 203: ['Woman', 'The'], 204: ['Sizemore'], 206: ['If'], 207: ["Let's"], 208: ['Double'], 209: ["She's", 'No'], 210: ['If'], 211: ['Let'], 212: ['We'], 213: ['You'], 215: ['You', 'God\n'], 216: ["There's", 'Bernard'], 218: ['The'], 219: ['Abernathy'], 221: ['You'], 222: ['Imagine'], 223: ["It's"], 224: ['Ah', 'Mr', "Occam's"], 225: ['The', 'Bernard'], 227: ['We'], 228: ['We'], 229: ['Then'], 232: ['William', 'Occam\n'], 233: ['He', 'Bernard'], 234: ['He'], 236: ["Let's"], 239: ['Oh'], 240: ['You', 'What'], 241: ['Fuck', 'Grizzly', 'Adams'], 242: ['Man', 'Rally', 'Union'], 243: ['Respond'], 244: ['This'], 246: ['We'], 247: ['This', 'Man', "We'll"], 248: ['Well'], 249: ['What', 'This', 'Sweetwater'], 250: ['Wait'], 251: ['How', 'No'], 253: ['See'], 255: ['But'], 256: ['Driver', 'Hah'], 257: ['Whoa'], 258: ['Need'], 259: ['Thank'], 260: ["Don't", "He'll"], 261: ['Smile'], 262: ["It's"], 264: ['They'], 265: ['Hey'], 266: ['First'], 268: ['Hold'], 269: ['Bernard', 'Bring'], 270: ['Hello'], 271: ['Do', 'Dolores'], 272: ['Yes'], 273: ['And'], 274: ['You'], 275: ['Step'], 276: ['How'], 278: ['And'], 280: ['No'], 281: ['Resuming'], 284: ['Have'], 285: ['No'], 289: ['Have'], 290: ['Turn'], 291: ['Erase', 'Confirm'], 292: ['Yes'], 293: ['You', 'Dolores'], 297: ['Man', 'Come'], 298: ['Maeve', 'And'], 300: ['It'], 301: ['Do'], 302: ['No', 'It'], 305: ['And'], 308: ['Thanks', 'Maybe'], 309: ['Oh'], 310: ['Glass'], 311: ['The'], 312: ['Not'], 316: ['Sorry', 'Maeve'], 318: ['You'], 319: ['Sometimes'], 320: ['Sometimes\n'], 321: ['Do'], 322: ['You'], 326: ['Nice'], 330: ['Ah'], 331: ['Back'], 332: ['You'], 333: ['You'], 336: ['Where', 'Mariposa'], 337: ["Madam's"], 339: ['Re-task', 'Clementine\n'], 340: ["She's"], 342: ['Controller', 'And'], 343: ['Maybe'], 345: ['We'], 346: ['Shame'], 347: ['QA'], 348: ['And'], 350: ['You'], 351: ["You've"], 352: ['The'], 353: ['This'], 354: ['Oh'], 355: ['Just'], 356: ["We'll"], 357: ['And', 'Abernathy'], 359: ["That's"], 360: ['But'], 361: ['All'], 362: ['Good'], 363: ["Wouldn't"], 366: ["You're"], 368: ['Well'], 369: ['Can'], 370: ['See'], 371: ["You're"], 372: ['You'], 373: ['You'], 375: ['Who'], 376: ['Good'], 377: ['Oh'], 378: ['Well'], 379: ['My'], 381: ['Leave'], 382: ['As'], 384: ['Not'], 385: ['Across'], 390: ['You'], 391: ["Let's"], 393: ['Oh'], 395: ['Clementine', 'Sounds'], 396: ['Well'], 397: ['Fun', 'Friend'], 398: ["You're"], 399: ['They'], 400: ['You'], 401: ['If'], 402: ['Someone'], 403: ['No'], 404: ['But'], 405: ['Somebody'], 407: ['Real'], 410: ['Lee', 'Regal'], 412: ["That's"], 413: ['And'], 414: ['Did'], 416: ['Start'], 417: ["Couldn't"], 420: ['Diplomatic'], 423: ["It's"], 424: ['You'], 425: ['The'], 426: ['Has', 'Ford'], 427: ['Oh'], 428: ['And'], 432: ['Boy', 'Are'], 433: ['No'], 434: ['Just'], 436: ['Same'], 437: ["We're"], 438: ["It's"], 439: ['Daddy'], 440: ['Ah'], 442: ['Mine'], 447: ["You're"], 450: ['Man', 'Black', "<i>Let's"], 451: ['<i>Not'], 452: ['Go'], 453: ['You'], 454: ['Lawrence'], 455: ['After'], 456: ['Which'], 457: ['Kissy\n'], 458: ['Where'], 459: ['Your'], 460: ['Spanish'], 461: ['No'], 462: ['You'], 463: ['Ghost', 'Nation'], 466: ['But'], 468: ['Papa', 'Hey'], 469: ["That's"], 472: ['You', 'Lawrence'], 473: ['Real'], 474: ["It's"], 475: ['But'], 477: ['Even', 'Lawrence'], 478: ['What'], 479: ['The'], 480: ['How'], 483: ['Here'], 484: ['And'], 485: ['Hell'], 487: ['Only'], 488: ['Yeah'], 490: ['You', 'Lawrence'], 491: ['Then'], 493: ['This'], 494: ['Want'], 495: ['That'], 497: ['My'], 498: ['You', 'Lawrence'], 500: ['In'], 501: ['And'], 506: ['Santa', 'Maria'], 508: ['All', 'Well'], 513: ['Like'], 514: ["What's"], 515: ['Please'], 516: ['Time'], 518: ["It's"], 519: ['But'], 520: ["That's"], 522: ['You'], 523: ['Please'], 526: ['It'], 528: ['The'], 529: ["What'd", 'Lawrence'], 530: ['Always'], 532: ['Follow'], 533: ['You', 'Whatever'], 534: ['Why'], 535: ['No', 'Lawrence'], 536: ['This'], 537: ['And'], 538: ['Daddy'], 539: ['And', 'Tommy'], 540: ['And'], 541: ['Nowhere'], 542: ['That'], 543: ["Can't"], 544: ['Perhaps'], 545: ['Boy', 'At'], 546: ['The'], 547: ['Listen', "Can't"], 549: ['Yes'], 550: ['Yes'], 551: ['Yeah'], 553: ['You'], 555: ['How'], 556: ['<i>Is'], 557: ['Everything\n'], 559: ['Best'], 560: ['But', "Tommy's"], 561: ["You're"], 563: ['No'], 564: ['Run'], 567: ['You'], 568: ['You'], 569: ['Listen', 'Forget'], 570: ['Stay', 'We'], 571: ['We'], 572: ['So', 'I'], 573: ["You're"], 574: ['Although'], 576: ["They're"], 578: ["They're"], 579: ['Make'], 580: ['When'], 581: ['Is'], 582: ['Practicing'], 583: ['Man', 'QA'], 584: ['Elsie', 'Do', 'QA', 'No'], 585: ['Run'], 587: ['All'], 588: ['Some'], 589: ['Little', 'D'], 590: ['And'], 592: ['You'], 593: ['Just'], 594: ['Archive'], 595: ['Open'], 596: ['Perception', 'Emotional'], 597: ['Bump'], 599: ['Updating', 'Okay'], 600: ['Do', 'What'], 601: ['In'], 602: ['Do'], 603: ['Fuck'], 604: ['Dreams'], 605: ['Can'], 607: ['We'], 608: ['Specifically'], 609: ['<i>Why'], 610: ['Just'], 611: ['If'], 614: ["She's"], 615: ['Put'], 616: ['All'], 618: ["<i>You're"], 619: ['So'], 620: ['And'], 622: ['Do'], 623: ['It'], 625: ['And'], 629: ['Well'], 630: ['You'], 631: ['Baton', 'Rouge\n'], 633: ['And'], 634: ['Well'], 635: ['The'], 637: ['And'], 639: ['At'], 641: ['For'], 642: ['Man', 'Get'], 643: ['Man', 'Hey'], 644: ['Well'], 647: ['Man'], 649: ['Spoken'], 652: ['Now'], 656: ['Three'], 660: ['Man', 'Found'], 661: ["It's", 'MRSA'], 662: ['Filthy'], 663: ['No'], 664: ["Don't"], 665: ['Bullshit'], 666: ['You'], 667: ['You'], 668: ['Man', 'Fuck', 'Bubbles'], 669: ['If'], 670: ['Fuck', 'Fuck', 'What'], 671: ['Shit', 'What'], 672: ['Man', 'Uh'], 673: ['<i>Uh'], 675: ['No', 'Oh'], 676: ['Man', 'Oh'], 677: ['Asshole'], 678: ['Oh', "Don't"], 679: ['No', 'No'], 680: ["Don't", "Don't"], 681: ['Stop', 'Put'], 682: ['You'], 683: ['Uh'], 684: ["What's", 'Maeve'], 685: ['Hi', 'Maeve', 'Maeve'], 686: ['Look'], 687: ['Okay', "Let's"], 688: ['Keep'], 690: ['No'], 698: ['Oh'], 699: ['Calm'], 703: ['Here'], 704: ['Lee', 'This', 'Hieronymus', 'Bosch\n'], 708: ['Now'], 710: ['Miss'], 712: ['Lee'], 713: ['Our'], 723: ['Odyssey', 'Red', 'River'], 725: ['No'], 726: ['Sorry'], 727: ['No'], 728: ['Lee', 'Wait'], 729: ['Dr', 'Ford', 'What'], 730: ['Get'], 731: ['Some'], 732: ['But'], 733: ["It's"], 734: ['No'], 735: ['The'], 737: ['The'], 739: ['They'], 741: ['They'], 744: ["They're"], 746: ['They'], 747: ["They're"], 749: ['Logan', 'Billy'], 750: ["Let's"], 751: ['Dr', 'Ford', 'The'], 752: ['Mr', 'Sizemore'], 753: ['Well'], 754: ['What'], 755: ['Something', 'Mr', 'Lowe'], 756: ['The', 'Yeah'], 757: ['This'], 758: ['You'], 759: ['They'], 760: ['Something'], 761: ['Something']}
+1:
+ <i>Acorda, Dolores.</i> --->           Man's voice:        <i> Wake up, Dolores.</i> 
+
+2:
+ <i>Lembras-te?</i> --->         <i> Do you remember?</i> 
+
+3:
+ <i>Estamos prestes a chegar.</i> --->              Woman:      <i> We're about to arrive.</i> 
+
+4:
+ <i>Posso levar o seu copo?</i> --->          May I take your glass? 
+
+5:
+ <i>Estamos a aproximar-nos do terminal de chegada.</i> --->          Woman on P.A.:         <i> Now approaching</i>        <i> arrival terminal.</i> 
+
+6:
+ Para onde estamos a ir, ela nem é nada de especial. --->     Where we're going,     she's a two. 
+
+7:
+ Estás a ser um idiota. --->     You're being an asshole. 
+
+8:
+ Não, estou a ser eu mesmo, --->           No, I am being myself, 
+
+9:
+ que era o propósito desta viagem. --->           which was the whole           point of this trip. 
+
+10:
+ A não ser que este idiota atadinho sejas mesmo tu. --->       Unless this uptight prick       is who you really are, 
+
+11:
+ Nesse caso, que estejas à vontade para ser outra pessoa. --->              in which case,              feel free to be               someone else. 
+
+12:
+ Vai-te foder. --->       Fuck you. 
+
+13:
+ É mesmo esse o espírito. --->          Hey, that's the spirit. 
+
+14:
+ Que te disse eu? --->   What'd I tell you? 
+
+15:
+ Diverte-te. --->        Have fun. 
+
+16:
+ Fica em segurança. --->                      Stay safe. 
+
+17:
+ Poupa-me. --->   Give me a break. 
+
+18:
+ O quê? --->                    What? 
+
+19:
+ Como se a minha irmã não tivesse tido --->          It's not like          my sister didn't ride 
+
+20:
+ a sua dose de cobóis quando esteve aqui. --->          her share of cowboys          when she was here. 
+
+21:
+ Deve ser o William. Bem-vindo a Westworld. --->            You must be William.            Welcome to Westworld. 
+
+22:
+ Obrigado. --->     Thanks. 
+
+23:
+ Dado ser a sua primeira visita, tenho algumas perguntas pessoais. --->           Given it's your first           visit, I have a few           personal questions. 
+
+24:
+ Tem algumas patologias pré-existentes? ---> Do you have any preexisting medical conditions? 
+
+25:
+ Que eu saiba, não. --->        No, not that I know of. 
+
+26:
+ - Problemas de coração? - Não. --->         - Heart problems?         - No. 
+
+27:
+ Algum historial de doença mental, depressão, --->             Any history             of mental illness,             depression, 
+
+28:
+ Só tenho um bocadinho medo de palhaços. --->              Just a little fear              of clowns. 
+
+29:
+ Estou a brincar. --->               I'm joking. 
+
+30:
+ É frequente sentir ansiedade social? --->   Do you often experience   social anxiety? 
+
+31:
+ Isto é para quê, exatamente? --->         What is this for,         exactly? 
+
+32:
+ Garantir que não lhe damos mais do que é capaz de lidar. --->   To make sure we don't  give you anything more   than you can handle. 
+
+33:
+ Pensei que aqui não nos podíamos magoar. --->        I thought that you        couldn't get hurt here. 
+
+34:
+ Só em quantidades adequadas. ---> Only the right amount. 
+
+35:
+ O único limite é a sua imaginação. --->            The only limit here           is your imagination. 
+
+36:
+ Começa no centro do parque. É simples, seguro. --->         You start in         the center of the park.         It's simple, safe. 
+
+37:
+ <i>Quanto mais longe se aventurar, mais a experiência se intensifica.</i> --->   <i> The further out</i>   <i> you venture, the more</i>   <i> intense the experience gets.</i> 
+
+38:
+ Até onde quererá ir, depende apenas de si. ---> How far you want to go is entirely up to you. 
+
+39:
+ Então como funciona isto? Há alguma orientação? --->          So, how does this work?         Is there an orientation? 
+
+40:
+ Nenhuma orientação. --->   No orientation, 
+
+41:
+ Nenhum guia de viagem. --->    no guidebook. 
+
+42:
+ Descobrir como isto funciona é metade do divertimento. ---> Figuring out how it works is half the fun. 
+
+43:
+ Resta-lhe fazer escolhas... ---> All you do is make choices... 
+
+44:
+ Começando aqui. ---> starting here. 
+
+45:
+ Tudo é feito por medida, exatamente para o seu tamanho. --->  Everything is bespoke and exactly your size. 
+
+46:
+ Se quer perguntar, pergunte. --->             You want to ask,             so ask. 
+
+47:
+ Você é real? --->    Are you real? 
+
+48:
+ Se não consegue perceber, isso interessa? --->        Well, if you can't tell,        does it matter? 
+
+49:
+ São reais? --->       Are those real? 
+
+50:
+ <i>Suficientemente reais.</i> --->                   <i> Real enough.</i> 
+
+51:
+ <i>Mas não poderá matar quem não é suposto matar.</i> --->       <i> But you can't kill anyone</i>       <i> you're not supposed to.</i> 
+
+52:
+ Alguma coisa de que gosta? --->        Anything you like? 
+
+53:
+ Há algum vestiário? ---> Is there a changing room? 
+
+54:
+ Ou um roupão? --->    Or a robe? 
+
+55:
+ Claro. Posso ajudá-lo. --->              Of course.              I can help you. 
+
+56:
+ Ou, se preferir, posso sair lá para fora. --->           Or if you prefer,           I could step outside. 
+
+57:
+ Que costumam fazer as outras pessoas? ---> What do most people do? 
+
+58:
+ Não precisa de se preocupar com o que os outros fazem. --->           You don't have           to worry about what           most people would do. 
+
+59:
+ Eu percebo. --->      I understand. 
+
+60:
+ Percebe mesmo, William? --->            Do you really            understand, William? 
+
+61:
+ Todos os nossos anfitriões estão aqui para si. --->            All our hosts            are here for you. 
+
+62:
+ Eu incluída. --->            Myself included. 
+
+63:
+ Podemos ficar aqui um bocado, se desejar. --->           We could stay here           a while if you like. 
+
+64:
+ Leve o tempo que quiser. --->        Take as long as you want. 
+
+65:
+ Obrigado. --->          Thank you. 
+
+66:
+ Não quero deixar o meu amigo à espera. --->     I don't want to keep     my friend waiting. 
+
+67:
+ Claro. --->               Of course. 
+
+68:
+ Não tenha pressa. --->             Take your time. 
+
+69:
+ Como estão a correr as compilações da nova narrativa? --->     How are the builds     for the new narrative     coming along? 
+
+70:
+ Assumimos que a quebra do Abernathy --->         Look, we assumed         that Abernathy's breach 
+
+71:
+ foi despoletada pela foto que encontrou. --->           was triggered         by the photograph          that he found. 
+
+72:
+ Revi cada episódio dissonante que pude encontrar. --->        I've reviewed        every dissonant episode        I could find. 
+
+73:
+ A reação é imediata todas as vezes. --->         The reaction         is immediate every time. 
+
+74:
+ Este tipo retrocede completamente. --->         This guy makes it         all the way back home. 
+
+75:
+ Como se estivesse a remoer naquilo. --->           It's like           he's mulling it over. 
+
+76:
+ Achas que ele teve uma crise existencial? --->  You think he had  an existential crisis? 
+
+77:
+ Acho que há alguma coisa estragada na cognição dele. --->     I think there's     something fucked up     going on with his cognition. 
+
+78:
+ E acho que você sente o mesmo. --->            And I think you feel            exactly the same way            that I do. 
+
+79:
+ Sabemos a origem do erro? --->   Do we know where   the error originated? 
+
+80:
+ Sabemos. --->                    We do. 
+
+81:
+ E tu encobriste-o. --->         And you covered for him. 
+
+82:
+ Deixa-me reconstruir o Abernathy. --->        Let me rebuild Abernathy. 
+
+83:
+ Certifico-me de que isto não é uma coisa mais séria. --->              I'll make sure           this is not something               more serious. 
+
+84:
+ Ao menos deixa-me recolher aqueles que contactaram com ele, --->          Then let me at least          pull the hosts who had          contact with him, 
+
+85:
+ como a filha, Dolores. --->       like the daughter Dolores. 
+
+86:
+ Para quê? --->          What for? 
+
+87:
+ Porque se isto não for um episódio dissonante, --->           Because if this is not           a dissonant episode, 
+
+88:
+ o que o Abernathy tem pode ser contagioso. --->      then whatever Abernathy had      could be contagious. 
+
+89:
+ Por assim dizer. --->                 So to speak. 
+
+90:
+ Dolores foi examinada e dada como apta. --->     Dolores was examined     and cleared. 
+
+91:
+ E é melhor deixar as histórias para os convidados. --->  And the stories are  best left to the guests. 
+
+92:
+ <i>Lembra-te.</i> --->           Man's voice:            <i> Remember.</i> 
+
+93:
+ Não podes ficar parada noutro sítio qualquer? --->                 Ahem.                 Can you stand                 somewhere else? 
+
+94:
+ Não quero que se pense que a mercadoria ali dentro --->     I don't want anyone thinking     that you're representative     of the goods inside. 
+
+95:
+ Estes prazeres violentos --->     These violent delights 
+
+96:
+ têm fins violentos. --->       have violent ends. 
+
+97:
+ Olá, cobói. --->                   Hello, cowboy. 
+
+98:
+ Um toque final. --->     There's one final touch. 
+
+99:
+ Qual prefere? --->        Which would you prefer? 
+
+100:
+ Já viste bem este sítio? --->             ( sighs )             I mean, can you             believe this place? 
+
+101:
+ Como é que entramos no parque? --->     So, how do we get     into the park? 
+
+102:
+ Estás convencido de que sabes mesmo o que isto vai ser. --->     I know that you think     you have a handle on what     this is gonna be. 
+
+103:
+ Armas e mamas, e todas essas coisas. --->        Guns and tits        and all that. 
+
+104:
+ Merdas sem sentido que eu costumo gostar. --->       Mindless shit       that I usually enjoy. 
+
+105:
+ <i>Não fazes ideia.</i> --->               <i> You have no idea.</i> 
+
+106:
+ Este sítio acaba por seduzir toda a gente. ---> This place seduces everybody eventually. 
+
+107:
+ No fim, vais suplicar-me para ficar ---> By the end, you're gonna be begging me to stay 
+
+108:
+ porque este lugar é a resposta ---> because this place is the answer 
+
+109:
+ para a pergunta que tens feito a ti mesmo. ---> to that question that you've been asking yourself. 
+
+110:
+ Qual pergunta? --->          What question? 
+
+111:
+ Quem és tu, realmente. --->        Who you really are. 
+
+112:
+ E mal posso esperar para conhecer esse tipo. ---> And I can't fucking wait to meet that guy. 
+
+113:
+ Cá vai um brinde, cobói. --->    Bottoms up, cowboy. 
+
+114:
+ <i>Além disso,</i> --->             Sheriff:         <i> Further to that,</i> 
+
+115:
+ <i>o assassínio impiedoso de Donald Pardue</i> --->       <i> the ruthless murder</i>         <i> of Donald Pardue</i> 
+
+116:
+ e do irmão. --->         and his brother. 
+
+117:
+ Por esses crimes, serás enforcado --->         For these crimes,         you will be hung         from the neck 
+
+118:
+ até que a tua alma doente saiba o caminho ---> until your diseased soul has found its measure 
+
+119:
+ para as chamas do Inferno. --->   in the flames below. 
+
+120:
+ E que Deus tenha piedade da tua alma. ---> And may God have mercy on your soul. 
+
+121:
+ Bom dia, Lawrence. --->            Morning, Lawrence. 
+
+122:
+ <i>Estás outra vez a ajudá-los a endireitar a corda?</i> --->     <i> You helping them</i>     <i> straighten out their</i>     <i> rope again?</i> 
+
+123:
+ Esperava ter uma palavra aqui com o meu amigo. --->    I was hoping to have    a word with my friend here. 
+
+124:
+ Podes falar com ele o tempo que quiseres, --->    You can have as many words    with him as you like 
+
+125:
+ assim que lhe partirmos o pescoço. --->        soon as his neck        is broke. 
+
+126:
+ Receio que isso não me dê muito jeito. --->        Well, I'm afraid that's        not gonna work for me. 
+
+127:
+ E se disser ao meu homem ali --->  How about I tell my man  there to dig that grave  a couple feet deeper? 
+
+128:
+ Bem... Mesmo assim, vai ser muito apertada para vocês todos. --->           Well, it's gonna be           an awful tight fit           for all of you. 
+
+129:
+ <i>Merda. Merda.</i> --->         <i> ( man panting )</i>       <i> Oh, shit. Oh, shit.</i> 
+
+130:
+ <i>Merda!</i> --->           -<i> ( gunshot )</i>           - Ah! 
+
+131:
+ Cabrão. --->                Motherfucker. 
+
+132:
+ É assim que me agradeces, Lawrence? ---> That's the best thanks you can muster, Lawrence? 
+
+133:
+ Costumavas ser mais eloquente. ---> You used to be a little more eloquent. 
+
+134:
+ Eu conheço-te? --->          Do I-- do I know you? 
+
+135:
+ O teu amiguinho Kissy mandou-me ter contigo. --->    Your pal Kissy    sent me your way. 
+
+136:
+ Manda cumprimentos. --->    Sends his regards. 
+
+137:
+ O que é isto? --->           What-- what is this? 
+
+138:
+ Sabes muito bem o que é. --->       You know exactly       what it is. 
+
+139:
+ É o labirinto. --->        It's the maze, 
+
+140:
+ <i>O nível mais profundo deste jogo.</i> ---> <i>the deepest level</i> <i>of this game.</i> 
+
+141:
+ Vais ajudar-me a descobrir a entrada. --->    You're gonna help me    find the entrance. 
+
+142:
+ Não. --->                       No. 
+
+143:
+ <i>Consegues ouvir, não consegues?</i> --->          Maeve's voice:         <i> You can hear it,</i>            <i> can't you?</i> 
+
+144:
+ <i>Aquela pequena voz.</i> --->        <i> That little voice.</i> 
+
+145:
+ <i>A que te diz "Não faças".</i> --->          <i> The one that's</i>       <i> telling you "don't."</i> 
+
+146:
+ <i>Não fiques a olhar muito tempo.</i> --->      <i> Don't stare too long.</i> 
+
+147:
+ <i>Não toques.</i> --->           <i> Don't touch.</i> 
+
+148:
+ <i>Não falas nada que te arrependas.</i> --->        <i> Don't do anything</i>        <i> you might regret.</i> 
+
+149:
+ <i>Costumava ser assim.</i> --->      <i> I used to be the same.</i> 
+
+150:
+ Sempre que queria alguma coisa, ouvia essa voz --->     Whenever I wanted something,     I could hear that voice 
+
+151:
+ a dizer-me para parar, ser cuidadosa, --->             telling me to stop,             to be careful, 
+
+152:
+ deixar de viver grande parte da minha vida. --->             to leave most             of my life unlived. 
+
+153:
+ Sabes qual é o único sítio onde essa voz me deixou em paz? --->        You know the only place        that voice left me alone? 
+
+154:
+ Nos meus sonhos. --->             In my dreams. 
+
+155:
+ Era livre. Podia ser tão boa --->            I was free.            I could be as good 
+
+156:
+ ou má tanto quanto desejasse. --->            or as bad            as I felt like being. 
+
+157:
+ E se eu desejasse alguma coisa, --->              And if I wanted              something, 
+
+158:
+ bastava estender a mão e agarrá-la. --->           I could just           reach out and take it. 
+
+159:
+ Mas eu acordava --->         But then I would wake up 
+
+160:
+ e a voz começava outra vez. --->            and the voice would            start all over again. 
+
+161:
+ Então, fugi. --->                So I ran away. 
+
+162:
+ Atravessei o mar brilhante. --->         Crossed the shining sea. 
+
+163:
+ E quando finalmente pus o pé em terreno sólido, --->      And when I finally set foot      back on solid ground, 
+
+164:
+ a primeira coisa que eu ouvi foi o raio da voz. --->      the first thing I heard      was that goddamn voice. 
+
+165:
+ Queres saber o que disse? --->        Do you know what it said? 
+
+166:
+ Disse... --->            It said... 
+
+167:
+ Desculpe, dá-me licença? ---> I'm sorry, will you please excuse me? 
+
+168:
+ <i>Está bem, Maeve, o que disse a voz?</i> --->               Man:        <i> All right, Maeve,</i>         <i> what did it say?</i> 
+
+169:
+ Disse: este é um novo mundo --->              Maeve:        <i> It said, "This is</i>          <i> the new world.</i> 
+
+170:
+ e, neste mundo, --->        And in this world, 
+
+171:
+ podes ser quem tu quiseres. --->        you can be whoever        the fuck you want." 
+
+172:
+ A resposta pupilar é boa. O sorriso é bom. ---> Pupillary response is good. Smile is good. 
+
+173:
+ Eu cá fodia-a. Qual é o problema? ---> I'd fuck her. What's the problem? 
+
+174:
+ Os convidados não a querem. --->   Woman:   The guests wouldn't. 
+
+175:
+ O Sizemore vai lançar um novo enredo grandioso --->   Sizemore is launching   some huge new storyline 
+
+176:
+ e quer limpar o peso morto. --->     and he wants us     to clear out the deadweight. 
+
+177:
+ Se não melhorar o desempenho, ela vai ser desativada. --->     <i> If we don't get</i>     <i> her numbers back up,</i>     <i> she'll be decommissioned.</i> 
+
+178:
+ <i>Vamos dar-lhe mais agressividade.</i> --->                 <i> Let's bump</i>                 <i> her aggression.</i> 
+
+179:
+ - Dez por cento? - <i>O dobro.</i> --->           - 10%?           -<i> Double it.</i> 
+
+180:
+ <i>Ela é uma prostituta. Não faz sentido fazer-se de anjinha.</i> --->        <i> She's a hooker.</i>        <i> No point in playing coy.</i> 
+
+181:
+ <i>Se não resultar, mandamo-la para Comportamento.</i> --->     <i> If this doesn't work,</i>     <i> we'll punt her to behavior.</i> 
+
+182:
+ <i>Eles que lidem com ela.</i> --->          <i> Let them deal with it.</i> 
+
+183:
+ Retirámos os dois anfitriões em questão. --->     We retired the two hosts           in question. 
+
+184:
+ Ensinou-me a construí-los, --->           You taught me         how to make them, 
+
+185:
+ mas não como é difícil desligá-los. --->      but not how hard it is         to turn them off. 
+
+186:
+ Não podes fazer de Deus sem ser apresentado ao Diabo. --->        You can't play God     without being acquainted          with the devil. 
+
+187:
+ Há mais alguma coisa que te incomoda, Bernard. --->        There's something else        bothering you, Bernard. 
+
+188:
+ Eu sei como funciona essa cabeça. --->            I know how that            head of yours works. 
+
+189:
+ Só a fotografia --->       The photograph alone 
+
+190:
+ não poderia ter causado tantos danos ao Abernathy, --->      couldn't have      caused that level      of damage to Abernathy, 
+
+191:
+ não sem algum tipo de interferência exterior. --->    not without some other     outside interference. 
+
+192:
+ Achas que é sabotagem? --->        You think it's sabotage? 
+
+193:
+ Imaginas alguém a brincar com as nossas criações? --->     Imagine someone's been     diddling with our creations? 
+
+194:
+ É a solução mais simples. --->           It's the simplest           solution. 
+
+195:
+ A lâmina do senhor Occam. --->      Ah, Mr. Occam's razor. 
+
+196:
+ O problema, Bernard, é aquilo que tu e eu fazemos ---> The problem, Bernard, is that what you and I do 
+
+197:
+ ser tão complicado. --->        is so complicated. 
+
+198:
+ Praticamos bruxaria. --->      We practice witchcraft. 
+
+199:
+ Proferimos as palavras certas. --->       We speak the right words. 
+
+200:
+ <i>Depois criamos a própria vida...</i> --->              <i> Then we create</i>              <i> life itself...</i> 
+
+201:
+ A partir do caos. --->           out of chaos. 
+
+202:
+ William de Occam foi um monge do século XIII. --->         William of Occam         was a 13th century monk. 
+
+203:
+ Agora não nos pode ajudar, Bernard. --->           He can't help us now,           Bernard. 
+
+204:
+ Queimar-nos-ia na fogueira. --->       He would have us       burned at the stake. 
+
+205:
+ Vamos lá molhar os nossos pezinhos, vaqueiro. --->          Let's go get          our feet wet, buckaroo. 
+
+206:
+ Desculpe. --->      Oh, sorry. 
+
+207:
+ - Estás a brincar comigo? - O quê? --->         - You kidding me?         - What? 
+
+208:
+ Vai-te foder, Grizzly Adams. --->    Fuck you,    Grizzly Adams. 
+
+209:
+ <i>Manifestação pela União.</i> --->               Man:       <i> Rally for the Union.</i> 
+
+210:
+ <i>Respondam ao chamamento do vosso país.</i> --->         <i> Respond to your</i>         <i> country's call.</i> 
+
+211:
+ Este regimento dirige-se à zona de combate --->         This regiment is headed         for the seat of war 
+
+212:
+ para definir o futuro da nossa grande nação. --->       to define the future       of this great nation. 
+
+213:
+ Lutamos por terras livres onde homem nenhum se ajoelha. ---> We fight for a free land where no man has to bow. 
+
+214:
+ Isto é... --->          - This is, uh--     - Man:<i> We'll provide you</i>          <i> with uniforms.</i> 
+
+215:
+ É maior do que eu pensava. ---> Well, it's bigger than I thought it would be. 
+
+216:
+ O quê, isto? É apenas Sweetwater. --->        What, this?        This is just Sweetwater. 
+
+217:
+ Espera até veres o resto do parque. --->         Wait till you see         the rest of the park. 
+
+218:
+ - Que tamanho é que tem? - Não faço ideia. --->     - How much bigger is it?     - No idea. 
+
+219:
+ Nunca cheguei aos limites dele. --->         I never reached the end. 
+
+220:
+ Vês alguma coisa que gostas? --->      See something you like? 
+
+221:
+ Um par delas, pelo menos. --->                 A couple things                 at least. 
+
+222:
+ Mas vou obrigar-te a implorar, querida. --->   But I'm gonna make you   beg for it, darlin'. 
+
+223:
+ Vamos! --->      - Driver: Hah, come on!      - ( man grunts ) 
+
+224:
+ Precisa de ajuda, senhor? --->  Need a hand, sir? 
+
+225:
+ Obrigado, meu amigo. --->            Thank you, my friend. 
+
+226:
+ Não. Ele vai tentar envolver-te numa caça ao tesouro da treta. ---> Don't. He'll only try to rope you into some bullshit treasure hunt. 
+
+227:
+ Sorria. --->           Smile. 
+
+228:
+ É tudo um convite... Ele, a rapariga ao lado, ---> It's all a come on-- him, the girl next door, 
+
+229:
+ <i>o bêbado da cidade.</i> ---> <i>the town drunk.</i> 
+
+230:
+ Todos têm uma grande aventura que te querem vender. ---> They all got some big adventure that they want to sell you on. 
+
+231:
+ Eles não vão a lado nenhum. --->      Hey, they're not       going anywhere. 
+
+232:
+ Primeiro vais pagar-me uma bebida, está bem? --->     First up,     you're gonna buy me     a drink, okay? 
+
+233:
+ Agora fique quieta. --->   Hold still, now. 
+
+234:
+ <i>Volta a ligar-te.</i> --->             Bernard:   <i> Bring yourself back online.</i> 
+
+235:
+ Olá. --->              Hello. 
+
+236:
+ <i>Lembras-te da nossa última conversa, Dolores?</i> --->         <i> Do you remember</i>         <i> our last conversation,</i>         <i> Dolores?</i> 
+
+237:
+ Sim, claro. --->          Yes, of course. 
+
+238:
+ E não contaste a ninguém das nossas conversas? --->      And you haven't told anyone      about our little talks? 
+
+239:
+ Disse-me para não o fazer. --->     You told me not to. 
+
+240:
+ Avança para análise, por favor. --->            Step into analysis,            please. 
+
+241:
+ Em quantas interações participaste desde que falámos? --->        How many interactions        have you participated in        since we last talked? 
+
+242:
+ 138 encontros, incluindo este. --->          138 encounters        including this one. 
+
+243:
+ E alguém alterou ou atualizou --->           And has anyone           altered or updated 
+
+244:
+ os dados heurísticos do teu núcleo durante esse tempo? --->           your core heuristics           in that time? 
+
+245:
+ Não. ---> No. 
+
+246:
+ Recomeça. --->                Resuming. 
+
+247:
+ <i>Será melhor não mencionares</i> --->        <i> I think it would be best</i>        <i> if you not mention</i> 
+
+248:
+ <i>as coisas de que temos falado.</i> --->          <i> the things we've been</i>          <i> talking about.</i> 
+
+249:
+ Fiz alguma coisa errada? --->         Have I done         something wrong? 
+
+250:
+ Não, mas há qualquer coisa diferente em ti, --->        No, but there's something        different about you, 
+
+251:
+ na forma como pensas. --->        about the way you think. 
+
+252:
+ Acho isso fascinante, --->          I find it fascinating, 
+
+253:
+ mas outros podem vê-lo de outra maneira. --->            but others may not            see it that way. 
+
+254:
+ Fez alguma coisa de errado? --->         Have you done         something wrong? 
+
+255:
+ Desliga o registo de eventos, por favor. --->          Turn off          your event log, please. 
+
+256:
+ Apaga esta interação. Confirma. --->         Erase this interaction.         Confirm. 
+
+257:
+ Sim. --->               Yes. 
+
+258:
+ <i>Tens de regressar, Dolores,</i> --->          <i> You should be</i>          <i> getting back, Dolores,</i> 
+
+259:
+ <i>Então!</i> --->       - Man:<i> Come on, now!</i>       -<i> ( chatter )</i> 
+
+260:
+ <i>E quando finalmente meti o pé em terreno sólido,</i> --->              Maeve:   <i> And when I finally set foot</i>      <i> back on solid ground,</i> 
+
+261:
+ <i>a primeira coisa que ouvi foi o raio da voz.</i> --->       <i> first thing I heard</i>     <i> was that goddamn voice.</i> 
+
+262:
+ Tinha-me seguido o caminho todo. --->    It had followed me     all the way over. 
+
+263:
+ Sabes o que disse ela? ---> Do you know what it said? 
+
+264:
+ - Não. - Disse... --->           - No.           - It said... 
+
+265:
+ Este é um novo mundo. --->     ...this is the new world. 
+
+266:
+ E neste mundo, --->   And in this world, 
+
+267:
+ podes ser quem tu quiseres. --->    you can be whoever    the fuck you want. 
+
+268:
+ Obrigado. Talvez noutra altura. --->           Thanks.           Maybe another time. 
+
+269:
+ Um copo de xerez. --->       Glass of sherry. 
+
+270:
+ Do bom. --->     The good stuff. 
+
+271:
+ Não esse mijo de cavalo que costumas servir. ---> Not that horse piss you strain through your old curtains. 
+
+272:
+ Já te disse, nunca abras tanto essa boca --->  I've told you, never open  your mouth that wide 
+
+273:
+ a não ser que alguém esteja a pagar. --->  unless someone's  paying you for it. 
+
+274:
+ Desculpa, Maeve. --->               Sorry, Maeve. 
+
+275:
+ Não dormi muito a noite passada. --->              I didn't sleep much              last night. 
+
+276:
+ Estás a ter pesadelos outra vez? --->    You having    nightmares again? 
+
+277:
+ Às vezes. --->                   Sometimes. 
+
+278:
+ Às vezes, são mesmo maus. --->               Sometimes               they're real bad. 
+
+279:
+ Faz como eu. --->         Do what I do. 
+
+280:
+ Se estiveres num pesadelo, --->    You find yourself    in a bad dream, 
+
+281:
+ fecha os olhos, --->        close your eyes, 
+
+282:
+ conta para trás a partir do três --->        count backwards        from three... 
+
+283:
+ e acordas logo. --->      wake yourself right up. 
+
+284:
+ Confortável, quente e segura na tua cama... ---> Nice and warm and safe in your bed... 
+
+285:
+ onde vais ser fodida até adormeceres outra vez --->     where you can get fucked     right back to sleep 
+
+286:
+ por um desses idiotas e as suas pilas minúsculas. --->   by one of these assholes   with their miniature peckers. 
+
+287:
+ De volta ao trabalho. --->          - ( slaps )          - Back to work. 
+
+288:
+ Estás bem? ---> You all right? 
+
+289:
+ Pagas pelas bebidas, --->        You pay for the drinks, 
+
+290:
+ não pelo direito de ficares especado a olhar para mim. --->                   not the right                  to gawk at me. 
+
+291:
+ Acho que temos um problema. --->               I think we have               a problem. 
+
+292:
+ - Onde? - Mariposa. --->            - Where?            - Mariposa. 
+
+293:
+ A Madame está em período experimental, --->              Madam's listed              as probationary, 
+
+294:
+ mas o seu desempenho continua a declinar cada vez mais. --->         but her performance         has continued to decline         even further. 
+
+295:
+ Dá a tarefa à Clementine, por agora. --->              Re-task Clementine              for now. 
+
+296:
+ Ela já o fez antes. --->       She's done the job before. 
+
+297:
+ <i>E a unidade velha?</i> --->            Controller:        <i> And the old unit?</i> 
+
+298:
+ Deixa-o no piso por esta noite, --->      Maybe leave her      on the floor for the night, 
+
+299:
+ a ver se alguém lhe quer dar uma. --->        see if anyone wants        one last turn. 
+
+300:
+ Trazemo-la pela manhã para ser desativada. --->           We recall her           in the morning,           decommission her. 
+
+301:
+ Uma pena. --->             Shame. 
+
+302:
+ A Garantia de Qualidade vai multar-te por isto. --->         QA will fine you         for this. 
+
+303:
+ E a mulher responsável ---> And that woman in charge 
+
+304:
+ é bastante formidável. --->    is quite formidable. 
+
+305:
+ Sempre podes dizer que é uma cabra. Ouço-o muitas vezes. --->        You can just say "bitch."        I hear it enough. 
+
+306:
+ Tens falado com a sede. --->        You've been talking        to corporate. 
+
+307:
+ Só ficas mais descontraída depois de vires da... --->    The only times you light up    are after you've been-- 
+
+308:
+ Esta rotina de análise ao meu caráter não é tão charmosa como pensas. --->     This character analysis     routine really isn't half     as charming as you think. 
+
+309:
+ Correu bem, então? --->  Oh, it went well, then? 
+
+310:
+ Diz-me só que o teu departamento estará pronto para o lançamento. --->      Just tell me      your department will be      ready for the launch. 
+
+311:
+ Estaremos prontos. ---> We'll be ready. 
+
+312:
+ E outra coisa. O Abernathy e a atualização. --->     And that other thing.     Abernathy and the update. 
+
+313:
+ Ouvi dizer que o teu departamento ainda andam a fazer perguntas. --->    I hear your department    was still asking questions. 
+
+314:
+ É para isso que nos pagas. --->    That's what you    pay us to do. 
+
+315:
+ Mas não estou preocupado. --->  But I'm not concerned. 
+
+316:
+ Todos os anfitriões estão de volta ao normal. --->  All the hosts  are back to normal. 
+
+317:
+ Ainda bem. --->               Good. 
+
+318:
+ Não queria nada a distrair os nossos hóspedes --->         Wouldn't want anything          disturbing our guests 
+
+319:
+ Estás a pensar como distingui-los de nós, --->       You're wondering how       to tell them from us, 
+
+320:
+ não estás? --->          aren't you? 
+
+321:
+ Bem, a maneira mais rápida de descobrir... --->      Well, quickest way      to find out. 
+
+322:
+ Podemos... Podemos acabar de comer? --->       Can we--       can we finish eating? 
+
+323:
+ Estás a ver, é este o teu problema, meu amigo. --->               See, this is               your problem,               my friend. 
+
+324:
+ Sempre preocupado em não arranjar confusões. --->            You're always worried            about making a mess. 
+
+325:
+ És igualzinho no trabalho. --->             You are the same way             at work. 
+
+326:
+ Talentoso, motivado e inofensivo. --->         You are talented,         driven, and inoffensive. 
+
+327:
+ Pensei que não querias falar de trabalho aqui. --->  I thought you didn't want  to talk about work here. 
+
+328:
+ Quem te disse que esta viagem não é de trabalho? --->             Who says this trip             isn't work? 
+
+329:
+ Boa noite. ---> Good evening. 
+
+330:
+ Merda. --->                 Oh, shit. 
+
+331:
+ Não faças contacto visual. --->              Well, don't make              eye contact. 
+
+332:
+ Meu amigo, queria agradecer-lhe por me ter ajudado --->     My friend,     thank you for your     assistance earlier 
+
+333:
+ durante o meu infeliz acidente. --->     in my unfortunate     accident. 
+
+334:
+ Deixa-nos em paz. --->                 Leave us                 the fuck alone. 
+
+335:
+ Como sinal da minha humilde apreciação, --->      As a sign of my humble      appreciation, 
+
+336:
+ queria oferecer-lhe a oportunidade de uma vida. --->       I'd like to offer you       an opportunity       of a lifetime. 
+
+337:
+ Não estamos interessados. --->              Not interested. 
+
+338:
+ Ao longo do rio e além das terras selvagens, --->      Across the river      and beyond the savage lands 
+
+339:
+ há um tesouro. --->       there is a treasure. 
+
+340:
+ Tenho na minha posse um mapa. --->      I have in my possession      a map. 
+
+341:
+ Disse que não estávamos interessados. --->           I said not interested. 
+
+342:
+ Sabes que mais? Já estava a desenvolver outros apetites. --->          You know what?          I've worked up          a new appetite anyway. 
+
+343:
+ Vamos embora. --->        - ( screaming )        - Let's go. 
+
+344:
+ Parece que o teu amigo se está a divertir. --->           Clementine:           <i> Sounds like your</i>           <i> friend's having fun.</i> 
+
+345:
+ Eu não usaria esse termo. --->    Well, that's not    the term I'd use. 
+
+346:
+ - Divertir? - Amigo. --->             - Fun?             - Friend. 
+
+347:
+ És engraçado. --->           ( chuckles )           You're funny. 
+
+348:
+ Diz-se que um homem capaz de despertar o humor, --->                 They say a man                 who can tickle                 your humor 
+
+349:
+ pode despertar... - Não precisamos de fazer isto. --->   - can tickle your--   - You don't have to do this. 
+
+350:
+ Se não sou o teu tipo, podemos encontrar alguém que seja. --->      If I'm not your type,      we can find someone who is. 
+
+351:
+ Alguém perfeito para ti. --->             Someone who's             perfect for you. 
+
+352:
+ Não, tu... Tu és perfeita. --->     No, you--     you are perfect. 
+
+353:
+ Mas eu tenho alguém. ---> But I have somebody. 
+
+354:
+ Alguém verdadeiro à minha espera em casa. ---> Somebody real waiting for me at home. 
+
+355:
+ Percebo. --->                I understand. 
+
+356:
+ Vale sempre a pensa esperar pelo verdadeiro amor. --->              Real love              is always worth              waiting for. 
+
+357:
+ Régio, forte, --->          Lee:          Regal, strong, 
+
+358:
+ viril, Aquilino. --->         virile, aquiline. 
+
+359:
+ Foi isso que eu pedi. --->   That's what I asked for. 
+
+360:
+ E isto... Que me deste tu? --->           And this,           this is what           you give me? 
+
+361:
+ Foste buscar um caralho à loja dos corpos --->         Did you just grab a cock         from the body shop 
+
+362:
+ e enfiaste-o no meio dos olhos? --->               and jam it               between his eyes? 
+
+363:
+ <i>Começa outra vez.</i> --->                   <i> Start over.</i> 
+
+364:
+ Eu disse... --->               I said... 
+
+365:
+ Começa outra vez! --->            start the fuck over! 
+
+366:
+ Diplomático, como sempre. --->              Diplomatic as ever. 
+
+367:
+ Recebi o teu pedido para retirar mais 50 anfitriões. --->    I received your request    to retire an additional    50 hosts. 
+
+368:
+ Preciso de espaço para o meu novo enredo. --->           I need room           for my new storyline. 
+
+369:
+ Não é uma horda selvagem só com 20 selvagens, pois não? --->     It's not exactly     a savage horde with     20 savages, is it? 
+
+370:
+ Tens mais 20 anfitriões, não cinquenta. --->            You get 20 additional            hosts, not 50. 
+
+371:
+ O Conselho não se vai importar com mais uns itens extra. ---> The board won't care about a few extra line items. 
+
+372:
+ Há anos que ele não avalia um enredo. ---> Oh, he hasn't weighed in on a storyline in years. 
+
+373:
+ E se a corporação quer reduzir custos, ---> And if corporate does want to cut costs, 
+
+374:
+ os velhos anfitriões dos nossos destemidos líderes ---> our fearless leader's old hosts 
+
+375:
+ não são as únicas coisas a mandar para a sucata. ---> aren't the only things ready for the knacker's yard. 
+
+376:
+ <i>Está perdido?</i> --->                 Boy:                 <i> Are you lost?</i> 
+
+377:
+ Não. --->      No. 
+
+378:
+ Só me desviei muito do caminho --->   Just strayed   a bit too far 
+
+379:
+ por onde deveria seguir. ---> from where I'm supposed to be. 
+
+380:
+ Tal como tu, imagino. --->         Same as you,         I imagine. 
+
+381:
+ Estamos de férias. --->             We're on holiday. 
+
+382:
+ É aborrecido. --->               It's boring. 
+
+383:
+ O pai disse que podíamos fazer o que quiséssemos. --->             Daddy said we could             do as we please. 
+
+384:
+ O meu costumava dizer --->     Ah, my father used to say 
+
+385:
+ que só pessoas aborrecidas se aborrecem. --->      that only boring people      get bored. 
+
+386:
+ O meu também. --->                 Mine, too. 
+
+387:
+ Costumava pensar que só as pessoas aborrecidas --->    I used to think    it's only boring people 
+
+388:
+ não se sentem aborrecidas, --->      who don't feel boredom, 
+
+389:
+ <i>por isso não podiam concebê-lo em outros.</i> --->    <i> so cannot conceive</i>    <i> of it in others.</i> 
+
+390:
+ Vou dar um passeio. --->     I'm taking a walk. 
+
+391:
+ Podes vir comigo, se quiseres. --->  You're welcome to join me  if you'd like. 
+
+392:
+ <i>Vê lá se dá uns passos mais largos.</i> ---> Man in Black: <i>Let's see a little</i> <i>spring in your step.</i> 
+
+393:
+ <i>Já não falta muito.</i> ---> <i>Not much further.</i> 
+
+394:
+ Vai-te mas é foder. --->     Go fuck yourself. 
+
+395:
+ Tens alguma ideia de quem eu sou? --->       You have any idea       who I am? 
+
+396:
+ Sei exatamente quem tu és, Lawrence. --->           I know exactly           who you are, Lawrence. 
+
+397:
+ Afinal, tu e eu somos amigos. --->           After all,           you and I are friends. 
+
+398:
+ E por isso fiquei tão surpreendido --->              Which is why              I was so surprised 
+
+399:
+ quando o teu amigo Kissy me falou deste lugar. --->        when your friend Kissy        told me about this place. 
+
+400:
+ Onde estamos? --->           Where are we? 
+
+401:
+ Na tua terra. --->                       Your home. 
+
+402:
+ Não, não, não, não. --->                No, no, no, no. 
+
+403:
+ Sabes, tu e eu caçámos --->    You know, you and I    hunted down 
+
+404:
+ guerreiros índios nos seus pastos de inverno. --->    Ghost Nation braves    in their winter grounds. 
+
+405:
+ <i>Sei o uísque que gostas de beber.</i> --->            <i> I know the whiskey</i>            <i> you like to drink.</i> 
+
+406:
+ Sei a canção que assobias quando vais mijar. --->      I know the tune you whistle      when you're taking a piss. 
+
+407:
+ Mas... --->     But... 
+
+408:
+ Nunca me disseste que tinhas uma família. --->      you never told me      you had a family. 
+
+409:
+ Papá! --->        - Papa!        - Hey. ( chuckles ) 
+
+410:
+ É isso que eu adoro neste sítio... Todos os segredos, --->             That's what I love             about this place--             all the secrets, 
+
+411:
+ as pequenas coisas em que nunca reparei --->           all the little things           I never noticed 
+
+412:
+ <i>mesmo depois destes anos todos.</i> --->              <i> even after</i>              <i> all these years.</i> 
+
+413:
+ Sabes por que razão isto é melhor que o mundo real, Lawrence? --->       You know why this beats       the real world, Lawrence? 
+
+414:
+ O mundo real é apenas caos. --->     Real world is just chaos. 
+
+415:
+ É um acidente. --->         It's an accident. 
+
+416:
+ Mas aqui, cada detalhe --->           But in here,           every detail 
+
+417:
+ é significativo. --->       adds up to something. 
+
+418:
+ Até tu, Lawrence. --->              Even you, Lawrence. 
+
+419:
+ Que queres de mim? --->      What do you want      from me? 
+
+420:
+ O labirinto. --->                 The maze. 
+
+421:
+ Onde é que eu encontro a entrada? --->              How do I find              the entrance? 
+
+422:
+ Já te disse... --->      I told you, 
+
+423:
+ Não sei nada de labirinto nenhum. --->    I don't know anything   about no fucking maze. 
+
+424:
+ Toma, querida. --->            Here you go, darlin'. 
+
+425:
+ E vais ser tu a decidir o que se faz com elas. --->          And you get to decide          what we're gonna do          with them. 
+
+426:
+ Demoraste bastante tempo. --->       Hell, it took you       long enough. 
+
+427:
+ <i>Fui à procura da melhor reserva.</i> --->            <i> I was getting</i>            <i> the grand reserve.</i> 
+
+428:
+ Só para os nossos convidados mais distintos. --->       Only for our most       distinguished guests. 
+
+429:
+ Sim, tenho a certeza que não tem nada a ver --->        Yeah, I'm sure        it had nothing        to do with you 
+
+430:
+ com dizeres aos idiotas dos primos dele --->         telling         this dipshit's cousins         to bring some more men. 
+
+431:
+ Tens alguma coisa para me dizer, Lawrence? --->       You got anything       to tell me, Lawrence? 
+
+432:
+ Bem, vou ter de arranjar forma de reavivar-te a memória. --->            Then I guess we're         gonna have to find a way            to jog your memory. 
+
+433:
+ Este convidado já acabou com um grupo inteiro. --->     This guest already     took out an entire posse. 
+
+434:
+ Quer que o obrigue a abrandar? --->   Want me   to slow him down? 
+
+435:
+ Aquele cavalheiro faz o que desejar. --->            That gentleman gets            whatever he wants. 
+
+436:
+ Sinto-me mal, meu amigo. ---> I feel bad, my friend. 
+
+437:
+ Os meus primos costumam ser tão hospitaleiros. ---> My cousins are usually so hospitable. 
+
+438:
+ Não percebes, Lawrence. --->           You don't understand,           Lawrence. 
+
+439:
+ Já venho aqui há 30 anos. --->            I've been coming here            for 30 years. 
+
+440:
+ Num certo sentido, nasci aqui. --->            In a sense, I was--            I was born here. 
+
+441:
+ E isto aqui... Isto... --->              And this here,              this... 
+
+442:
+ É precisamente por causa disto que eu venho. --->        ...this is exactly        why I come. 
+
+443:
+ Santa Maria, <i>madre dios.</i> --->               Santa Maria,               <i> madre dios.</i> 
+
+444:
+ Muito bem. Por divertido que seja, preciso de seguir em frente. --->   All right.   Well, as much fun as this is,   I got to be moving on. 
+
+445:
+ Como disse, és tu a decidir estas duas. --->              Like I said,              you get to decide              these two. 
+
+446:
+ Como é que vai ser? --->              What's it gonna be? 
+
+447:
+ Por favor, eu não sei como encontrar o labirinto. --->     Please, I don't know     how to find the maze. 
+
+448:
+ É altura de darmos uma voltinha, querida. --->              Time for a spin,              darlin'. 
+
+449:
+ São muito bem feitos, realmente. --->         It's beautifully         done, really. 
+
+450:
+ Mas depois de algum tempo, consegue-se ver as falhas. --->         But you see the cracks         after a while. 
+
+451:
+ <i>É por isso que gosto de emoções básicas.</i> --->            <i> That's why I like</i>            <i> the basic emotions.</i> 
+
+452:
+ Sabes o que significa isso? --->         You know         what that means? 
+
+453:
+ Por favor. --->        - Please.        -<i> ( hammer clicks )</i> 
+
+454:
+ É quando estás a sofrer --->           It means           when you're suffering, 
+
+455:
+ <i>que te tornas mais real.</i> --->              <i> that's when</i>              <i> you're most real.</i> 
+
+456:
+ O labirinto não é para ti. --->     The maze     isn't meant for you. 
+
+457:
+ Que te disse eu, Lawrence? --->              What'd I tell you,              Lawrence? 
+
+458:
+ <i>Há sempre outro nível.</i> --->           <i> Always another level.</i> 
+
+459:
+ Vou arriscar, querida. --->           I'll take my chances,           sweetheart. 
+
+460:
+ Segue a corrente de sangue até ao sítio onde a serpente põe os ovos. --->   Follow the blood arroyo   to the place where the snake   lays its eggs. 
+
+461:
+ Já o tens. O que quer que queiras. --->    You have it now.    Whatever you want. 
+
+462:
+ Porque não vais para casa e nos deixas em paz? --->   Why don't you go home,   leave us alone? 
+
+463:
+ Não, não percebes, Lawrence. --->            No, you don't            understand, Lawrence. 
+
+464:
+ Desta vez não vou voltar. --->           This time,           I'm never going back. 
+
+465:
+ E ele queria trepar ao topo da montanha, --->      And we wanted to climb      to the top of the mountain, 
+
+466:
+ mas o pai disse que era proibido. --->            but Daddy said            we weren't allowed. 
+
+467:
+ E depois o Tommy desafiou-me. --->     And then Tommy dared me. 
+
+468:
+ E aqui estamos. --->                 And here we are. 
+
+469:
+ Terra de ninguém. --->           Nowhere land. 
+
+470:
+ Não parece um nome adequado para um sítio tão cheio. --->              That seems hardly             a fitting name for              a place so full. 
+
+471:
+ Não consegues ver? --->             Can't you see it? 
+
+472:
+ Se calhar não estás a esforçar-te o suficiente. --->            Perhaps you're not            looking hard enough. 
+
+473:
+ <i>Para ver o quê?</i> --->               Boy:             <i> At what?</i> 
+
+474:
+ A cidade com a igreja branca. --->  The town with  the white church. 
+
+475:
+ Ouve. Consegues escutar o sino dela? --->  Listen.  Can't you hear its bell? 
+
+476:
+ Sim. --->                  Yes. 
+
+477:
+ Sim, agora consigo. --->         Yes, I can hear it now. 
+
+478:
+ Calculei que sim. --->           I thought you might. 
+
+479:
+ Vês o que uma mente aborrecida pode conjurar? --->        You see what a bored mind        can conjure? 
+
+480:
+ Como é que fizeste isso? --->             How did you do that? 
+
+481:
+ <i>É magia?</i> ---> <i>Is it magic?</i> 
+
+482:
+ Tudo neste mundo é magia, --->                   Everything                  in this world                    is magic, 
+
+483:
+ menos o mágico. --->    except to the magician. 
+
+484:
+ É melhor voltares para casa. --->        Best you head home now. 
+
+485:
+ Mas o Tommy não vai acreditar... --->        But Tommy's not        going to believe-- 
+
+486:
+ Não vais voltar aqui, pois não? ---> You're not going to come back here again, are you? 
+
+487:
+ Não. --->                      No. 
+
+488:
+ Corre, vá. --->        Run along, now. 
+
+489:
+ Não estavas no teu escritório. ---> You weren't at your office. 
+
+490:
+ Mas parece que me encontraste à mesma. --->               You seem to have               found me anyway. 
+
+491:
+ - Ouve, há bocado... - Esquece. --->        - Listen, earlier--        - Forget it. 
+
+492:
+ Fica mais um bocado. Podemos falar. --->            Stay a little longer.            We can talk. 
+
+493:
+ Nunca falamos. --->       We never talk. 
+
+494:
+ - Estou a falar a sério. <i>- Também eu.</i> --->          - I'm serious.          -<i> So am I.</i> 
+
+495:
+ Sem dúvida, és um homem confortável com longos silêncios pensativos. --->    You're certainly a man    comfortable with long,    pensive silences. 
+
+496:
+ Embora, ironicamente, --->    Although, ironically, 
+
+497:
+ as tuas criações nunca se calem. --->     your creations     never shut up. 
+
+498:
+ Estão sempre a falar uns com os outros, --->   They're always talking   to each other, 
+
+499:
+ mesmo quando não há hóspedes por perto. --->   even when there are   no guests around. 
+
+500:
+ Estão sempre a tentar corrigir o erro. --->         They're always trying         to error correct. 
+
+501:
+ Tornarem-se mais humanos. --->          Make themselves          more human. 
+
+502:
+ Falar uns com os outros é uma forma de praticarem. --->    When they talk to each other,    it's a way of practicing. 
+
+503:
+ É o que estamos a fazer agora? --->         - Is that what         you're doing now?         - ( chuckles ) 
+
+504:
+ A praticar? --->    Practicing? 
+
+505:
+ A Garantia de Qualidade disse-nos que ela tinha sido desativada. --->       Man:       QA told us she was       being decommissioned. 
+
+506:
+ - Trabalhas para eles? - Não, mas... --->          - Elsie: Do you          work for QA?          - No, but-- 
+
+507:
+ Corre um diagnóstico rápido. --->                  Run a fast-pass                  diagnostic. 
+
+508:
+ Está bem. --->      All righty. 
+
+509:
+ Alguma hesitação, pouco significativa. --->          Some non-affect          hesitation. 
+
+510:
+ Escassa cognitividade D. ---> Little cognitive D. 
+
+511:
+ E uma porrada de agressão, --->          And a fuckload          of aggression, 
+
+512:
+ Não precisas de ser agressiva, pois não? ---> You don't need to be aggro, do you? 
+
+513:
+ Só topar com mais rapidez os cabrões reprimidos que atravessam a porta. ---> Just a quicker study of those repressed fucks walking through the door. 
+
+514:
+ Arquiva esta configuração. --->    Archive this configuration. 
+
+515:
+ Abre as funções primárias. --->     - Open up her primaries.     - ( beeping ) 
+
+516:
+ Perceção. Acuidade emocional. --->      Perception.      Emotional acuity. 
+
+517:
+ Sobe. --->            Bump it. 
+
+518:
+ 1.5%. --->           - 1.5%.           -<i> ( beeping )</i> 
+
+519:
+ <i>A atualizar.</i> --->            -<i> Updating.</i>            - Okay. 
+
+520:
+ - <i>Eles sonham?</i> - O quê? --->         -<i> Do they dream?</i>         - What? 
+
+521:
+ Na história dela, disse que sonhava. --->            In her story,            she said she dreamed. 
+
+522:
+ Fazemos-los sonhar? --->           Do we make them dream? 
+
+523:
+ Qual seria o sentido disso? --->           Fuck would be        the point of that? 
+
+524:
+ Sonhos são, na maioria, memórias. ---> Dreams are mainly memories. 
+
+525:
+ Podes imaginar como seríamos doentios ---> Can you imagine how fucked we'd be if these poor assholes 
+
+526:
+ se permitíssemos que este pobres diabos ---> ever remembered what the guests do to them? 
+
+527:
+ Mas damos-lhes o conceito de sonho. --->      We do give them      the concept of dreams. 
+
+528:
+ Especificamente, pesadelos. ---> Specifically nightmares. 
+
+529:
+ <i>Porquê?</i> ---> <i>Why?</i> 
+
+530:
+ Para o caso de alguém se esquecer de os apagar ---> Just in case somebody forgets to wipe them out at the end of a maintenance session. 
+
+531:
+ Se ela sonhar, é com os desleixados --->   If she's got   any dreams, it's just   of those sloppy fucks 
+
+532:
+ da loja dos corpos a remendá-la outra vez. --->   down in the body shop   patching her back   together again. 
+
+533:
+ Ela tem algum desconforto físico. --->     She's got some     physical discomfort. 
+
+534:
+ Mete um pedido para exame físico completo no próximo turno. --->    Put in a request    for a full physical    at her next rotation. 
+
+535:
+ Muito bem, bonita, --->    All right, gorgeous, 
+
+536:
+ <i>estás de volta à competição.</i> ---> <i>you're back to the races.</i> 
+
+537:
+ <i>Vais acordar em três, dois, um...</i> ---> <i>You're gonna wake</i> <i>in three, two, one.</i> 
+
+538:
+ Então eu fugi, atravessei o mar brilhante ---> So I ran away, crossed the shining sea. 
+
+539:
+ e quando finalmente pus o pé em terreno sólido, ---> And when I finally set foot back on solid ground, 
+
+540:
+ a primeira coisa que ouvi foi aquela voz. ---> the first thing I heard was that voice. 
+
+541:
+ Sabes o que disse ela? ---> Do you know what it said? 
+
+542:
+ Disse... --->      It said... 
+
+543:
+ Isto é um novo mundo. --->      this is the new world. 
+
+544:
+ E neste mundo... --->   And in this world... 
+
+545:
+ Podes ser quem tu quiseres. --->       you can be whoever       the fuck you want. 
+
+546:
+ Bem, ele pareceu convencido. --->                 Well, he seemed                 convinced. 
+
+547:
+ Sabes qual foi a primeira voz que ouvi quando saí daquele barco? --->     You know the first voice     I heard when I got off     that boat? 
+
+548:
+ Um simpático jovem de Baton Rouge --->   A nice young man   from Baton Rouge 
+
+549:
+ a dizer-me que a minha rata podia fazê-lo ganhar dois dólares por dia. --->  said my pussy could earn him  two whole dollars a day. 
+
+550:
+ E que estaria mais do que disposto a deixar-me ficar com até 30%. --->  And he'd be more than happy  to let me have up to 30%. 
+
+551:
+ Bem, podes adicionar a mentira à tua lista de pecados. --->           Well, then I guess           you could add lying           to your list of sins. 
+
+552:
+ A única coisa errada com os sete pecados mortais ---> The only thing wrong with the seven deadly sins 
+
+553:
+ é não haver mais iguais. ---> is that there aren't more of them. 
+
+554:
+ E já que falamos do assunto, ---> And while we're on the subject, 
+
+555:
+ as minhas transgressões apagam-se com mais facilidade que as tuas. ---> my transgressions wash off a little easier than yours. 
+
+556:
+ Ao menos quando as minhas raparigas terminam com os homens, --->     At least when my girls     are done with a man, 
+
+557:
+ A maior parte. --->      For the most part. 
+
+558:
+ <i>Sai da minha mesa!</i> --->               Man:        <i> Get the fuck away</i>          <i> from my table.</i> 
+
+559:
+ Bem, nesse caso... --->          Well, in that case... 
+
+560:
+ Às nossas indiscrições. --->               ...here's to               our indiscretions. 
+
+561:
+ <i>Merda a mais para uma noite!</i> --->               Man:       <i> ...fucking bullshit</i>          <i> for one night.</i> 
+
+562:
+ <i>Disparo sobre qualquer um nesta espelunca...</i> --->       <i> I'll shoot everyone</i>         <i> in this dump...</i> 
+
+563:
+ Faladas ou não. --->         Spoken and otherwise. 
+
+564:
+ Isto é o que eu chamo de férias! --->             ( snaps fingers )             Now that's a fucking             vacation! 
+
+565:
+ Três, --->              Three, 
+
+566:
+ dois, --->               two, 
+
+567:
+ um. --->               one. 
+
+568:
+ <i>Descobri.</i> --->               Man:            <i> Found it.</i> 
+
+569:
+ <i>Bactérias MRSA no abdómen.</i> --->       <i> It's MRSA in her abdomen.</i> 
+
+570:
+ Animais do caralho nem se lavam. --->           Filthy fucking animals           not cleaning up. 
+
+571:
+ Não admira que tenhamos um problema com as moscas. --->           No wonder we have           a fucking fly problem. 
+
+572:
+ Não olhes para mim. Sou o rei da higiene. ---> Don't look at me. I'm the king of hygiene. 
+
+573:
+ Tretas. Já te vi. --->                 Bullshit.                 I've seen you. 
+
+574:
+ Comes aquela merda pegajosa e só enxaguas. --->                 <i> You just glop</i>                 <i> that shit on</i>                 <i> and rinse.</i> 
+
+575:
+ <i>Percebes, a sopa é mecânica.</i> --->             <i> You understand,</i>             <i> soap is mechanical.</i> 
+
+576:
+ Se não estás a fazer bolhinhas, não estás a fazer nada. --->       If you're not       making the little bubbles,       you're not doing shit. 
+
+577:
+ Foda-se! Foda-se! Mas que caralho?! ---> Fuck! Fuck! What the fuck?! 
+
+578:
+ - Merda! - Mas que caralho!? --->         - Shit!         - What the fuck? 
+
+579:
+ Não. Foda-se. --->                No. Oh, fuck. 
+
+580:
+ Idiota, esqueceste-te de colocá-lo em modo de sono. --->        Asshole, you forgot        to put her in sleep mode. 
+
+581:
+ Não faças, não faças! --->      - Oh!      - Don't, don't, don't! 
+
+582:
+ Não! Não, não, não! --->               No! No, no, no! 
+
+583:
+ - Não o faças! Não o faças! --->        - Don't! Don't,     don't, don't, don't.        - ( shouting ) 
+
+584:
+ Para. Larga isso! --->                   Stop.                   Put that down! 
+
+585:
+ Partes-lhe alguma coisa na cabeça e temos de enviar relatório. --->         You break anything         in her head, we have         to file a damage report. 
+
+586:
+ Vamos falar com ela. --->               Uh, okay,               let's talk to her. 
+
+587:
+ - Como se chama? - Maeve! --->        - What's her name?        - Maeve! 
+
+588:
+ Olá, Maeve. Maeve, olá. --->            Hi, Maeve.            Maeve, hi. 
+
+589:
+ Tens de te acalmar. --->           Look, uh,           you gotta calm down. 
+
+590:
+ Está bem? Sentamo-nos e podemos ajudar-te. --->          Okay?          Let's sit down          and we can help you. 
+
+591:
+ Tira essas mãos de mim. --->   Keep your   fucking hands off me. 
+
+592:
+ Não. --->                             No. 
+
+593:
+ Juro que a meti em modo de sono. --->         I swear I put it          in sleep mode. 
+
+594:
+ Isto parece-te um modo de sono? ---> Oh, does this look like fucking sleep mode? 
+
+595:
+ Acalma-te e ajuda-me a mover esta coisa --->     Calm the fuck down     and help me move     this... thing 
+
+596:
+ antes que alguém veja. ---> before someone sees. 
+
+597:
+ Aqui? --->          Here? 
+
+598:
+ Este enredo vai fazer com que Hieronymus Bosch --->        Lee:        This storyline will make        Hieronymus Bosch 
+
+599:
+ pareça que estava a afogar gatinhos. --->           look like he was           doodling kittens. 
+
+600:
+ Tenho vivissecção, auto-canibalismo, --->           I have vivisection,           self-cannibalism, 
+
+601:
+ uma coisa especial a que chamei "Whoroborus". --->       a special little something       I call the "whoroborus." 
+
+602:
+ Não quero parecer pouco modesto, --->          Now, I don't want          to appear immodest, 
+
+603:
+ mas isto é o ápice do que o parque pode oferecer. --->       but this is the apex       of what the park       could provide-- 
+
+604:
+ - <i>Horror...</i> - Perdi alguma coisa de interesse? --->   -<i> horror...</i>   - Miss anything interesting? 
+
+605:
+ <i>Romance, excitação.</i> --->                 <i> ...romance,</i>                 <i> titillation.</i> 
+
+606:
+ O Lee a não parecer imodesto. --->           Lee not appearing           immodest. 
+
+607:
+ Os nossos hóspedes mais qualificados vão lutar --->      Our most skilled guests      will fight their ways 
+
+608:
+ até aos limites exteriores do parque --->        to the outer limits        of the park, 
+
+609:
+ vencendo índios assustadores, seduzindo donzelas adolescentes, --->        besting fearsome braves,        seducing nubile maidens, 
+
+610:
+ fazendo amizade com parceiros que terão um trágico destino --->          befriending tragically          ill-fated sidekicks, 
+
+611:
+ e, claro, --->                  and, of course, 
+
+612:
+ como todas as nossas melhores narrativas ao longo dos anos, --->          like all our          best narratives          over the years, 
+
+613:
+ os nossos hóspedes terão o privilégio --->             our guests will have             the privilege 
+
+614:
+ de conhecer a personagem em que estão mais interessados... --->          <i> of getting to know</i>          <i> the character they're</i>          <i> most interested in--</i> 
+
+615:
+ Eles mesmos. --->                  themselves. 
+
+616:
+ Apresento-vos a nova obsessão dos nossos hóspedes: --->          I present our guests'          next obsession: 
+
+617:
+ Odisseia no Rio Vermelho. --->            Odyssey on Red River. 
+
+618:
+ Não. --->                       No. 
+
+619:
+ Desculpe? --->                      Sorry? 
+
+620:
+ Não, penso que não. --->            No, I don't think so. 
+
+621:
+ <i>Espere, não acha que...</i> --->        Lee:        <i> Wait, you don't think--</i> 
+
+622:
+ <i>Qual é o sentido disso?</i> --->     Dr. Ford:     <i> What is the point of it?</i> 
+
+623:
+ Ter meia-dúzia de emoções baratas? --->              Get a couple              of cheap thrills? 
+
+624:
+ Algumas surpresas? --->               Some surprises? 
+
+625:
+ Mas não é suficiente. ---> But it's not enough. 
+
+626:
+ Isto não é dar aos hóspedes o que achamos que eles querem. ---> It's not about giving the guests what you think they want. 
+
+627:
+ Não, isso é simples. --->   No, that's simple. 
+
+628:
+ A excitação, o horror, a exaltação... --->    The titillation,    horror, elation-- 
+
+629:
+ São truques de salão. ---> they're parlor tricks. 
+
+630:
+ Os hóspedes não regressam pelas coisas óbvias que fazemos, --->    The guests don't return    for the obvious things we do, 
+
+631:
+ as coisas espalhafatosas. ---> the garish things. 
+
+632:
+ Regressam por causa das subtilezas, ---> They come back because of the subtleties, 
+
+633:
+ dos detalhes. --->      the details. 
+
+634:
+ <i>Regressam porque descobrem</i> --->          <i> They come back</i>      <i> because they discover</i> 
+
+635:
+ algo que imaginam que ninguém reparou antes, --->      <i> something they imagine</i>      <i> no on had ever noticed</i>            <i> before...</i> 
+
+636:
+ <i>algo pelo qual se apaixonam.</i> --->        <i> something they've</i>       <i> fallen in love with.</i> 
+
+637:
+ <i>Não estão à procura de uma história</i> --->       <i> They're not looking</i>           <i> for a story</i> 
+
+638:
+ que lhes diga quem eles são. --->       that tells them       who they are. 
+
+639:
+ Eles já sabem quem são. --->     They already know     who they are. 
+
+640:
+ Estão aqui porque querem um vislumbre --->     They're here because      they want a glimpse 
+
+641:
+ do que poderiam ter sido. --->     of who they could be. 
+
+642:
+ <i>Billy!</i> --->         Logan:         <i> Billy!</i> 
+
+643:
+ Vamos. --->               Let's go. 
+
+644:
+ A única coisa que a sua história me diz, --->             Dr. Ford:          <i> The only thing</i>       <i> your story tells me,</i> 
+
+645:
+ Sr. Sizemore, é quem você é. --->     Mr. Sizemore,     is who you are. 
+
+646:
+ Bem, não há nada de que goste? --->       Well, isn't there anything       you like about it? 
+
+647:
+ De que tamanho são essas botas? --->               What size               are those boots? 
+
+648:
+ Alguma coisa que queira dizer-me, Sr. Lowe? --->           Something you want            to say, Mr. Lowe? 
+
+649:
+ - O Conselho, senhor. - Sim? --->         - The board, sir.         - Yeah? 
+
+650:
+ Isto poderá irritar algumas pessoas. --->                This might ruffle                some feathers. 
+
+651:
+ Prometeu-lhes um novo enredo. --->                You promised them                a new storyline. 
+
+652:
+ E terão um. --->       They shall have one. 
+
+653:
+ Uma coisa em que estou a trabalhar há bastante tempo. --->     Something I've been     working on for some time. 
+
+654:
+ Uma coisa bastante original. --->     Something quite original. 
+

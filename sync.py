@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import fileinput, re, collections
+import findNames as fN
 
 numSub = r"^([0-9])+(?!.)"   #expressão regular para o número da legenda no formato srt
 time = r"([0-9]+[:])+[0-9]+[,][0-9]+" #exp regular para o tempo da legenda no formato srt 
@@ -28,6 +29,9 @@ def createDicTextTime(subtitles): #cria um dicionário com o número da legenda 
 	j = 0
 	eachSub = {}
 	sub = 1	
+	nomes = {}
+	numbers = {}
+	num = 1
 
 	for sentence in listText:
 		if j < numText-1:
@@ -39,9 +43,12 @@ def createDicTextTime(subtitles): #cria um dicionário com o número da legenda 
 					z += 1
 				eachSub.update({sub : string})
 				sub += 1
+			fN.findNames(num, string, nomes)
+			fN.findNumbers(num, string, numbers)
+			num += 1
 			j = j+z+1
 
-	
+	print("DIOC:",numbers)
 	
 	finalDic = {}
 
