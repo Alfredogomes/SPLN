@@ -7,7 +7,6 @@ numSub = r"^([0-9])+(?!.)"   #expressão regular para o número da legenda no fo
 time = r"([0-9]+[:])+[0-9]+[,][0-9]+" #exp regular para o tempo da legenda no formato srt 
 text = r"[0-9]*['\s']?[A-Za-z]+" #exp. regular para o texto da legenda no formato srt
 
-
 palMai = r"(?:\b[A-ZÀ-Ý]\w+|[A-ZÀ-Ý]\.)"
 preposicao = r"d[eao]s?"
 fimDeFrase = r"([^A-ZÀ-Ý][.!?]\s+|\n{2,}(?:-\s*)?)([A-ZÀ-Ý])"
@@ -55,7 +54,7 @@ def createDicTextTime(subtitles): #cria um dicionário com o número da legenda 
 			num += 1
 			j = j+z+1
 
-	print("DIOC:",numbers)
+	print(eachSub)
 	
 	finalDic = {}
 

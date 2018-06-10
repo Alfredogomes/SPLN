@@ -42,5 +42,4 @@ def findNumbers(numSub, sub, numbers):
 
 #_____Main______
 #subtitles = fileinput.input()  #ler o input
-#teste = "<i> Wake up, Dolores.</i>"
 #findNames(teste)
