@@ -13,6 +13,7 @@ def anot(subtitles): #função que anota o ficheiro com identificação do núme
 	lastSecond=lastMinute=lastHour=0
 	currentSecond=currentMinute=currentHour=0
 	deadTimeHour=deadTimeMinute=deadTimeSeconds=0
+	hearingImpaired=0
 
 	i=0 										#int para escrever no ficheiro o número da linha em causa
 	fileAnot = open("legendaAnotadas.txt", "w") #abre o ficheiro para onde vamos "anotar" o programa
@@ -53,20 +54,26 @@ def anot(subtitles): #função que anota o ficheiro com identificação do núme
 							deadTimeSeconds=diffSecond+deadTimeSeconds-60
 						else:
 							deadTimeSeconds += diffSecond				
-				print("Time difference -> " + str(diffHour)+':'+str(diffMinute)+':'+str(diffSecond))	
+				#print("Time difference -> " + str(diffHour)+':'+str(diffMinute)+':'+str(diffSecond))	
 			lastSentence = string[2].split(':')
 			lastHour = lastSentence[0]
 			lastMinute = lastSentence[1]
 			lastSecond = lastSentence[2].split(',')[0]
 		elif(re.findall(text, line) != []): #se encontrar uma linha com texto escreve:
-				line = str(i) + " Text ------> " + line	
+				line = str(i) + " Text ------> " + line
+				lastSentence = line
 		elif(re.findall(numSub, line) != []): #se encontrar uma linha com o número da legenda escreve:
 				line = str(i) + " NumS ------> " + line
+		elif('[' in line): #se encontrar uma linha com legendas para hearing impaired (surdos)
+				hearingImpaired+=1
 		else:  #se a linha for apenas um "\n", escreve:
 			line = str(i) + line
 		fileAnot.write(line) #escreve a linha no ficheiro
 		i+=1 #incrementa o número da linha
-	print("Total dead time -> " + str(deadTimeHour) + ':'+ str(deadTimeMinute) + ':' + str(deadTimeSeconds))
+	print("----------------STATISTICS----------------")
+	print("Total alive time -> " + str(deadTimeHour) + ':'+ str(deadTimeMinute) + ':' + str(deadTimeSeconds))
+	print("Total dead time -> " + str(int(currentHour)-deadTimeHour) + ':'+ str(int(currentMinute)-deadTimeMinute) + ':' + str(abs(int(currentSecond)-deadTimeSeconds)))
+	print("Hearing impaired/Background noise -> " + str(hearingImpaired) + ' ocorrences')
 	fileAnot.close() #para fechar o ficheiro
 
 #_____Main______

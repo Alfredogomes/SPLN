@@ -7,10 +7,12 @@ import nomes as moreNames
 text = r'[A-Za-z](\.)?'
 number = r'[0-9]+'
 
-#dicionários com os nomes
+#dicionários com os nomes/localizacoes
 names = dict()
+places = dict()
+organization = dict()
+gpe = dict()
 
-#isto vai buscar apenas o texto??
 def anot(file):
     i=0
     anotado = []
@@ -31,6 +33,24 @@ def findNames(file):
                             names[name]+=1
                         else:
                             names[name]=1
+                    elif chunk.label() == 'LOCATION':
+                        name = ' '.join([c[0] for c in chunk])
+                        if places.get(name):
+                            places[name]+=1
+                        else:
+                            places[name]=1
+                    elif chunk.label() == 'ORGANIZATION':
+                        name = ' '.join([c[0] for c in chunk])
+                        if organization.get(name):
+                            organization[name]+=1
+                        else:
+                            organization[name]=1
+                    elif chunk.label() == 'GPE':
+                        name = ' '.join([c[0] for c in chunk])
+                        if gpe.get(name):
+                            gpe[name]+=1
+                        else:
+                            gpe[name]=1
                     # se não for do tipo person, ver se consta no dicionário
                     # e se constar incrementar a contagem dessa palavra
                     else : 
@@ -59,9 +79,9 @@ def joinWmoreNames(texto):
     return names
 
 #imprime o nome dos "personagens" e as vezes que eles aparecem
-def printPopularNames(names):
+def printPopularNames(names,type):
     for k,v in sorted(names.items(), key=lambda p:p[1], reverse=True):
-        print(k,v)
+        print(str(type) + ' -> ' + str(k) + ' has ' + str(v) + ' ocorrence(s)')
 
 #_____Main______
 file = fileinput.input()
@@ -69,4 +89,11 @@ texto = "".join(fileinput.input(sys.argv[1:]))
 
 names = findNames(file)
 joinWmoreNames(texto)
-printPopularNames(names)
+print("\n----------------NAMES----------------")
+printPopularNames(names, "Name")
+print("\n----------------LOCATIONS----------------")
+printPopularNames(places, "Location")
+print("\n----------------ORGANIZATIONS----------------")
+printPopularNames(organization, "Organization")
+print("\n----------------GEOPOLITICAL ENTITIES (CITIES,STATES,ETC)----------------")
+printPopularNames(gpe, "GPE")
