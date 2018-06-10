@@ -9,3 +9,5 @@ def whichLang(sub):
 
 
 #__Main
+#subtitles = fileinput.input()  #ler o input
+#whichLang(subtitles)

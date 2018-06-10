@@ -54,14 +54,14 @@ def createDicTextTime(subtitles): #cria um dicionário com o número da legenda 
 			num += 1
 			j = j+z+1
 
-	print(eachSub)
+	#print(eachSub)
 	
 	finalDic = {}
 
-	for keyText,keyTime in zip(eachSub,dicTime):
-		finalDic.update({dicTime.get(keyTime) : eachSub.get(keyText)})
-	od = collections.OrderedDict(sorted(finalDic.items()))
-	return od
+	#for keyText,keyTime in zip(eachSub,dicTime):
+	#	finalDic.update({dicTime.get(keyTime) : eachSub.get(keyText)})
+	#od = collections.OrderedDict(sorted(finalDic.items()))
+	return eachSub
 
 def createDicNamesOrder(subtitles): # cria um dicionário com todos os nomes próprios por número de legenda
 	listText = [] #lista com todas as ocorrências de frases 
@@ -147,19 +147,21 @@ def intersectDicts(dict1,dict2):
 #_____Main______
 subs1 = fileinput.input(sys.argv[1])  #ler o input
 subs2 = fileinput.input(sys.argv[2])
-#createDicTextTime(subtitles)
 dict1 = createDicNamesOrder(subs1)
-
 dict2 = createDicNamesOrder(subs2)
+subs1 = fileinput.input(sys.argv[1])  #ler o input
+subs2 = fileinput.input(sys.argv[2])
+textDict1 = createDicTextTime(subs1)
+textDict2 = createDicTextTime(subs2)
 
 #dict1 = {"1":["Manuel","Anthony"],"2":["Laura"] ,"3":["Bob", "Joe", "Texas"]}
 #dict2 = {"1":["Manuel"],"2":["Anthony"], "3":["Laura"] ,"4":["Bob", "Joe"],"5":["Texas"]}
-print(dict1)
-print(dict2)
-inter1,inter2 = intersectDicts(dict1,dict2)
 
-print(inter1)
-print(inter2)
+#print(dict1)
+#print(dict2)
+inter1,inter2 = intersectDicts(dict1,dict2)
+#print(inter1)
+#print(inter2)
 
 
 
